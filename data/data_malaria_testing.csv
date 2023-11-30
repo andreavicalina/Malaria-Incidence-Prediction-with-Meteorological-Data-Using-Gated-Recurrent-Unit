@@ -1,0 +1,2645 @@
+year,Gender,village,month,date,Occupation,lab-confirm,type_p,klasifikasi,week
+2019,F,KWALA INDAH,11,11/18/2020,Unemployed,RDT,Pf,Indigenous,47
+2019,M,PEMATANG PANJANG,6,6/24/2020,Fisherman,RDT,Pv,Indigenous,26
+2019,F,SUKA RAMAI,11,11/30/2020,Student,Microscope,Pmix,Indigenous,49
+2019,M,GUNTUNG,10,10/9/2020,Student,Microscope,Pv,Indigenous,41
+2019,F,KWALA INDAH,3,3/23/2020,Employees,RDT,Pv,Indigenous,13
+2019,F,GAMBUS LAUT,9,9/24/2020,Student,Microscope,Pmix,Indigenous,39
+2019,M,KWALA INDAH,11,11/26/2020,Employees,Microscope,Pmix,Indigenous,48
+2019,M,SENTANG,6,6/12/2020,Housewife,RDT,Pv,Indigenous,24
+2019,M,KWALA INDAH,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2019,M,LIMAU SUNDAI,9,9/18/2020,Unemployed,Microscope,Pv,Indigenous,38
+2019,F,LABUHAN RUKU,5,5/11/2020,Unemployed,RDT,Pv,Indigenous,20
+2019,M,KWALA INDAH,11,11/30/2020,Student,RDT,Pv,Indigenous,49
+2019,F,KWALA INDAH,3,3/21/2020,Farmer,RDT,Pmix,Indigenous,12
+2019,M,KWALA INDAH,6,6/12/2020,Student,RDT,Pv,Indigenous,24
+2019,F,KWALA INDAH,6,6/11/2020,Student,RDT,Pmix,Indigenous,24
+2019,F,GUNTUNG,3,3/22/2020,Housewife,RDT,Pmix,Indigenous,12
+2019,M,KWALA INDAH,11,11/26/2020,Student,RDT,Pf,Indigenous,48
+2019,M,BAGAN DALAM,6,6/5/2020,Traders,Microscope,Pv,Indigenous,23
+2019,M,DAHARI INDAH,12,12/7/2020,Student,RDT,Pf,Indigenous,50
+2019,F,GAMBUS LAUT,9,9/22/2020,Unemployed,Microscope,Pf,Indigenous,39
+2019,F,BANDAR SONO,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2019,F,UJUNG KUBU,9,9/20/2020,Student,RDT,Pmix,Indigenous,38
+2019,F,KWALA TANJUNG,5,5/15/2020,Fisherman,RDT,Pv,Indigenous,20
+2019,M,KWALA INDAH,5,5/9/2020,Unemployed,RDT,Pv,Indigenous,19
+2019,M,GAMBUS LAUT,8,8/8/2020,Student,RDT,Pf,Indigenous,32
+2019,F,SUKA JAYA,12,12/1/2020,Housewife,Microscope,Pf,Indigenous,49
+2019,M,PERUPUK,10,10/23/2020,Farmer,RDT,Pv,Indigenous,43
+2019,M,SUKA MAJU,11,11/25/2020,Unemployed,RDT,Pf,Indigenous,48
+2019,M,KWALA INDAH,2,2/15/2020,Fisherman,RDT,Pv,Indigenous,7
+2019,M,LIMA LARAS,10,10/6/2020,Fisherman,Microscope,Pv,Indigenous,41
+2019,M,MESJID LAMA,10,10/21/2020,Student,RDT,Pv,Indigenous,43
+2019,M,GAMBUS LAUT,7,7/7/2020,Student,RDT,Pv,Indigenous,28
+2019,F,PEMATANG JERING,11,11/10/2020,Fisherman,RDT,Pmix,Indigenous,46
+2019,F,KWALA INDAH,3,3/16/2020,Student,Microscope,Pv,Indigenous,12
+2019,M,DAHARI INDAH,8,8/25/2020,Student,RDT,Pmix,Indigenous,35
+2019,F,KWALA INDAH,3,3/9/2020,Employees,RDT,Pv,Indigenous,11
+2019,M,KWALA INDAH,3,3/19/2020,Student,RDT,Pv,Indigenous,12
+2019,F,KWALA INDAH,7,7/1/2020,Unemployed,RDT,Pv,Indigenous,27
+2019,F,GUNTUNG,9,9/25/2020,Unemployed,RDT,Pmix,Indigenous,39
+2019,F,PERUPUK,10,10/20/2020,Housewife,Microscope,Pv,Indigenous,43
+2019,M,GAMBUS LAUT,6,6/15/2020,Fisherman,RDT,Pf,Indigenous,25
+2019,M,GUNTUNG,8,8/22/2020,Farmer,RDT,Pmix,Indigenous,34
+2019,F,SUKA JAYA,11,11/25/2020,Housewife,RDT,Pv,Indigenous,48
+2019,M,DAHARI INDAH,7,7/15/2020,Housewife,RDT,Pmix,Indigenous,29
+2019,M,TALI AIR PERMAI,6,6/18/2020,Housewife,RDT,Pv,Indigenous,25
+2019,M,PERUPUK,11,11/5/2020,Student,Microscope,Pv,Indigenous,45
+2019,F,SUKA JAYA,5,5/16/2020,Unemployed,RDT,Pv,Indigenous,20
+2019,M,UJUNG KUBU,3,3/5/2020,Unemployed,Microscope,Pmix,Indigenous,10
+2019,F,PERUPUK,10,10/20/2020,Student,RDT,Pmix,Indigenous,43
+2019,M,SUKA JAYA,4,4/14/2020,Housewife,RDT,Pv,Indigenous,16
+2019,F,PERUPUK,9,9/7/2020,Housewife,RDT,Pmix,Indigenous,37
+2019,M,KWALA GUNUNG,5,5/10/2020,Fisherman,Microscope,Pf,Indigenous,19
+2019,F,KWALA INDAH,11,11/19/2020,Housewife,RDT,Pv,Indigenous,47
+2019,M,KWALA GUNUNG,3,3/12/2020,Student,Microscope,Pv,Indigenous,11
+2019,M,TALI AIR PERMAI,5,5/11/2020,Student,Microscope,Pv,Indigenous,20
+2019,F,TALI AIR PERMAI,11,11/12/2020,Gardening,Microscope,Pf,Indigenous,46
+2019,F,UJUNG KUBU,8,8/8/2020,Housewife,RDT,Pv,Indigenous,32
+2019,M,KWALA INDAH,6,6/12/2020,Student,Microscope,Pmix,Indigenous,24
+2019,M,BAGAN DALAM,12,12/16/2020,Student,RDT,Pf,Indigenous,51
+2019,F,Outside the Regency,8,8/30/2020,Student,Microscope,Pmix,Indigenous,35
+2019,F,KWALA INDAH,6,6/3/2020,Fisherman,RDT,Pv,Indigenous,23
+2019,M,KWALA INDAH,12,12/6/2020,Housewife,RDT,Pmix,Indigenous,49
+2019,M,TITI PAYUNG,8,8/7/2020,Student,RDT,Pf,Indigenous,32
+2019,M,SUKA JAYA,3,3/5/2020,Student,Microscope,Pf,Indigenous,10
+2019,F,KWALA INDAH,5,5/13/2020,Fisherman,RDT,Pf,Indigenous,20
+2019,F,LABUHAN RUKU,2,2/29/2020,Fisherman,RDT,Pv,Indigenous,9
+2019,M,KWALA INDAH,1,1/31/2020,Student,RDT,Pf,Indigenous,5
+2019,F,KWALA INDAH,11,11/20/2020,Student,RDT,Pv,Indigenous,47
+2019,M,KWALA INDAH,9,9/29/2020,Student,RDT,Pf,Indigenous,40
+2019,M,PERUPUK,9,9/29/2020,Student,Microscope,Pv,Indigenous,40
+2019,F,KWALA INDAH,11,11/19/2020,Student,Microscope,Pv,Indigenous,47
+2019,M,SUKA JAYA,9,9/30/2020,Student,RDT,Pv,Indigenous,40
+2019,F,KWALA INDAH,11,11/3/2020,Student,RDT,Pv,Indigenous,45
+2019,F,PERUPUK,10,10/20/2020,Unemployed,Microscope,Pv,Indigenous,43
+2019,M,PERUPUK,4,4/12/2020,Unemployed,RDT,Pmix,Indigenous,15
+2019,F,KWALA INDAH,5,5/18/2020,Unemployed,RDT,Pmix,Indigenous,21
+2019,F,PERUPUK,5,5/13/2020,Student,RDT,Pv,Indigenous,20
+2019,M,SUKA JAYA,5,5/15/2020,Student,RDT,Pmix,Indigenous,20
+2019,M,KWALA INDAH,11,11/17/2020,Student,RDT,Pmix,Indigenous,47
+2019,M,TALI AIR PERMAI,6,6/19/2020,Student,Microscope,Pv,Indigenous,25
+2019,F,PERUPUK,12,12/7/2020,Student,RDT,Pv,Indigenous,50
+2019,M,LIMA LARAS,5,5/25/2020,Student,RDT,Pv,Indigenous,22
+2019,M,DAHARI INDAH,11,11/25/2020,Student,Microscope,Pf,Indigenous,48
+2019,M,GAMBUS LAUT,3,3/9/2020,Fisherman,Microscope,Pv,Indigenous,11
+2019,M,KWALA INDAH,8,8/3/2020,Student,Microscope,Pv,Indigenous,32
+2019,F,GAMBUS LAUT,3,3/7/2020,Student,Microscope,Pv,Indigenous,10
+2019,M,TANJUNG KUBAH,9,9/21/2020,Farmer,RDT,Pv,Indigenous,39
+2019,M,UJUNG KUBU,9,9/3/2020,Student,Microscope,Pv,Indigenous,36
+2019,M,UJUNG KUBU,3,3/10/2020,Traders,RDT,Pv,Indigenous,11
+2019,F,BANDAR SONO,10,10/2/2020,Student,RDT,Pv,Indigenous,40
+2019,M,PEMATANG CENGKRING,3,3/21/2020,Student,RDT,Pv,Indigenous,12
+2019,F,DAHARI SELEBAR,6,6/4/2020,Student,Microscope,Pv,Indigenous,23
+2019,F,UJUNG KUBU,1,1/17/2020,Farmer,Microscope,Pv,Indigenous,3
+2019,M,KWALA INDAH,4,4/22/2020,Employees,Microscope,Pv,Indigenous,17
+2019,M,KWALA INDAH,6,6/25/2020,Unemployed,Microscope,Pmix,Indigenous,26
+2019,F,PERUPUK,9,9/9/2020,Student,Microscope,Pmix,Indigenous,37
+2019,F,TALI AIR PERMAI,9,9/29/2020,Unemployed,RDT,Pmix,Indigenous,40
+2019,M,KWALA INDAH,6,6/15/2020,Student,Microscope,Pmix,Indigenous,25
+2019,M,KWALA INDAH,12,12/20/2020,Fisherman,Microscope,Pv,Indigenous,51
+2019,M,SUKA JAYA,12,12/2/2020,Unemployed,Microscope,Pf,Indigenous,49
+2019,F,PERUPUK,11,11/25/2020,Unemployed,RDT,Pf,Indigenous,48
+2019,M,KWALA INDAH,10,10/26/2020,Employees,Microscope,Pv,Indigenous,44
+2019,M,UJUNG KUBU,9,9/20/2020,Fisherman,RDT,Pf,Indigenous,38
+2019,F,Outside the PHC,10,10/8/2020,Housewife,RDT,Pv,Indigenous,41
+2019,F,PAHANG,3,3/26/2020,Fisherman,RDT,Pv,Indigenous,13
+2019,M,PERUPUK,8,8/25/2020,Unemployed,Microscope,Pv,Indigenous,35
+2019,M,Outside the PHC,12,12/4/2020,Farmer,RDT,Pv,Indigenous,49
+2019,F,GAMBUS LAUT,12,12/9/2020,Farmer,Microscope,Pv,Indigenous,50
+2019,M,KWALA INDAH,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2019,M,SUKA JAYA,12,12/28/2020,Student,RDT,Pmix,Indigenous,53
+2019,M,LALANG,12,12/8/2020,Student,RDT,Pv,Indigenous,50
+2019,M,SUKA MAJU,1,1/16/2020,Housewife,Microscope,Pf,Indigenous,3
+2019,F,KWALA INDAH,7,7/28/2020,Housewife,RDT,Pv,Indigenous,31
+2019,F,BOGAK,8,8/12/2020,Housewife,RDT,Pmix,Indigenous,33
+2019,F,LIMA LARAS,3,3/5/2020,Unemployed,RDT,Pv,Indigenous,10
+2019,F,KWALA INDAH,10,10/22/2020,Housewife,Microscope,Pv,Indigenous,43
+2019,M,KWALA GUNUNG,7,7/23/2020,Housewife,RDT,Pf,Indigenous,30
+2019,M,KWALA INDAH,3,3/26/2020,Student,Microscope,Pf,Indigenous,13
+2019,M,BOGAK,9,9/28/2020,Housewife,RDT,Pv,Indigenous,40
+2019,F,TITI PAYUNG,11,11/7/2020,Fisherman,RDT,Pf,Indigenous,45
+2019,F,PERUPUK,10,10/16/2020,Student,Microscope,Pv,Indigenous,42
+2019,M,KWALA INDAH,12,12/1/2020,Petambak,Microscope,Pv,Indigenous,49
+2019,M,TALI AIR PERMAI,10,10/22/2020,Student,Microscope,Pv,Indigenous,43
+2019,F,PERUPUK,11,11/9/2020,Student,RDT,Pv,Indigenous,46
+2019,M,TALI AIR PERMAI,4,4/4/2020,Gardening,Microscope,Pv,Indigenous,14
+2019,F,TALI AIR PERMAI,6,6/26/2020,Student,Microscope,Pv,Indigenous,26
+2019,M,Outside the PHC,10,10/20/2020,Traders,RDT,Pv,Indigenous,43
+2019,F,DAHARI INDAH,12,12/6/2020,Unemployed,Microscope,Pv,Indigenous,49
+2019,F,PEMATANG CENGKRING,6,6/18/2020,Traders,Microscope,Pf,Indigenous,25
+2019,F,BAGAN DALAM,10,10/13/2020,Housewife,RDT,Pv,Indigenous,42
+2019,F,SENTANG,6,6/3/2020,Student,Microscope,Pv,Indigenous,23
+2019,F,KWALA INDAH,11,11/24/2020,Student,RDT,Pv,Indigenous,48
+2019,M,KWALA INDAH,7,7/27/2020,Unemployed,RDT,Pmix,Indigenous,31
+2019,F,SUKA JAYA,10,10/10/2020,Housewife,Microscope,Pv,Indigenous,41
+2019,M,KWALA INDAH,9,9/13/2020,Fisherman,Microscope,Pv,Indigenous,37
+2019,M,SUKA MAJU,12,12/15/2020,Unemployed,RDT,Pv,Indigenous,51
+2019,F,KAMPUNG LALANG,6,6/1/2020,Fisherman,RDT,Pv,Indigenous,23
+2019,M,SUKA JAYA,9,9/25/2020,Housewife,RDT,Pmix,Indigenous,39
+2019,F,GUNTUNG,4,4/22/2020,Student,RDT,Pv,Indigenous,17
+2019,F,KWALA INDAH,7,7/21/2020,Unemployed,RDT,Pmix,Indigenous,30
+2019,F,UJUNG KUBU,10,10/5/2020,Student,Microscope,Pmix,Indigenous,41
+2019,F,KWALA GUNUNG,4,4/11/2020,Student,RDT,Pmix,Indigenous,15
+2019,F,PEMATANG PANJANG,7,7/22/2020,Unemployed,RDT,Pf,Indigenous,30
+2019,F,KWALA INDAH,1,1/4/2020,Housewife,RDT,Pv,Indigenous,1
+2019,F,TALI AIR PERMAI,6,6/18/2020,Student,RDT,Pv,Indigenous,25
+2019,F,KWALA INDAH,11,11/5/2020,Student,RDT,Pv,Indigenous,45
+2019,M,SENTANG,9,9/22/2020,Student,RDT,Pv,Indigenous,39
+2019,M,PERUPUK,11,11/25/2020,Unemployed,RDT,Pv,Indigenous,48
+2019,F,KWALA INDAH,6,6/12/2020,Student,Microscope,Pv,Indigenous,24
+2019,F,SUKA MAJU,9,9/11/2020,Fisherman,RDT,Pv,Indigenous,37
+2019,F,PERUPUK,12,12/8/2020,Fisherman,Microscope,Pv,Indigenous,50
+2019,M,PERUPUK,7,7/29/2020,Unemployed,Microscope,Pv,Indigenous,31
+2019,M,PERUPUK,10,10/10/2020,Farmer,RDT,Pv,Indigenous,41
+2019,M,Outside the PHC,6,6/3/2020,Fisherman,RDT,Pv,Indigenous,23
+2019,M,PERUPUK,7,7/3/2020,Student,RDT,Pv,Indigenous,27
+2019,M,KWALA INDAH,4,4/22/2020,Housewife,Microscope,Pv,Indigenous,17
+2019,M,KWALA INDAH,12,12/5/2020,Student,Microscope,Pv,Indigenous,49
+2019,F,KWALA INDAH,6,6/8/2020,Fisherman,RDT,Pv,Indigenous,24
+2019,M,SUKA RAMAI,7,7/11/2020,Student,RDT,Pv,Indigenous,28
+2019,F,KWALA INDAH,5,5/27/2020,Student,RDT,Pf,Indigenous,22
+2019,F,PERUPUK,9,9/22/2020,Housewife,Microscope,Pv,Indigenous,39
+2019,M,KWALA INDAH,7,7/23/2020,Housewife,RDT,Pv,Indigenous,30
+2019,F,PERUPUK,12,12/1/2020,Student,Microscope,Pmix,Indigenous,49
+2019,M,KWALA INDAH,9,9/3/2020,Student,RDT,Pf,Indigenous,36
+2019,M,KWALA INDAH,10,10/15/2020,Unemployed,RDT,Pf,Indigenous,42
+2019,M,PERUPUK,2,2/13/2020,Fisherman,Microscope,Pf,Indigenous,7
+2019,M,Outside the PHC,9,9/19/2020,Traders,Microscope,Pf,Indigenous,38
+2019,F,SUKA MAJU,5,5/9/2020,Student,RDT,Pv,Indigenous,19
+2019,M,TALI AIR PERMAI,6,6/26/2020,Student,RDT,Pv,Indigenous,26
+2019,M,KWALA INDAH,9,9/29/2020,Unemployed,RDT,Pv,Indigenous,40
+2019,M,KWALA INDAH,9,9/30/2020,Student,RDT,Pv,Indigenous,40
+2019,F,TALI AIR PERMAI,10,10/24/2020,Student,Microscope,Pmix,Indigenous,43
+2019,M,KWALA INDAH,10,10/12/2020,Farmer,Microscope,Pv,Indigenous,42
+2019,M,PERUPUK,3,3/22/2020,Fisherman,Microscope,Pf,Indigenous,12
+2019,F,BOGAK,11,11/18/2020,Employees,RDT,Pf,Indigenous,47
+2019,M,KWALA INDAH,5,5/13/2020,Farmer,RDT,Pf,Indigenous,20
+2019,M,KWALA INDAH,10,10/5/2020,Student,Microscope,Pv,Indigenous,41
+2019,F,KWALA INDAH,3,3/21/2020,Student,Microscope,Pmix,Indigenous,12
+2019,M,PERUPUK,6,6/17/2020,Housewife,RDT,Pmix,Indigenous,25
+2019,M,GAMBUS LAUT,6,6/19/2020,Unemployed,RDT,Pv,Indigenous,25
+2019,M,KWALA INDAH,11,11/25/2020,Traders,Microscope,Pv,Indigenous,48
+2019,F,SUKA JAYA,6,6/5/2020,Student,RDT,Pv,Indigenous,23
+2019,M,PERUPUK,3,3/19/2020,Unemployed,Microscope,Pf,Indigenous,12
+2019,F,LIMA LARAS,8,8/13/2020,Student,Microscope,Pmix,Indigenous,33
+2019,M,KWALA INDAH,9,9/3/2020,Unemployed,Microscope,Pmix,Indigenous,36
+2019,F,KWALA INDAH,9,9/12/2020,Student,Microscope,Pv,Indigenous,37
+2019,M,TITI MERAH,10,10/5/2020,Traders,RDT,Pmix,Indigenous,41
+2019,F,KWALA INDAH,11,11/27/2020,Student,RDT,Pv,Indigenous,48
+2019,M,KWALA INDAH,6,6/19/2020,Employees,RDT,Pmix,Indigenous,25
+2019,M,TALI AIR PERMAI,12,12/7/2020,Student,Microscope,Pv,Indigenous,50
+2019,M,KWALA INDAH,12,12/4/2020,Student,Microscope,Pv,Indigenous,49
+2019,M,KWALA INDAH,3,3/10/2020,Student,Microscope,Pv,Indigenous,11
+2019,M,KWALA INDAH,11,11/24/2020,Housewife,Microscope,Pv,Indigenous,48
+2019,F,SUKA MAJU,9,9/8/2020,Student,RDT,Pmix,Indigenous,37
+2019,M,UJUNG KUBU,5,5/16/2020,Student,RDT,Pv,Indigenous,20
+2019,M,BOGAK,11,11/3/2020,Fisherman,RDT,Pmix,Indigenous,45
+2019,F,TALI AIR PERMAI,9,9/29/2020,Housewife,Microscope,Pmix,Indigenous,40
+2019,M,KWALA INDAH,11,11/19/2020,Student,RDT,Pv,Indigenous,47
+2019,M,GAMBUS LAUT,7,7/22/2020,Student,RDT,Pv,Indigenous,30
+2019,M,PERUPUK,8,8/3/2020,Student,RDT,Pv,Indigenous,32
+2019,F,SENTANG,9,9/29/2020,Housewife,RDT,Pv,Indigenous,40
+2019,F,Outside the PHC,8,8/11/2020,Fisherman,Microscope,Pv,Indigenous,33
+2019,F,PERUPUK,5,5/18/2020,Gardening,RDT,Pv,Indigenous,21
+2019,F,PERUPUK,5,5/17/2020,Fisherman,Microscope,Pmix,Indigenous,20
+2019,M,PERUPUK,9,9/24/2020,Unemployed,Microscope,Pmix,Indigenous,39
+2019,F,UJUNG KUBU,7,7/30/2020,Student,Microscope,Pv,Indigenous,31
+2019,M,TALI AIR PERMAI,12,12/7/2020,Housewife,Microscope,Pv,Indigenous,50
+2019,M,TANJUNG TIRAM,4,4/24/2020,Gardening,Microscope,Pv,Indigenous,17
+2019,M,SENTANG,8,8/25/2020,Student,RDT,Pv,Indigenous,35
+2019,M,TALI AIR PERMAI,3,3/18/2020,Student,RDT,Pv,Indigenous,12
+2019,F,GAMBUS LAUT,1,1/29/2020,Unemployed,Microscope,Pv,Indigenous,5
+2019,F,Outside the PHC,3,3/21/2020,Student,Microscope,Pv,Indigenous,12
+2019,F,PERUPUK,11,11/30/2020,Student,RDT,Pmix,Indigenous,49
+2019,M,TALI AIR PERMAI,7,7/14/2020,Unemployed,Microscope,Pv,Indigenous,29
+2019,M,PERUPUK,1,1/17/2020,Student,Microscope,Pmix,Indigenous,3
+2019,F,BAGAN DALAM,6,6/18/2020,Fisherman,Microscope,Pv,Indigenous,25
+2019,F,BANDAR SONO,7,7/27/2020,Housewife,RDT,Pv,Indigenous,31
+2019,M,UJUNG KUBU,7,7/11/2020,Student,Microscope,Pv,Indigenous,28
+2019,F,KWALA INDAH,2,2/25/2020,Student,RDT,Pv,Indigenous,9
+2019,F,KWALA INDAH,10,10/12/2020,Student,RDT,Pf,Indigenous,42
+2019,F,KWALA INDAH,11,11/2/2020,Fisherman,Microscope,Pmix,Indigenous,45
+2019,M,KWALA INDAH,4,4/1/2020,Fisherman,Microscope,Pf,Indigenous,14
+2019,F,TALI AIR PERMAI,10,10/29/2020,Student,Microscope,Pmix,Indigenous,44
+2019,F,KWALA INDAH,5,5/10/2020,Fisherman,RDT,Pf,Indigenous,19
+2019,M,BAGAN DALAM,10,10/7/2020,Housewife,Microscope,Pv,Indigenous,41
+2019,F,PEMATANG JERING,11,11/26/2020,Housewife,RDT,Pv,Indigenous,48
+2019,F,SUKA JAYA,3,3/3/2020,Housewife,RDT,Pv,Indigenous,10
+2019,M,Outside the PHC,8,8/3/2020,Student,Microscope,Pmix,Indigenous,32
+2019,F,KWALA TANJUNG,10,10/22/2020,Student,RDT,Pv,Indigenous,43
+2019,M,UJUNG KUBU,4,4/8/2020,Student,Microscope,Pv,Indigenous,15
+2019,F,GAMBUS LAUT,11,11/28/2020,Student,RDT,Pv,Indigenous,48
+2019,F,SUKA MAJU,1,1/9/2020,Unemployed,RDT,Pv,Indigenous,2
+2019,M,GUNTUNG,7,7/11/2020,Farmer,RDT,Pv,Indigenous,28
+2019,F,KWALA INDAH,6,6/15/2020,Housewife,RDT,Pmix,Indigenous,25
+2019,M,PERUPUK,2,2/19/2020,Student,RDT,Pmix,Indigenous,8
+2019,M,KWALA TANJUNG,9,9/25/2020,Housewife,RDT,Pmix,Indigenous,39
+2019,F,TALI AIR PERMAI,9,9/22/2020,Fisherman,RDT,Pv,Indigenous,39
+2019,F,SUKA MAJU,10,10/6/2020,Student,Microscope,Pv,Indigenous,41
+2019,M,LABUHAN RUKU,6,6/17/2020,Student,Microscope,Pmix,Indigenous,25
+2019,F,SENTANG,1,1/29/2020,Traders,RDT,Pmix,Indigenous,5
+2019,M,GAMBUS LAUT,7,7/1/2020,Gardening,Microscope,Pv,Indigenous,27
+2019,M,TANJUNG KUBAH,7,7/6/2020,Student,RDT,Pv,Indigenous,28
+2019,M,KWALA INDAH,7,7/22/2020,Student,Microscope,Pmix,Indigenous,30
+2019,M,BAGAN BARU,6,6/12/2020,Unemployed,RDT,Pv,Indigenous,24
+2019,F,PERUPUK,6,6/12/2020,Housewife,Microscope,Pv,Indigenous,24
+2019,F,KWALA INDAH,6,6/15/2020,Unemployed,Microscope,Pv,Indigenous,25
+2019,F,KWALA INDAH,12,12/1/2020,Unemployed,Microscope,Pv,Indigenous,49
+2019,F,KWALA INDAH,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2019,M,SUKA RAMAI,3,3/21/2020,Unemployed,Microscope,Pmix,Indigenous,12
+2019,F,SENTANG,7,7/13/2020,Student,Microscope,Pv,Indigenous,29
+2019,F,BAGAN ARYA,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2019,M,GAMBUS LAUT,12,12/13/2020,Student,RDT,Pmix,Indigenous,50
+2019,F,BAGAN DALAM,5,5/15/2020,Fisherman,Microscope,Pf,Indigenous,20
+2019,M,Outside the PHC,9,9/18/2020,Housewife,Microscope,Pv,Indigenous,38
+2019,M,LABUHAN RUKU,9,9/28/2020,Fisherman,Microscope,Pv,Indigenous,40
+2019,M,KWALA INDAH,5,5/8/2020,Fisherman,RDT,Pv,Indigenous,19
+2019,M,TALI AIR PERMAI,2,2/28/2020,Student,Microscope,Pv,Indigenous,9
+2019,M,TALI AIR PERMAI,2,2/29/2020,Unemployed,Microscope,Pv,Indigenous,9
+2019,F,TITI PUTIH,4,4/7/2020,Unemployed,Microscope,Pv,Indigenous,15
+2019,F,SUKA JAYA,3,3/26/2020,Fisherman,RDT,Pf,Indigenous,13
+2019,M,PERUPUK,8,8/12/2020,Unemployed,Microscope,Pv,Indigenous,33
+2019,M,KWALA INDAH,1,1/16/2020,Unemployed,RDT,Pmix,Indigenous,3
+2019,M,Outside the PHC,1,1/16/2020,Student,RDT,Pmix,Indigenous,3
+2019,M,PERUPUK,6,6/17/2020,Student,Microscope,Pmix,Indigenous,25
+2019,F,BAGAN BARU,11,11/9/2020,Student,Microscope,Pv,Indigenous,46
+2019,F,TANJUNG MULIA,3,3/26/2020,Traders,RDT,Pv,Indigenous,13
+2019,M,KWALA INDAH,12,12/8/2020,Student,Microscope,Pv,Indigenous,50
+2019,F,BAGAN DALAM,3,3/3/2020,Fisherman,Microscope,Pv,Indigenous,10
+2019,M,KWALA INDAH,7,7/22/2020,Student,Microscope,Pv,Indigenous,30
+2019,M,KWALA INDAH,4,4/14/2020,Student,RDT,Pv,Indigenous,16
+2019,F,Outside the PHC,6,6/23/2020,Student,RDT,Pv,Indigenous,26
+2019,M,PEMATANG RAMBAI,9,9/21/2020,Unemployed,RDT,Pv,Indigenous,39
+2019,M,PERUPUK,4,4/25/2020,Student,RDT,Pv,Indigenous,17
+2019,F,KWALA INDAH,6,6/24/2020,Unemployed,RDT,Pv,Indigenous,26
+2019,M,TALI AIR PERMAI,6,6/24/2020,Housewife,RDT,Pv,Indigenous,26
+2019,M,SUKA RAMAI,11,11/17/2020,Unemployed,RDT,Pmix,Indigenous,47
+2019,M,SUKA RAMAI,6,6/25/2020,Fisherman,Microscope,Pv,Indigenous,26
+2019,M,KWALA INDAH,11,11/17/2020,Student,Microscope,Pf,Indigenous,47
+2019,F,BAGAN ARYA,6,6/9/2020,Student,Microscope,Pmix,Indigenous,24
+2019,F,PERUPUK,10,10/22/2020,Student,Microscope,Pv,Indigenous,43
+2019,F,DAHARI SELEBAR,7,7/14/2020,Unemployed,RDT,Pmix,Indigenous,29
+2019,F,KWALA INDAH,3,3/3/2020,Student,RDT,Pv,Indigenous,10
+2019,F,KAMPUNG LALANG,10,10/6/2020,Employees,RDT,Pv,Indigenous,41
+2019,F,DAHARI SELEBAR,11,11/4/2020,Student,RDT,Pv,Indigenous,45
+2019,M,DAHARI INDAH,11,11/12/2020,Fisherman,RDT,Pmix,Indigenous,46
+2019,F,KWALA INDAH,2,2/23/2020,Student,RDT,Pv,Indigenous,8
+2019,F,KWALA INDAH,6,6/1/2020,Student,Microscope,Pv,Indigenous,23
+2019,F,BAGAN BARU,5,5/4/2020,Housewife,RDT,Pv,Indigenous,19
+2019,M,KWALA INDAH,11,11/23/2020,Student,RDT,Pf,Indigenous,48
+2019,M,SUKA JAYA,11,11/24/2020,Farmer,Microscope,Pv,Indigenous,48
+2019,M,PEMATANG PANJANG,10,10/14/2020,Housewife,RDT,Pf,Indigenous,42
+2019,M,KWALA INDAH,9,9/22/2020,Employees,RDT,Pv,Indigenous,39
+2019,F,KWALA INDAH,11,11/9/2020,Housewife,Microscope,Pv,Indigenous,46
+2019,F,TANJUNG TIRAM,7,7/29/2020,Fisherman,Microscope,Pf,Indigenous,31
+2019,F,LABUHAN RUKU,9,9/7/2020,Traders,Microscope,Pv,Indigenous,37
+2019,F,SUKA RAMAI,8,8/10/2020,Student,RDT,Pv,Indigenous,33
+2019,F,DAHARI INDAH,6,6/8/2020,Unemployed,RDT,Pf,Indigenous,24
+2019,M,PAHANG,11,11/26/2020,Student,RDT,Pv,Indigenous,48
+2019,F,KWALA INDAH,3,3/26/2020,Student,RDT,Pv,Indigenous,13
+2019,M,TALI AIR PERMAI,6,6/24/2020,Traders,Microscope,Pv,Indigenous,26
+2019,M,KWALA INDAH,12,12/1/2020,Student,Microscope,Pf,Indigenous,49
+2019,F,KWALA INDAH,7,7/27/2020,Farmer,RDT,Pv,Indigenous,31
+2019,M,PERUPUK,5,5/8/2020,Fisherman,RDT,Pv,Indigenous,19
+2019,M,KWALA INDAH,12,12/1/2020,Traders,RDT,Pf,Indigenous,49
+2019,F,GUNTUNG,7,7/2/2020,Student,RDT,Pmix,Indigenous,27
+2019,M,SUKA MAJU,10,10/13/2020,Unemployed,Microscope,Pv,Indigenous,42
+2019,F,GAMBUS LAUT,10,10/7/2020,Unemployed,Microscope,Pmix,Indigenous,41
+2019,M,PERUPUK,1,1/2/2020,Unemployed,Microscope,Pf,Indigenous,1
+2019,F,KWALA INDAH,10,10/25/2020,Student,Microscope,Pv,Indigenous,43
+2019,M,BULAN-BULAN,10,10/29/2020,Unemployed,Microscope,Pmix,Indigenous,44
+2019,F,PEMATANG CENGKRING,3,3/7/2020,Housewife,Microscope,Pf,Indigenous,10
+2019,M,UJUNG KUBU,9,9/25/2020,Student,Microscope,Pv,Indigenous,39
+2019,M,KWALA INDAH,9,9/11/2020,Student,Microscope,Pf,Indigenous,37
+2019,M,KWALA INDAH,6,6/23/2020,Housewife,RDT,Pf,Indigenous,26
+2019,F,SUKA MAJU,1,1/16/2020,Student,Microscope,Pf,Indigenous,3
+2019,M,LIMAU SUNDAI,2,2/18/2020,Unemployed,RDT,Pf,Indigenous,8
+2019,F,SUKA RAMAI,6,6/24/2020,Fisherman,Microscope,Pv,Indigenous,26
+2019,F,GUNTUNG,9,9/13/2020,Student,RDT,Pv,Indigenous,37
+2019,M,KWALA TANJUNG,2,2/13/2020,Fisherman,Microscope,Pf,Indigenous,7
+2019,M,PERUPUK,11,11/7/2020,Fisherman,RDT,Pf,Indigenous,45
+2019,F,LIMA LARAS,6,6/30/2020,Fisherman,Microscope,Pmix,Indigenous,27
+2019,F,UJUNG KUBU,3,3/17/2020,Student,Microscope,Pv,Indigenous,12
+2019,M,SENTANG,10,10/7/2020,Fisherman,Microscope,Pv,Indigenous,41
+2019,F,KWALA INDAH,7,7/26/2020,Student,Microscope,Pmix,Indigenous,30
+2019,M,TALI AIR PERMAI,11,11/25/2020,Housewife,Microscope,Pv,Indigenous,48
+2019,F,UJUNG KUBU,11,11/22/2020,Fisherman,Microscope,Pmix,Indigenous,47
+2019,M,UJUNG KUBU,10,10/2/2020,Fisherman,Microscope,Pv,Indigenous,40
+2019,M,GUNTUNG,10,10/2/2020,Student,Microscope,Pv,Indigenous,40
+2019,M,SUKA MAJU,1,1/31/2020,Student,RDT,Pv,Indigenous,5
+2019,M,KWALA INDAH,10,10/2/2020,Unemployed,RDT,Pf,Indigenous,40
+2019,F,UJUNG KUBU,10,10/22/2020,Traders,RDT,Pf,Indigenous,43
+2019,F,PEMATANG JERING,8,8/11/2020,Fisherman,Microscope,Pv,Indigenous,33
+2019,M,KWALA INDAH,7,7/1/2020,Housewife,Microscope,Pmix,Indigenous,27
+2019,M,KWALA INDAH,11,11/7/2020,Student,RDT,Pf,Indigenous,45
+2019,F,GUNTUNG,12,12/10/2020,Student,Microscope,Pf,Indigenous,50
+2019,F,KWALA INDAH,11,11/17/2020,Student,Microscope,Pmix,Indigenous,47
+2019,F,SUKA MAJU,11,11/2/2020,Unemployed,RDT,Pv,Indigenous,45
+2019,M,BANDAR RAHMAD,5,5/26/2020,Student,RDT,Pv,Indigenous,22
+2019,M,DAHARI SELEBAR,11,11/14/2020,Student,RDT,Pf,Indigenous,46
+2019,M,UJUNG KUBU,7,7/11/2020,Student,RDT,Pv,Indigenous,28
+2019,M,Outside the PHC,5,5/21/2020,Housewife,RDT,Pv,Indigenous,21
+2019,M,TANJUNG KUBAH,2,2/20/2020,Unemployed,Microscope,Pv,Indigenous,8
+2019,M,GAMBUS LAUT,10,10/5/2020,Housewife,RDT,Pv,Indigenous,41
+2019,F,KWALA INDAH,11,11/16/2020,Traders,Microscope,Pv,Indigenous,47
+2019,F,UJUNG KUBU,9,9/16/2020,Student,RDT,Pv,Indigenous,38
+2019,M,SUKA MAJU,10,10/25/2020,Unemployed,Microscope,Pf,Indigenous,43
+2019,M,LABUHAN RUKU,11,11/16/2020,Fisherman,Microscope,Pv,Indigenous,47
+2019,F,KWALA INDAH,9,9/13/2020,Housewife,Microscope,Pv,Indigenous,37
+2019,F,KWALA INDAH,1,1/5/2020,Student,Microscope,Pf,Indigenous,1
+2019,F,TALI AIR PERMAI,5,5/26/2020,Housewife,Microscope,Pv,Indigenous,22
+2019,F,GUNTUNG,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2019,M,BAGAN DALAM,5,5/11/2020,Unemployed,Microscope,Pv,Indigenous,20
+2019,F,PADANG GENTING,6,6/30/2020,Student,Microscope,Pv,Indigenous,27
+2019,M,PERUPUK,8,8/12/2020,Student,RDT,Pmix,Indigenous,33
+2019,M,GAMBUS LAUT,4,4/18/2020,Student,RDT,Pmix,Indigenous,16
+2019,F,KWALA INDAH,8,8/1/2020,Student,Microscope,Pmix,Indigenous,31
+2019,M,PERUPUK,9,9/24/2020,Housewife,Microscope,Pmix,Indigenous,39
+2019,F,KWALA INDAH,5,5/18/2020,Fisherman,Microscope,Pv,Indigenous,21
+2019,F,SENTANG,11,11/19/2020,Housewife,Microscope,Pmix,Indigenous,47
+2019,M,BAGAN ARYA,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2019,F,DAHARI SELEBAR,5,5/25/2020,Unemployed,RDT,Pf,Indigenous,22
+2019,M,UJUNG KUBU,5,5/5/2020,Student,RDT,Pv,Indigenous,19
+2019,F,BAGAN DALAM,11,11/3/2020,Student,RDT,Pmix,Indigenous,45
+2019,F,PERUPUK,12,12/20/2020,Farmer,Microscope,Pmix,Indigenous,51
+2019,F,UJUNG KUBU,3,3/3/2020,Farmer,Microscope,Pf,Indigenous,10
+2019,M,SENTANG,6,6/5/2020,Fisherman,RDT,Pv,Indigenous,23
+2019,F,BAGAN BARU,9,9/14/2020,Housewife,RDT,Pv,Indigenous,38
+2019,F,GUNTUNG,11,11/19/2020,Fisherman,RDT,Pv,Indigenous,47
+2019,M,BAGAN DALAM,12,12/1/2020,Farmer,RDT,Pv,Indigenous,49
+2019,F,PERUPUK,5,5/9/2020,Unemployed,RDT,Pmix,Indigenous,19
+2019,M,GUNTUNG,9,9/22/2020,Student,Microscope,Pv,Indigenous,39
+2019,F,KWALA INDAH,9,9/8/2020,Housewife,Microscope,Pf,Indigenous,37
+2019,F,KWALA INDAH,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2019,F,Outside the PHC,4,4/1/2020,Housewife,Microscope,Pmix,Indigenous,14
+2019,F,MESJID LAMA,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2019,M,PERUPUK,12,12/17/2020,Student,RDT,Pmix,Indigenous,51
+2019,M,PAHANG,7,7/22/2020,Student,Microscope,Pv,Indigenous,30
+2019,M,KWALA INDAH,12,12/13/2020,Unemployed,Microscope,Pv,Indigenous,50
+2019,M,PERUPUK,10,10/14/2020,Student,RDT,Pv,Indigenous,42
+2019,M,TALI AIR PERMAI,2,2/28/2020,Housewife,RDT,Pf,Indigenous,9
+2019,M,PERUPUK,9,9/21/2020,Unemployed,Microscope,Pmix,Indigenous,39
+2019,F,SUKA RAMAI,8,8/4/2020,Student,Microscope,Pv,Indigenous,32
+2019,F,UJUNG KUBU,12,12/30/2020,Housewife,RDT,Pv,Indigenous,53
+2019,F,KWALA TANJUNG,5,5/5/2020,Housewife,Microscope,Pmix,Indigenous,19
+2019,M,PERUPUK,2,2/13/2020,Unemployed,RDT,Pmix,Indigenous,7
+2019,F,KWALA INDAH,11,11/5/2020,Traders,Microscope,Pmix,Indigenous,45
+2019,F,TALI AIR PERMAI,9,9/29/2020,Student,Microscope,Pv,Indigenous,40
+2019,F,BAGAN ARYA,12,12/16/2020,Student,Microscope,Pv,Indigenous,51
+2019,F,KWALA INDAH,11,11/23/2020,Student,Microscope,Pmix,Indigenous,48
+2019,M,PERUPUK,6,6/25/2020,Student,RDT,Pmix,Indigenous,26
+2019,F,KWALA INDAH,4,4/11/2020,Student,Microscope,Pv,Indigenous,15
+2019,M,UJUNG KUBU,5,5/15/2020,Fisherman,RDT,Pmix,Indigenous,20
+2019,F,KWALA INDAH,3,3/23/2020,Farmer,Microscope,Pv,Indigenous,13
+2019,F,SUKA JAYA,6,6/24/2020,Farmer,RDT,Pv,Indigenous,26
+2019,M,BANDAR SONO,11,11/27/2020,Unemployed,Microscope,Pv,Indigenous,48
+2019,F,TALI AIR PERMAI,3,3/16/2020,Unemployed,Microscope,Pv,Indigenous,12
+2019,F,PADANG GENTING,4,4/6/2020,Student,Microscope,Pmix,Indigenous,15
+2019,M,TANJUNG TIRAM,12,12/4/2020,Housewife,Microscope,Pv,Indigenous,49
+2019,F,MESJID LAMA,11,11/28/2020,Student,RDT,Pv,Indigenous,48
+2019,F,PADANG GENTING,9,9/25/2020,Unemployed,Microscope,Pv,Indigenous,39
+2019,M,BAGAN DALAM,7,7/9/2020,Unemployed,RDT,Pv,Indigenous,28
+2019,M,KWALA INDAH,6,6/17/2020,Unemployed,Microscope,Pmix,Indigenous,25
+2019,M,INDRA YAMAN,4,4/11/2020,Student,RDT,Pf,Indigenous,15
+2019,F,UJUNG KUBU,12,12/9/2020,Housewife,Microscope,Pf,Indigenous,50
+2019,M,KWALA INDAH,6,6/1/2020,Housewife,RDT,Pv,Indigenous,23
+2019,M,TALI AIR PERMAI,8,8/7/2020,Student,RDT,Pv,Indigenous,32
+2019,M,PEMATANG PANJANG,9,9/25/2020,Fisherman,RDT,Pv,Indigenous,39
+2019,M,SUKA JAYA,5,5/5/2020,Employees,RDT,Pv,Indigenous,19
+2019,M,GUNTUNG,3,3/17/2020,Student,RDT,Pv,Indigenous,12
+2019,F,SUKA MAJU,6,6/30/2020,Student,Microscope,Pmix,Indigenous,27
+2019,M,DAHARI SELEBAR,9,9/16/2020,Unemployed,Microscope,Pv,Indigenous,38
+2019,M,KAMPUNG LALANG,9,9/7/2020,Housewife,Microscope,Pv,Indigenous,37
+2019,F,KWALA INDAH,1,1/30/2020,Student,Microscope,Pv,Indigenous,5
+2019,F,KWALA INDAH,8,8/19/2020,Student,RDT,Pv,Indigenous,34
+2019,M,PERUPUK,7,7/11/2020,Housewife,RDT,Pf,Indigenous,28
+2019,M,LABUHAN RUKU,10,10/18/2020,Student,RDT,Pf,Indigenous,42
+2019,M,DAHARI INDAH,7,7/13/2020,Housewife,RDT,Pmix,Indigenous,29
+2019,F,KWALA INDAH,11,11/28/2020,Student,RDT,Pv,Indigenous,48
+2019,M,PEMATANG JERING,11,11/25/2020,Traders,RDT,Pmix,Indigenous,48
+2019,F,PERUPUK,6,6/30/2020,Student,Microscope,Pv,Indigenous,27
+2019,F,BAGAN DALAM,12,12/10/2020,Student,RDT,Pv,Indigenous,50
+2019,F,BAGAN DALAM,5,5/8/2020,Fisherman,RDT,Pf,Indigenous,19
+2019,F,SENTANG,12,12/17/2020,Student,RDT,Pv,Indigenous,51
+2019,F,LABUHAN RUKU,11,11/4/2020,Unemployed,RDT,Pv,Indigenous,45
+2019,M,GUNTUNG,5,5/8/2020,Unemployed,Microscope,Pv,Indigenous,19
+2019,F,PERUPUK,7,7/7/2020,Student,RDT,Pv,Indigenous,28
+2019,M,PERUPUK,5,5/16/2020,Housewife,Microscope,Pmix,Indigenous,20
+2019,F,PERUPUK,10,10/16/2020,Unemployed,RDT,Pv,Indigenous,42
+2019,F,DAHARI INDAH,12,12/16/2020,Student,Microscope,Pv,Indigenous,51
+2019,F,KWALA INDAH,4,4/11/2020,Housewife,Microscope,Pmix,Indigenous,15
+2019,M,GUNTUNG,11,11/2/2020,Farmer,RDT,Pmix,Indigenous,45
+2019,F,PERUPUK,3,3/10/2020,Student,Microscope,Pv,Indigenous,11
+2019,M,SUKA JAYA,10,10/12/2020,Unemployed,RDT,Pv,Indigenous,42
+2019,F,LIMA LARAS,6,6/18/2020,Traders,Microscope,Pmix,Indigenous,25
+2019,M,PERUPUK,5,5/18/2020,Unemployed,Microscope,Pv,Indigenous,21
+2019,F,SUKA MAJU,9,9/3/2020,Housewife,RDT,Pv,Indigenous,36
+2019,M,TALI AIR PERMAI,8,8/19/2020,Housewife,RDT,Pv,Indigenous,34
+2019,F,TALI AIR PERMAI,7,7/8/2020,Student,Microscope,Pf,Indigenous,28
+2019,M,MESJID LAMA,6,6/14/2020,Petambak,Microscope,Pf,Indigenous,24
+2019,M,PEMATANG JERING,4,4/22/2020,Housewife,RDT,Pf,Indigenous,17
+2019,M,DAHARI SELEBAR,12,12/15/2020,Student,RDT,Pv,Indigenous,51
+2019,F,PASIR PERMIT,5,5/18/2020,Fisherman,RDT,Pv,Indigenous,21
+2019,M,PERUPUK,5,5/5/2020,Housewife,Microscope,Pv,Indigenous,19
+2019,F,KWALA INDAH,3,3/13/2020,Unemployed,RDT,Pv,Indigenous,11
+2019,M,KWALA INDAH,9,9/17/2020,Student,RDT,Pv,Indigenous,38
+2019,M,SUKA MAJU,3,3/22/2020,Student,RDT,Pv,Indigenous,12
+2019,F,Outside the PHC,7,7/29/2020,Student,Microscope,Pv,Indigenous,31
+2019,F,PEMATANG CENGKRING,6,6/18/2020,Unemployed,RDT,Pv,Indigenous,25
+2019,F,PERUPUK,8,8/8/2020,Student,RDT,Pv,Indigenous,32
+2019,F,TALI AIR PERMAI,5,5/17/2020,Unemployed,RDT,Pmix,Indigenous,20
+2019,M,GAMBUS LAUT,9,9/28/2020,Unemployed,Microscope,Pv,Indigenous,40
+2019,M,BAGAN ARYA,1,1/2/2020,Housewife,RDT,Pmix,Indigenous,1
+2019,M,BOGAK,10,10/13/2020,Unemployed,RDT,Pv,Indigenous,42
+2019,F,SENTANG,6,6/18/2020,Unemployed,RDT,Pv,Indigenous,25
+2019,F,GUNTUNG,11,11/28/2020,Student,Microscope,Pv,Indigenous,48
+2019,F,KWALA INDAH,7,7/28/2020,Student,Microscope,Pf,Indigenous,31
+2019,F,KWALA INDAH,4,4/7/2020,Unemployed,Microscope,Pv,Indigenous,15
+2019,M,PERUPUK,12,12/15/2020,Housewife,Microscope,Pv,Indigenous,51
+2019,F,KWALA INDAH,7,7/26/2020,Student,RDT,Pv,Indigenous,30
+2019,F,SUKA JAYA,4,4/11/2020,Fisherman,RDT,Pf,Indigenous,15
+2020,M,TITI PAYUNG,1,1/29/2020,Unemployed,Microscope,Pv,Indigenous,5
+2020,M,TANJUNG MULIA,2,2/20/2020,Employees,Microscope,Pmix,Indigenous,8
+2020,M,TANJUNG KUBAH,7,7/11/2020,Employees,Microscope,Pf,Indigenous,28
+2020,M,TANJUNG HARAPAN,8,8/30/2020,Farmer,Microscope,Pv,Indigenous,35
+2020,M,TANJUNG HARAPAN,9,9/17/2020,Student,Microscope,Pv,Indigenous,38
+2020,M,GUNTUNG,1,1/16/2020,Fisherman,Microscope,Pmix,Indigenous,3
+2020,F,PERUPUK,1,1/24/2020,Student,Microscope,Pmix,Indigenous,4
+2020,M,PERUPUK,1,1/31/2020,Traders,Microscope,Pf,Indigenous,5
+2020,M,LUBUK CUIK,3,3/5/2020,Farmer,Microscope,Pmix,Indigenous,10
+2020,M,GAMBUS LAUT,3,3/11/2020,Fisherman,Microscope,Pf,Indigenous,11
+2020,M,GAMBUS LAUT,3,3/16/2020,Fisherman,RDT,Pmix,Indigenous,12
+2020,M,GUNTUNG,3,3/17/2020,Student,Microscope,Pmix,Indigenous,12
+2020,F,PERUPUK,3,3/17/2020,Housewife,Microscope,Pf,Indigenous,12
+2020,M,GUNTUNG,3,3/19/2020,Traders,Microscope,Pf,Indigenous,12
+2020,F,PEMATANG PANJANG,3,3/19/2020,Housewife,Microscope,Pf,Indigenous,12
+2020,M,PERUPUK,3,3/22/2020,Fisherman,RDT,Pv,Indigenous,12
+2020,M,PERUPUK,3,3/26/2020,Student,Microscope,Pf,Indigenous,13
+2020,M,GUNTUNG,4,4/6/2020,Fisherman,Microscope,Pv,Indigenous,15
+2020,M,GUNTUNG,4,4/7/2020,Employees,Microscope,Pv,Indigenous,15
+2020,M,GAMBUS LAUT,5,5/5/2020,Farmer,RDT,Pf,Indigenous,19
+2020,F,PERUPUK,5,5/8/2020,Student,RDT,Pv,Indigenous,19
+2020,F,PERUPUK,5,5/9/2020,Student,RDT,Pf,Indigenous,19
+2020,M,PERUPUK,5,5/10/2020,Student,RDT,Pv,Indigenous,19
+2020,F,PERUPUK,5,5/13/2020,Housewife,RDT,Pv,Indigenous,20
+2020,M,GAMBUS LAUT,5,5/15/2020,Fisherman,Microscope,Pmix,Indigenous,20
+2020,M,PERUPUK,5,5/18/2020,Student,Microscope,Pmix,Indigenous,21
+2020,M,GAMBUS LAUT,5,5/21/2020,Student,Microscope,Pv,Indigenous,21
+2020,M,BULAN-BULAN,5,5/25/2020,Traders,Microscope,Pv,Indigenous,22
+2020,M,PERUPUK,6,6/3/2020,Unemployed,Microscope,Pv,Indigenous,23
+2020,F,GUNTUNG,6,6/3/2020,Student,Microscope,Pv,Indigenous,23
+2020,M,PERUPUK,6,6/11/2020,Fisherman,RDT,Pv,Indigenous,24
+2020,M,GAMBUS LAUT,6,6/12/2020,Student,RDT,Pmix,Indigenous,24
+2020,M,TITI MERAH,6,6/15/2020,Student,Microscope,Pmix,Indigenous,25
+2020,M,PERUPUK,6,6/16/2020,Student,RDT,Pv,Indigenous,25
+2020,F,GAMBUS LAUT,6,6/18/2020,Housewife,RDT,Pf,Indigenous,25
+2020,M,GAMBUS LAUT,6,6/20/2020,Student,RDT,Pf,Indigenous,25
+2020,F,GAMBUS LAUT,6,6/22/2020,Student,RDT,Pf,Indigenous,26
+2020,M,PERUPUK,6,6/23/2020,Fisherman,Microscope,Pmix,Indigenous,26
+2020,F,GAMBUS LAUT,6,6/24/2020,Student,Microscope,Pf,Indigenous,26
+2020,M,GAMBUS LAUT,6,6/24/2020,Student,RDT,Pv,Indigenous,26
+2020,M,GAMBUS LAUT,6,6/25/2020,Student,RDT,Pv,Indigenous,26
+2020,F,GUNTUNG,6,6/26/2020,Student,Microscope,Pv,Indigenous,26
+2020,M,PERUPUK,6,6/30/2020,Student,Microscope,Pmix,Indigenous,27
+2020,M,PERUPUK,6,6/30/2020,Student,Microscope,Pf,Indigenous,27
+2020,F,GUNTUNG,7,7/1/2020,Student,Microscope,Pv,Indigenous,27
+2020,F,PERUPUK,7,7/7/2020,Student,Microscope,Pv,Indigenous,28
+2020,M,PERUPUK,7,7/7/2020,Student,RDT,Pmix,Indigenous,28
+2020,M,GAMBUS LAUT,7,7/7/2020,Fisherman,RDT,Pv,Indigenous,28
+2020,M,GAMBUS LAUT,7,7/9/2020,Farmer,RDT,Pv,Indigenous,28
+2020,F,GAMBUS LAUT,7,7/15/2020,Housewife,RDT,Pv,Indigenous,29
+2020,F,PERUPUK,7,7/23/2020,Unemployed,Microscope,Pmix,Indigenous,30
+2020,F,PERUPUK,7,7/23/2020,Housewife,RDT,Pv,Indigenous,30
+2020,M,GAMBUS LAUT,7,7/24/2020,Student,RDT,Pv,Indigenous,30
+2020,M,PERUPUK,7,7/28/2020,Student,Microscope,Pf,Indigenous,31
+2020,F,PERUPUK,7,7/29/2020,Student,Microscope,Pv,Indigenous,31
+2020,M,PERUPUK,7,7/29/2020,Fisherman,Microscope,Pv,Indigenous,31
+2020,M,PERUPUK,7,7/29/2020,Student,Microscope,Pv,Indigenous,31
+2020,F,PERUPUK,7,7/30/2020,Housewife,RDT,Pf,Indigenous,31
+2020,M,PERUPUK,8,8/3/2020,Student,Microscope,Pmix,Indigenous,32
+2020,M,GUNTUNG,8,8/3/2020,Student,Microscope,Pv,Indigenous,32
+2020,M,GAMBUS LAUT,8,8/8/2020,Fisherman,Microscope,Pv,Indigenous,32
+2020,F,PERUPUK,8,8/10/2020,Student,Microscope,Pf,Indigenous,33
+2020,F,PERUPUK,8,8/10/2020,Unemployed,Microscope,Pf,Indigenous,33
+2020,F,PERUPUK,8,8/11/2020,Unemployed,Microscope,Pmix,Indigenous,33
+2020,M,GUNTUNG,8,8/29/2020,Student,Microscope,Pv,Indigenous,35
+2020,F,GUNTUNG,9,9/8/2020,Student,Microscope,Pv,Indigenous,37
+2020,M,PERUPUK,9,9/11/2020,Student,Microscope,Pv,Indigenous,37
+2020,M,PERUPUK,9,9/11/2020,Student,Microscope,Pf,Indigenous,37
+2020,M,TITI PUTIH,9,9/16/2020,Student,Microscope,Pmix,Indigenous,38
+2020,M,PERUPUK,9,9/17/2020,Student,RDT,Pmix,Indigenous,38
+2020,M,PERUPUK,9,9/19/2020,Student,Microscope,Pmix,Indigenous,38
+2020,F,PERUPUK,9,9/20/2020,Housewife,RDT,Pf,Indigenous,38
+2020,F,PERUPUK,9,9/22/2020,Student,RDT,Pmix,Indigenous,39
+2020,M,GAMBUS LAUT,10,10/9/2020,Student,Microscope,Pv,Indigenous,41
+2020,F,PERUPUK,10,10/9/2020,Student,Microscope,Pv,Indigenous,41
+2020,F,PERUPUK,10,10/9/2020,Housewife,Microscope,Pv,Indigenous,41
+2020,F,GUNTUNG,10,10/10/2020,Student,Microscope,Pf,Indigenous,41
+2020,M,PERUPUK,10,10/10/2020,Student,Microscope,Pv,Indigenous,41
+2020,M,GAMBUS LAUT,10,10/10/2020,Student,Microscope,Pv,Indigenous,41
+2020,F,PERUPUK,10,10/12/2020,Housewife,Microscope,Pmix,Indigenous,42
+2020,F,PASIR PERMIT,10,10/12/2020,Housewife,Microscope,Pv,Indigenous,42
+2020,M,PERUPUK,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2020,F,PERUPUK,10,10/12/2020,Student,Microscope,Pmix,Indigenous,42
+2020,M,PERUPUK,10,10/14/2020,Student,Microscope,Pv,Indigenous,42
+2020,F,PERUPUK,10,10/20/2020,Housewife,Microscope,Pmix,Indigenous,43
+2020,F,PERUPUK,10,10/21/2020,Student,Microscope,Pv,Indigenous,43
+2020,M,PERUPUK,10,10/22/2020,Fisherman,Microscope,Pf,Indigenous,43
+2020,M,PERUPUK,10,10/23/2020,Student,RDT,Pv,Indigenous,43
+2020,M,PERUPUK,10,10/24/2020,Student,RDT,Pmix,Indigenous,43
+2020,M,PERUPUK,10,10/26/2020,Fisherman,Microscope,Pv,Indigenous,44
+2020,F,PERUPUK,10,10/29/2020,Unemployed,RDT,Pv,Indigenous,44
+2020,M,GUNTUNG,10,10/29/2020,Traders,RDT,Pf,Indigenous,44
+2020,M,GAMBUS LAUT,11,11/2/2020,Farmer,Microscope,Pmix,Indigenous,45
+2020,M,PERUPUK,11,11/3/2020,Student,Microscope,Pmix,Indigenous,45
+2020,F,PERUPUK,11,11/5/2020,Housewife,Microscope,Pv,Indigenous,45
+2020,M,PERUPUK,11,11/9/2020,Fisherman,Microscope,Pmix,Indigenous,46
+2020,M,PERUPUK,11,11/10/2020,Student,Microscope,Pv,Indigenous,46
+2020,F,GUNTUNG,11,11/11/2020,Housewife,Microscope,Pv,Indigenous,46
+2020,M,PERUPUK,11,11/12/2020,Fisherman,RDT,Pv,Indigenous,46
+2020,M,PERUPUK,11,11/17/2020,Unemployed,RDT,Pv,Indigenous,47
+2020,M,PERUPUK,11,11/18/2020,Student,Microscope,Pv,Indigenous,47
+2020,F,PERUPUK,11,11/18/2020,Student,Microscope,Pmix,Indigenous,47
+2020,F,PERUPUK,11,11/19/2020,Housewife,Microscope,Pv,Indigenous,47
+2020,M,PERUPUK,11,11/20/2020,Student,RDT,Pv,Indigenous,47
+2020,M,GAMBUS LAUT,11,11/23/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,PERUPUK,11,11/25/2020,Traders,Microscope,Pv,Indigenous,48
+2020,M,PERUPUK,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2020,M,GUNTUNG,12,12/6/2020,Fisherman,RDT,Pv,Indigenous,49
+2020,M,PERUPUK,12,12/6/2020,Student,RDT,Pv,Indigenous,49
+2020,F,GUNTUNG,12,12/6/2020,Housewife,RDT,Pv,Indigenous,49
+2020,M,GUNTUNG,12,12/7/2020,Student,RDT,Pv,Indigenous,50
+2020,F,PERUPUK,12,12/7/2020,Housewife,RDT,Pf,Indigenous,50
+2020,M,PERUPUK,12,12/7/2020,Student,RDT,Pv,Indigenous,50
+2020,M,PERUPUK,12,12/8/2020,Fisherman,Microscope,Pmix,Indigenous,50
+2020,M,PERUPUK,12,12/8/2020,Traders,Microscope,Pmix,Indigenous,50
+2020,F,PERUPUK,12,12/8/2020,Housewife,Microscope,Pmix,Indigenous,50
+2020,F,PERUPUK,12,12/10/2020,Housewife,Microscope,Pv,Indigenous,50
+2020,M,PERUPUK,12,12/11/2020,Student,Microscope,Pmix,Indigenous,50
+2020,F,PERUPUK,12,12/15/2020,Student,Microscope,Pv,Indigenous,51
+2020,M,PEMATANG PANJANG,12,12/15/2020,Unemployed,Microscope,Pmix,Indigenous,51
+2020,M,PERUPUK,12,12/17/2020,Student,Microscope,Pv,Indigenous,51
+2020,M,PERUPUK,12,12/19/2020,Fisherman,Microscope,Pmix,Indigenous,51
+2020,M,PERUPUK,12,12/21/2020,Student,Microscope,Pv,Indigenous,52
+2020,M,GAMBUS LAUT,12,12/25/2020,Student,Microscope,Pv,Indigenous,52
+2020,F,PERUPUK,12,12/30/2020,Student,Microscope,Pmix,Indigenous,53
+2020,M,PADANG GENTING,1,1/5/2020,Farmer,Microscope,Pv,Indigenous,1
+2020,M,Outside the PHC,1,1/17/2020,Student,RDT,Pf,Indigenous,3
+2020,M,LABUHAN RUKU,2,2/10/2020,Student,Microscope,Pv,Indigenous,7
+2020,M,DAHARI SELEBAR,2,2/17/2020,Student,Microscope,Pv,Indigenous,8
+2020,M,MESJID LAMA,3,3/5/2020,Student,Microscope,Pf,Indigenous,10
+2020,F,LABUHAN RUKU,3,3/12/2020,Housewife,RDT,Pv,Indigenous,11
+2020,F,Outside the PHC,3,3/22/2020,Housewife,RDT,Pv,Indigenous,12
+2020,F,Outside the PHC,4,4/12/2020,Housewife,Microscope,Pf,Indigenous,15
+2020,M,Outside the PHC,4,4/15/2020,Student,RDT,Pv,Indigenous,16
+2020,M,Outside the PHC,4,4/18/2020,Fisherman,RDT,Pmix,Indigenous,16
+2020,F,PAHANG,4,4/22/2020,Housewife,RDT,Pv,Indigenous,17
+2020,F,Outside the PHC,5,5/5/2020,Unemployed,RDT,Pf,Indigenous,19
+2020,M,DAHARI SELEBAR,5,5/8/2020,Student,RDT,Pv,Indigenous,19
+2020,M,LABUHAN RUKU,5,5/11/2020,Student,RDT,Pf,Indigenous,20
+2020,F,Outside the PHC,5,5/13/2020,Housewife,RDT,Pf,Indigenous,20
+2020,M,Outside the PHC,5,5/16/2020,Fisherman,RDT,Pf,Indigenous,20
+2020,F,Outside the PHC,5,5/18/2020,Student,RDT,Pf,Indigenous,21
+2020,M,DAHARI SELEBAR,6,6/8/2020,Unemployed,RDT,Pv,Indigenous,24
+2020,F,Outside the PHC,6,6/12/2020,Student,RDT,Pv,Indigenous,24
+2020,F,Outside the PHC,6,6/15/2020,Student,RDT,Pv,Indigenous,25
+2020,M,DAHARI SELEBAR,7,7/6/2020,Student,RDT,Pmix,Indigenous,28
+2020,M,LABUHAN RUKU,7,7/8/2020,Unemployed,RDT,Pv,Indigenous,28
+2020,M,DAHARI INDAH,7,7/13/2020,Student,Microscope,Pv,Indigenous,29
+2020,M,DAHARI INDAH,7,7/15/2020,Unemployed,RDT,Pv,Indigenous,29
+2020,F,DAHARI SELEBAR,7,7/20/2020,Student,Microscope,Pv,Indigenous,30
+2020,F,PAHANG,7,7/22/2020,Unemployed,RDT,Pv,Indigenous,30
+2020,M,Outside the PHC,8,8/7/2020,Fisherman,RDT,Pmix,Indigenous,32
+2020,M,INDRA YAMAN,8,8/7/2020,Fisherman,RDT,Pf,Indigenous,32
+2020,F,DAHARI SELEBAR,8,8/12/2020,Housewife,RDT,Pv,Indigenous,33
+2020,M,Outside the PHC,8,8/12/2020,Student,RDT,Pv,Indigenous,33
+2020,M,LABUHAN RUKU,8,8/22/2020,Unemployed,RDT,Pv,Indigenous,34
+2020,M,DAHARI SELEBAR,9,9/1/2020,Student,RDT,Pmix,Indigenous,36
+2020,F,DAHARI INDAH,9,9/3/2020,Student,RDT,Pv,Indigenous,36
+2020,M,DAHARI INDAH,9,9/5/2020,Student,RDT,Pf,Indigenous,36
+2020,F,DAHARI SELEBAR,9,9/10/2020,Student,RDT,Pf,Indigenous,37
+2020,F,DAHARI SELEBAR,9,9/11/2020,Student,RDT,Pv,Indigenous,37
+2020,F,DAHARI INDAH,9,9/13/2020,Student,RDT,Pv,Indigenous,37
+2020,M,DAHARI SELEBAR,9,9/17/2020,Student,RDT,Pv,Indigenous,38
+2020,F,LABUHAN RUKU,9,9/18/2020,Housewife,RDT,Pv,Indigenous,38
+2020,M,LABUHAN RUKU,9,9/20/2020,Fisherman,RDT,Pv,Indigenous,38
+2020,F,LABUHAN RUKU,9,9/22/2020,Student,RDT,Pv,Indigenous,39
+2020,M,Outside the PHC,9,9/23/2020,Student,RDT,Pv,Indigenous,39
+2020,F,Outside the PHC,9,9/23/2020,Housewife,RDT,Pmix,Indigenous,39
+2020,M,Outside the PHC,9,9/23/2020,Unemployed,RDT,Pmix,Indigenous,39
+2020,M,Outside the PHC,9,9/24/2020,Student,RDT,Pmix,Indigenous,39
+2020,F,Outside the PHC,9,9/24/2020,Housewife,Microscope,Pmix,Indigenous,39
+2020,F,Outside the PHC,9,9/24/2020,Student,RDT,Pv,Indigenous,39
+2020,M,Outside the PHC,9,9/25/2020,Gardening,RDT,Pmix,Indigenous,39
+2020,M,Outside the PHC,9,9/25/2020,Fisherman,RDT,Pv,Indigenous,39
+2020,M,Outside the PHC,9,9/25/2020,Student,RDT,Pv,Indigenous,39
+2020,F,Outside the Regency,10,10/2/2020,Student,RDT,Pv,Indigenous,40
+2020,F,DAHARI SELEBAR,10,10/6/2020,Student,RDT,Pv,Indigenous,41
+2020,M,LABUHAN RUKU,10,10/7/2020,Student,RDT,Pmix,Indigenous,41
+2020,M,LABUHAN RUKU,10,10/7/2020,Student,RDT,Pv,Indigenous,41
+2020,F,DAHARI SELEBAR,10,10/7/2020,Housewife,RDT,Pf,Indigenous,41
+2020,F,Outside the PHC,10,10/9/2020,Housewife,RDT,Pv,Indigenous,41
+2020,F,Outside the PHC,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2020,F,INDRA YAMAN,10,10/22/2020,Housewife,RDT,Pv,Indigenous,43
+2020,M,LABUHAN RUKU,10,10/22/2020,Gardening,RDT,Pv,Indigenous,43
+2020,M,DAHARI INDAH,10,10/22/2020,Student,RDT,Pv,Indigenous,43
+2020,M,Outside the PHC,10,10/23/2020,Fisherman,RDT,Pv,Indigenous,43
+2020,F,DAHARI SELEBAR,10,10/25/2020,Farmer,RDT,Pv,Indigenous,43
+2020,M,LABUHAN RUKU,11,11/5/2020,Traders,RDT,Pv,Indigenous,45
+2020,F,DAHARI SELEBAR,11,11/7/2020,Housewife,RDT,Pv,Indigenous,45
+2020,F,LABUHAN RUKU,11,11/7/2020,Student,RDT,Pv,Indigenous,45
+2020,M,LABUHAN RUKU,11,11/13/2020,Fisherman,RDT,Pv,Indigenous,46
+2020,M,INDRA YAMAN,11,11/14/2020,Student,RDT,Pv,Indigenous,46
+2020,M,LABUHAN RUKU,11,11/20/2020,Unemployed,RDT,Pv,Indigenous,47
+2020,F,DAHARI SELEBAR,11,11/22/2020,Student,RDT,Pv,Indigenous,47
+2020,F,DAHARI SELEBAR,11,11/25/2020,Student,RDT,Pv,Indigenous,48
+2020,M,DAHARI SELEBAR,11,11/27/2020,Fisherman,RDT,Pv,Indigenous,48
+2020,M,DAHARI INDAH,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2020,F,DAHARI INDAH,12,12/2/2020,Housewife,RDT,Pv,Indigenous,49
+2020,F,DAHARI INDAH,12,12/5/2020,Student,RDT,Pv,Indigenous,49
+2020,M,DAHARI SELEBAR,12,12/8/2020,Fisherman,RDT,Pmix,Indigenous,50
+2020,F,DAHARI INDAH,12,12/10/2020,Student,RDT,Pv,Indigenous,50
+2020,M,DAHARI SELEBAR,12,12/10/2020,Unemployed,RDT,Pmix,Indigenous,50
+2020,M,LABUHAN RUKU,12,12/12/2020,Unemployed,RDT,Pmix,Indigenous,50
+2020,F,DAHARI INDAH,12,12/15/2020,Student,RDT,Pv,Indigenous,51
+2020,M,LABUHAN RUKU,12,12/18/2020,Unemployed,RDT,Pv,Indigenous,51
+2020,M,LABUHAN RUKU,12,12/22/2020,Unemployed,RDT,Pv,Indigenous,52
+2020,F,LALANG,10,10/16/2020,Unemployed,Microscope,Pf,Indigenous,42
+2020,M,PAKAM RAYA,11,11/16/2020,Unemployed,Microscope,Pv,Indigenous,47
+2020,M,PEMATANG CENGKRING,12,12/5/2020,Unemployed,RDT,Pv,Indigenous,49
+2020,F,SUKA RAMAI,2,2/18/2020,Unemployed,RDT,Pmix,Indigenous,8
+2020,F,SUKA RAMAI,4,4/11/2020,Housewife,RDT,Pv,Indigenous,15
+2020,M,SUKA RAMAI,4,4/14/2020,Gardening,RDT,Pf,Indigenous,16
+2020,F,LIMAU SUNDAI,4,4/22/2020,Housewife,RDT,Pf,Indigenous,17
+2020,M,SUKA RAMAI,6,6/16/2020,Unemployed,RDT,Pmix,Indigenous,25
+2020,M,SUKA RAMAI,6,6/18/2020,Farmer,RDT,Pmix,Indigenous,25
+2020,F,SUKA RAMAI,9,9/29/2020,Housewife,RDT,Pv,Indigenous,40
+2020,F,SUKA RAMAI,11,11/25/2020,Student,RDT,Pv,Indigenous,48
+2020,M,SUKA RAMAI,9,9/29/2020,Unemployed,RDT,Pv,Indigenous,40
+2020,M,PEMATANG JERING,1,1/8/2020,Petambak,RDT,Pv,Indigenous,2
+2020,M,PEMATANG JERING,1,1/9/2020,Petambak,RDT,Pv,Indigenous,2
+2020,F,KWALA INDAH,2,2/13/2020,Housewife,RDT,Pv,Indigenous,7
+2020,F,KWALA INDAH,2,2/15/2020,Housewife,RDT,Pv,Indigenous,7
+2020,F,KWALA INDAH,2,2/23/2020,Housewife,RDT,Pv,Indigenous,8
+2020,F,KWALA INDAH,3,3/3/2020,Student,RDT,Pv,Indigenous,10
+2020,F,KWALA INDAH,3,3/5/2020,Student,RDT,Pmix,Indigenous,10
+2020,F,KWALA INDAH,3,3/5/2020,Housewife,RDT,Pf,Indigenous,10
+2020,F,KWALA INDAH,3,3/7/2020,Housewife,RDT,Pv,Indigenous,10
+2020,F,KWALA INDAH,3,3/10/2020,Housewife,RDT,Pf,Indigenous,11
+2020,F,KWALA INDAH,3,3/10/2020,Housewife,RDT,Pf,Indigenous,11
+2020,F,KWALA INDAH,3,3/13/2020,Student,RDT,Pv,Indigenous,11
+2020,F,KWALA INDAH,3,3/13/2020,Unemployed,RDT,Pv,Indigenous,11
+2020,F,KWALA INDAH,3,3/21/2020,Housewife,RDT,Pmix,Indigenous,12
+2020,F,KWALA INDAH,3,3/22/2020,Student,RDT,Pmix,Indigenous,12
+2020,M,KWALA INDAH,4,4/1/2020,Traders,RDT,Pv,Indigenous,14
+2020,M,KWALA INDAH,4,4/4/2020,Unemployed,RDT,Pf,Indigenous,14
+2020,M,KWALA INDAH,4,4/8/2020,Fisherman,RDT,Pmix,Indigenous,15
+2020,F,KWALA TANJUNG,4,4/11/2020,Unemployed,RDT,Pv,Indigenous,15
+2020,M,KWALA TANJUNG,4,4/12/2020,Employees,RDT,Pf,Indigenous,15
+2020,F,KWALA INDAH,5,5/1/2020,Housewife,RDT,Pmix,Indigenous,18
+2020,F,KWALA INDAH,5,5/9/2020,Unemployed,RDT,Pmix,Indigenous,19
+2020,F,KWALA INDAH,5,5/15/2020,Student,RDT,Pf,Indigenous,20
+2020,F,KWALA INDAH,5,5/15/2020,Housewife,RDT,Pf,Indigenous,20
+2020,F,KWALA INDAH,5,5/15/2020,Student,RDT,Pf,Indigenous,20
+2020,M,KWALA INDAH,5,5/16/2020,Fisherman,RDT,Pf,Indigenous,20
+2020,M,KWALA INDAH,5,5/17/2020,Fisherman,RDT,Pmix,Indigenous,20
+2020,F,KWALA INDAH,5,5/18/2020,Student,RDT,Pmix,Indigenous,21
+2020,M,KWALA INDAH,5,5/26/2020,Fisherman,RDT,Pmix,Indigenous,22
+2020,F,KWALA INDAH,5,5/26/2020,Fisherman,RDT,Pmix,Indigenous,22
+2020,F,KWALA INDAH,5,5/27/2020,Housewife,RDT,Pf,Indigenous,22
+2020,M,KWALA TANJUNG,6,6/1/2020,Student,RDT,Pf,Indigenous,23
+2020,F,KWALA INDAH,6,6/14/2020,Student,RDT,Pmix,Indigenous,24
+2020,M,KWALA INDAH,6,6/15/2020,Fisherman,RDT,Pf,Indigenous,25
+2020,M,KWALA INDAH,6,6/16/2020,Unemployed,RDT,Pmix,Indigenous,25
+2020,M,KWALA INDAH,6,6/20/2020,Student,RDT,Pv,Indigenous,25
+2020,M,KWALA INDAH,6,6/26/2020,Fisherman,RDT,Pmix,Indigenous,26
+2020,F,KWALA INDAH,7,7/9/2020,Unemployed,RDT,Pmix,Indigenous,28
+2020,M,KWALA INDAH,7,7/21/2020,Fisherman,RDT,Pf,Indigenous,30
+2020,M,KWALA INDAH,7,7/22/2020,Student,RDT,Pv,Indigenous,30
+2020,F,KWALA INDAH,7,7/25/2020,Student,RDT,Pf,Indigenous,30
+2020,F,KWALA INDAH,7,7/26/2020,Student,RDT,Pf,Indigenous,30
+2020,M,KWALA INDAH,7,7/27/2020,Farmer,RDT,Pmix,Indigenous,31
+2020,M,PEMATANG KUING,8,8/12/2020,Traders,RDT,Pv,Indigenous,33
+2020,M,KWALA INDAH,8,8/23/2020,Employees,RDT,Pv,Indigenous,34
+2020,M,KWALA INDAH,8,8/25/2020,Student,RDT,Pv,Indigenous,35
+2020,F,KWALA INDAH,8,8/28/2020,Housewife,RDT,Pv,Indigenous,35
+2020,M,KWALA INDAH,9,9/1/2020,Student,RDT,Pmix,Indigenous,36
+2020,M,KWALA INDAH,9,9/2/2020,Traders,RDT,Pmix,Indigenous,36
+2020,M,KWALA INDAH,9,9/6/2020,Traders,RDT,Pv,Indigenous,36
+2020,M,KWALA INDAH,9,9/9/2020,Fisherman,RDT,Pv,Indigenous,37
+2020,F,KWALA INDAH,9,9/13/2020,Housewife,RDT,Pv,Indigenous,37
+2020,F,KWALA INDAH,9,9/16/2020,Student,RDT,Pv,Indigenous,38
+2020,M,KWALA INDAH,9,9/16/2020,Student,RDT,Pv,Indigenous,38
+2020,M,KWALA INDAH,9,9/22/2020,Student,RDT,Pf,Indigenous,39
+2020,M,KWALA INDAH,9,9/23/2020,Student,RDT,Pv,Indigenous,39
+2020,M,KWALA INDAH,9,9/28/2020,Student,RDT,Pf,Indigenous,40
+2020,F,KWALA INDAH,9,9/28/2020,Unemployed,RDT,Pf,Indigenous,40
+2020,M,KWALA INDAH,9,9/29/2020,Student,RDT,Pf,Indigenous,40
+2020,F,KWALA INDAH,10,10/4/2020,Housewife,RDT,Pv,Indigenous,40
+2020,M,KWALA INDAH,10,10/5/2020,Student,RDT,Pv,Indigenous,41
+2020,M,KWALA INDAH,10,10/7/2020,Fisherman,RDT,Pmix,Indigenous,41
+2020,M,KWALA INDAH,10,10/15/2020,Fisherman,RDT,Pmix,Indigenous,42
+2020,M,KWALA INDAH,10,10/18/2020,Fisherman,RDT,Pv,Indigenous,42
+2020,F,KWALA INDAH,10,10/18/2020,Housewife,RDT,Pmix,Indigenous,42
+2020,M,KWALA INDAH,10,10/20/2020,Fisherman,RDT,Pv,Indigenous,43
+2020,M,KWALA INDAH,10,10/20/2020,Student,RDT,Pmix,Indigenous,43
+2020,F,KWALA INDAH,10,10/20/2020,Housewife,RDT,Pv,Indigenous,43
+2020,F,KWALA INDAH,10,10/20/2020,Housewife,RDT,Pmix,Indigenous,43
+2020,F,KWALA INDAH,10,10/23/2020,Student,RDT,Pv,Indigenous,43
+2020,F,KWALA INDAH,10,10/25/2020,Housewife,RDT,Pv,Indigenous,43
+2020,M,KWALA INDAH,11,11/4/2020,Student,RDT,Pv,Indigenous,45
+2020,F,KWALA INDAH,11,11/12/2020,Student,RDT,Pv,Indigenous,46
+2020,M,KWALA INDAH,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2020,F,KWALA INDAH,11,11/19/2020,Unemployed,RDT,Pv,Indigenous,47
+2020,M,KWALA INDAH,11,11/19/2020,Fisherman,RDT,Pv,Indigenous,47
+2020,M,KWALA INDAH,11,11/21/2020,Student,RDT,Pv,Indigenous,47
+2020,M,KWALA INDAH,11,11/22/2020,Student,RDT,Pv,Indigenous,47
+2020,M,KWALA INDAH,11,11/24/2020,Student,RDT,Pv,Indigenous,48
+2020,F,KWALA INDAH,11,11/24/2020,Housewife,RDT,Pv,Indigenous,48
+2020,F,KWALA INDAH,11,11/24/2020,Housewife,RDT,Pv,Indigenous,48
+2020,M,KWALA INDAH,11,11/30/2020,Housewife,RDT,Pv,Indigenous,49
+2020,F,KWALA INDAH,12,12/1/2020,Unemployed,RDT,Pv,Indigenous,49
+2020,F,KWALA INDAH,12,12/1/2020,Student,RDT,Pmix,Indigenous,49
+2020,M,KWALA INDAH,12,12/6/2020,Student,RDT,Pv,Indigenous,49
+2020,M,KWALA INDAH,12,12/9/2020,Traders,RDT,Pv,Indigenous,50
+2020,F,KWALA INDAH,12,12/12/2020,Housewife,RDT,Pv,Indigenous,50
+2020,M,KWALA INDAH,12,12/13/2020,Student,RDT,Pv,Indigenous,50
+2020,M,KWALA INDAH,12,12/13/2020,Student,RDT,Pv,Indigenous,50
+2020,M,KWALA INDAH,12,12/16/2020,Traders,RDT,Pv,Indigenous,51
+2020,F,KWALA INDAH,12,12/17/2020,Student,RDT,Pv,Indigenous,51
+2020,M,KWALA INDAH,12,12/20/2020,Student,RDT,Pv,Indigenous,51
+2020,M,KWALA INDAH,10,10/13/2020,Student,RDT,Pv,Indigenous,42
+2020,M,KWALA GUNUNG,10,10/20/2020,Unemployed,RDT,Pv,Indigenous,43
+2020,M,KWALA GUNUNG,10,10/26/2020,Unemployed,Microscope,Pv,Indigenous,44
+2020,F,SUKA MAJU,11,11/25/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,BAGAN DALAM,1,1/2/2020,Fisherman,Microscope,Pv,Indigenous,1
+2020,F,BOGAK,1,1/16/2020,Student,Microscope,Pv,Indigenous,3
+2020,F,SUKA JAYA,1,1/27/2020,Student,Microscope,Pmix,Indigenous,5
+2020,M,TANJUNG TIRAM,1,1/30/2020,Student,RDT,Pmix,Indigenous,5
+2020,M,SUKA JAYA,1,1/30/2020,Student,RDT,Pmix,Indigenous,5
+2020,F,SUKA MAJU,2,2/25/2020,Student,Microscope,Pv,Indigenous,9
+2020,F,BAGAN DALAM,2,2/28/2020,Student,Microscope,Pv,Indigenous,9
+2020,M,BAGAN DALAM,2,2/29/2020,Unemployed,RDT,Pv,Indigenous,9
+2020,F,SUKA JAYA,3,3/2/2020,Unemployed,Microscope,Pv,Indigenous,10
+2020,M,SUKA JAYA,3,3/3/2020,Student,RDT,Pv,Indigenous,10
+2020,F,SUKA MAJU,3,3/9/2020,Student,Microscope,Pv,Indigenous,11
+2020,F,GUNTUNG,3,3/10/2020,Student,Microscope,Pv,Indigenous,11
+2020,M,BAGAN DALAM,3,3/12/2020,Student,RDT,Pv,Indigenous,11
+2020,M,BANDAR RAHMAD,3,3/16/2020,Student,RDT,Pv,Indigenous,12
+2020,M,SUKA MAJU,3,3/24/2020,Traders,RDT,Pv,Indigenous,13
+2020,M,BAGAN DALAM,3,3/24/2020,Student,RDT,Pmix,Indigenous,13
+2020,F,BAGAN DALAM,3,3/26/2020,Student,RDT,Pv,Indigenous,13
+2020,F,BAGAN DALAM,4,4/7/2020,Unemployed,RDT,Pv,Indigenous,15
+2020,M,BANDAR RAHMAD,4,4/13/2020,Student,RDT,Pv,Indigenous,16
+2020,M,SUKA MAJU,4,4/15/2020,Student,RDT,Pv,Indigenous,16
+2020,M,SUKA JAYA,4,4/23/2020,Student,RDT,Pmix,Indigenous,17
+2020,M,BAGAN DALAM,4,4/30/2020,Student,RDT,Pf,Indigenous,18
+2020,F,BAGAN DALAM,5,5/4/2020,Student,Microscope,Pv,Indigenous,19
+2020,M,BAGAN DALAM,5,5/4/2020,Unemployed,RDT,Pf,Indigenous,19
+2020,M,BAGAN DALAM,5,5/8/2020,Employees,Microscope,Pv,Indigenous,19
+2020,M,BAGAN DALAM,5,5/11/2020,Unemployed,Microscope,Pmix,Indigenous,20
+2020,M,GUNTUNG,5,5/14/2020,Unemployed,RDT,Pmix,Indigenous,20
+2020,M,SUKA JAYA,5,5/14/2020,Student,Microscope,Pf,Indigenous,20
+2020,F,SUKA JAYA,5,5/15/2020,Student,Microscope,Pmix,Indigenous,20
+2020,M,SUKA JAYA,5,5/15/2020,Unemployed,Microscope,Pmix,Indigenous,20
+2020,M,SUKA MAJU,6,6/8/2020,Unemployed,Microscope,Pmix,Indigenous,24
+2020,F,BAGAN DALAM,6,6/11/2020,Housewife,Microscope,Pf,Indigenous,24
+2020,M,SUKA JAYA,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2020,M,SUKA MAJU,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2020,F,KAMPUNG LALANG,6,6/15/2020,Unemployed,Microscope,Pv,Indigenous,25
+2020,M,BANDAR RAHMAD,6,6/15/2020,Fisherman,Microscope,Pv,Indigenous,25
+2020,M,SUKA MAJU,6,6/17/2020,Student,Microscope,Pv,Indigenous,25
+2020,M,GUNTUNG,6,6/17/2020,Student,Microscope,Pv,Indigenous,25
+2020,M,SUKA MAJU,6,6/17/2020,Student,Microscope,Pv,Indigenous,25
+2020,M,BAGAN DALAM,6,6/17/2020,Student,Microscope,Pv,Indigenous,25
+2020,M,KAMPUNG LALANG,6,6/18/2020,Student,Microscope,Pv,Indigenous,25
+2020,F,BAGAN DALAM,6,6/22/2020,Student,Microscope,Pmix,Indigenous,26
+2020,M,BANDAR RAHMAD,6,6/22/2020,Student,Microscope,Pv,Indigenous,26
+2020,F,SUKA MAJU,6,6/24/2020,Student,RDT,Pf,Indigenous,26
+2020,F,BAGAN DALAM,6,6/25/2020,Student,Microscope,Pv,Indigenous,26
+2020,F,BAGAN DALAM,6,6/26/2020,Unemployed,Microscope,Pmix,Indigenous,26
+2020,F,BOGAK,6,6/26/2020,Housewife,RDT,Pf,Indigenous,26
+2020,M,SUKA JAYA,7,7/1/2020,Student,Microscope,Pv,Indigenous,27
+2020,M,SUKA JAYA,7,7/3/2020,Student,Microscope,Pmix,Indigenous,27
+2020,F,SUKA JAYA,7,7/3/2020,Student,Microscope,Pmix,Indigenous,27
+2020,F,BOGAK,7,7/9/2020,Housewife,Microscope,Pv,Indigenous,28
+2020,M,BOGAK,7,7/13/2020,Employees,Microscope,Pv,Indigenous,29
+2020,M,SUKA JAYA,7,7/15/2020,Student,Microscope,Pv,Indigenous,29
+2020,F,BAGAN DALAM,7,7/22/2020,Unemployed,Microscope,Pmix,Indigenous,30
+2020,F,PAHLAWAN,8,8/3/2020,Student,Microscope,Pv,Indigenous,32
+2020,F,KAMPUNG LALANG,8,8/8/2020,Employees,Microscope,Pmix,Indigenous,32
+2020,F,BAGAN ARYA,8,8/13/2020,Student,Microscope,Pv,Indigenous,33
+2020,F,BAGAN DALAM,8,8/24/2020,Student,Microscope,Pv,Indigenous,35
+2020,M,SUKA MAJU,9,9/3/2020,Unemployed,Microscope,Pmix,Indigenous,36
+2020,M,SUKA MAJU,9,9/8/2020,Student,Microscope,Pf,Indigenous,37
+2020,M,SUKA MAJU,9,9/14/2020,Student,Microscope,Pv,Indigenous,38
+2020,M,SUKA MAJU,9,9/14/2020,Student,Microscope,Pv,Indigenous,38
+2020,M,SUKA MAJU,9,9/18/2020,Student,RDT,Pv,Indigenous,38
+2020,M,BAGAN DALAM,9,9/21/2020,Fisherman,Microscope,Pmix,Indigenous,39
+2020,F,SUKA MAJU,9,9/21/2020,Student,Microscope,Pmix,Indigenous,39
+2020,F,SUKA MAJU,9,9/21/2020,Student,Microscope,Pmix,Indigenous,39
+2020,M,SUKA JAYA,9,9/22/2020,Student,Microscope,Pv,Indigenous,39
+2020,F,TANJUNG TIRAM,9,9/22/2020,Unemployed,Microscope,Pmix,Indigenous,39
+2020,F,GUNTUNG,9,9/29/2020,Student,Microscope,Pv,Indigenous,40
+2020,F,BAGAN DALAM,10,10/6/2020,Student,Microscope,Pv,Indigenous,41
+2020,F,KAMPUNG LALANG,10,10/10/2020,Unemployed,RDT,Pmix,Indigenous,41
+2020,F,SUKA MAJU,10,10/13/2020,Housewife,Microscope,Pmix,Indigenous,42
+2020,F,SUKA JAYA,10,10/16/2020,Unemployed,RDT,Pmix,Indigenous,42
+2020,M,SUKA JAYA,10,10/19/2020,Student,Microscope,Pmix,Indigenous,43
+2020,M,BAGAN DALAM,10,10/24/2020,Traders,RDT,Pv,Indigenous,43
+2020,M,BAGAN DALAM,11,11/9/2020,Fisherman,Microscope,Pv,Indigenous,46
+2020,M,BAGAN DALAM,11,11/10/2020,Student,Microscope,Pmix,Indigenous,46
+2020,F,PAHLAWAN,11,11/10/2020,Unemployed,Microscope,Pf,Indigenous,46
+2020,M,SUKA JAYA,11,11/14/2020,Employees,RDT,Pv,Indigenous,46
+2020,F,SUKA JAYA,11,11/16/2020,Unemployed,Microscope,Pv,Indigenous,47
+2020,F,KAMPUNG LALANG,11,11/17/2020,Housewife,RDT,Pv,Indigenous,47
+2020,F,SUKA JAYA,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2020,M,SUKA MAJU,11,11/25/2020,Traders,Microscope,Pv,Indigenous,48
+2020,M,BAGAN DALAM,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2020,F,BAGAN DALAM,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2020,M,GUNTUNG,12,12/16/2020,Student,RDT,Pmix,Indigenous,51
+2020,M,SUKA JAYA,12,12/16/2020,Unemployed,Microscope,Pv,Indigenous,51
+2020,M,SUKA JAYA,12,12/16/2020,Student,RDT,Pv,Indigenous,51
+2020,F,SUKA MAJU,12,12/28/2020,Housewife,RDT,Pmix,Indigenous,53
+2020,M,KAMPUNG LALANG,12,12/29/2020,Student,RDT,Pv,Indigenous,53
+2020,F,SENTANG,1,1/4/2020,Student,RDT,Pv,Indigenous,1
+2020,F,BANDAR SONO,2,2/10/2020,Housewife,Microscope,Pv,Indigenous,7
+2020,M,LIMA LARAS,2,2/13/2020,Fisherman,RDT,Pv,Indigenous,7
+2020,M,UJUNG KUBU,2,2/17/2020,Student,Microscope,Pv,Indigenous,8
+2020,M,SENTANG,2,2/19/2020,Student,Microscope,Pv,Indigenous,8
+2020,M,TALI AIR PERMAI,3,3/10/2020,Student,Microscope,Pv,Indigenous,11
+2020,F,PEMATANG RAMBAI,3,3/16/2020,Housewife,Microscope,Pv,Indigenous,12
+2020,F,BANDAR SONO,3,3/18/2020,Student,Microscope,Pv,Indigenous,12
+2020,F,UJUNG KUBU,3,3/21/2020,Housewife,Microscope,Pv,Indigenous,12
+2020,M,UJUNG KUBU,3,3/23/2020,Student,Microscope,Pv,Indigenous,13
+2020,M,SENTANG,3,3/24/2020,Student,Microscope,Pv,Indigenous,13
+2020,F,SENTANG,3,3/26/2020,Student,Microscope,Pv,Indigenous,13
+2020,F,SENTANG,4,4/1/2020,Student,Microscope,Pv,Indigenous,14
+2020,M,SENTANG,4,4/2/2020,Student,Microscope,Pv,Indigenous,14
+2020,F,UJUNG KUBU,4,4/24/2020,Housewife,Microscope,Pv,Indigenous,17
+2020,F,BANDAR SONO,4,4/25/2020,Student,Microscope,Pv,Indigenous,17
+2020,M,SENTANG,5,5/12/2020,Student,Microscope,Pv,Indigenous,20
+2020,F,UJUNG KUBU,5,5/15/2020,Housewife,Microscope,Pv,Indigenous,20
+2020,M,TALI AIR PERMAI,6,6/4/2020,Student,Microscope,Pv,Indigenous,23
+2020,M,UJUNG KUBU,6,6/5/2020,Traders,RDT,Pv,Indigenous,23
+2020,M,UJUNG KUBU,6,6/5/2020,Student,Microscope,Pv,Indigenous,23
+2020,M,SENTANG,6,6/8/2020,Student,Microscope,Pv,Indigenous,24
+2020,F,SENTANG,6,6/9/2020,Student,Microscope,Pv,Indigenous,24
+2020,M,SENTANG,6,6/12/2020,Student,Microscope,Pv,Indigenous,24
+2020,M,TALI AIR PERMAI,6,6/19/2020,Student,Microscope,Pv,Indigenous,25
+2020,F,SENTANG,6,6/19/2020,Housewife,Microscope,Pv,Indigenous,25
+2020,F,UJUNG KUBU,6,6/20/2020,Student,Microscope,Pv,Indigenous,25
+2020,F,PEMATANG RAMBAI,6,6/23/2020,Student,Microscope,Pv,Indigenous,26
+2020,F,UJUNG KUBU,6,6/24/2020,Student,Microscope,Pv,Indigenous,26
+2020,M,TALI AIR PERMAI,6,6/25/2020,Student,Microscope,Pv,Indigenous,26
+2020,F,TALI AIR PERMAI,6,6/25/2020,Student,Microscope,Pv,Indigenous,26
+2020,F,TALI AIR PERMAI,6,6/26/2020,Student,RDT,Pv,Indigenous,26
+2020,M,TALI AIR PERMAI,7,7/1/2020,Student,Microscope,Pv,Indigenous,27
+2020,F,TALI AIR PERMAI,7,7/2/2020,Student,Microscope,Pv,Indigenous,27
+2020,M,UJUNG KUBU,7,7/11/2020,Student,Microscope,Pv,Indigenous,28
+2020,M,UJUNG KUBU,7,7/11/2020,Student,Microscope,Pv,Indigenous,28
+2020,M,UJUNG KUBU,7,7/14/2020,Unemployed,Microscope,Pv,Indigenous,29
+2020,M,UJUNG KUBU,7,7/14/2020,Unemployed,Microscope,Pv,Indigenous,29
+2020,M,LIMA LARAS,7,7/24/2020,Fisherman,Microscope,Pv,Indigenous,30
+2020,M,LIMA LARAS,7,7/25/2020,Student,Microscope,Pv,Indigenous,30
+2020,M,SENTANG,8,8/1/2020,Student,Microscope,Pv,Indigenous,31
+2020,F,PEMATANG RAMBAI,8,8/3/2020,Student,Microscope,Pv,Indigenous,32
+2020,M,UJUNG KUBU,8,8/4/2020,Student,Microscope,Pv,Indigenous,32
+2020,M,LIMA LARAS,8,8/4/2020,Student,Microscope,Pv,Indigenous,32
+2020,M,BANDAR SONO,8,8/10/2020,Student,Microscope,Pv,Indigenous,33
+2020,M,UJUNG KUBU,8,8/19/2020,Student,Microscope,Pv,Indigenous,34
+2020,M,TALI AIR PERMAI,8,8/19/2020,Student,Microscope,Pv,Indigenous,34
+2020,F,UJUNG KUBU,9,9/1/2020,Student,RDT,Pv,Indigenous,36
+2020,F,TALI AIR PERMAI,9,9/3/2020,Student,Microscope,Pv,Indigenous,36
+2020,M,TALI AIR PERMAI,9,9/7/2020,Fisherman,RDT,Pv,Indigenous,37
+2020,M,TALI AIR PERMAI,9,9/8/2020,Fisherman,Microscope,Pv,Indigenous,37
+2020,M,UJUNG KUBU,9,9/11/2020,Student,RDT,Pv,Indigenous,37
+2020,M,PEMATANG RAMBAI,9,9/12/2020,Traders,RDT,Pv,Indigenous,37
+2020,F,SENTANG,9,9/14/2020,Housewife,RDT,Pv,Indigenous,38
+2020,F,LIMA LARAS,9,9/21/2020,Student,Microscope,Pv,Indigenous,39
+2020,M,PEMATANG RAMBAI,9,9/28/2020,Traders,Microscope,Pv,Indigenous,40
+2020,M,LIMA LARAS,9,9/28/2020,Student,Microscope,Pv,Indigenous,40
+2020,F,SENTANG,9,9/30/2020,Student,RDT,Pv,Indigenous,40
+2020,M,UJUNG KUBU,10,10/2/2020,Student,Microscope,Pv,Indigenous,40
+2020,M,TALI AIR PERMAI,10,10/2/2020,Student,Microscope,Pv,Indigenous,40
+2020,M,TALI AIR PERMAI,10,10/5/2020,Student,Microscope,Pv,Indigenous,41
+2020,M,TALI AIR PERMAI,10,10/6/2020,Student,Microscope,Pv,Indigenous,41
+2020,M,TALI AIR PERMAI,10,10/6/2020,Student,Microscope,Pv,Indigenous,41
+2020,M,TALI AIR PERMAI,10,10/6/2020,Student,Microscope,Pv,Indigenous,41
+2020,M,TALI AIR PERMAI,10,10/8/2020,Student,Microscope,Pv,Indigenous,41
+2020,F,TALI AIR PERMAI,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2020,M,TALI AIR PERMAI,10,10/15/2020,Student,RDT,Pv,Indigenous,42
+2020,M,SENTANG,10,10/19/2020,Fisherman,Microscope,Pv,Indigenous,43
+2020,M,BAGAN BARU,10,10/22/2020,Farmer,Microscope,Pv,Indigenous,43
+2020,F,UJUNG KUBU,11,11/2/2020,Student,RDT,Pv,Indigenous,45
+2020,M,SENTANG,11,11/3/2020,Student,RDT,Pv,Indigenous,45
+2020,F,UJUNG KUBU,11,11/3/2020,Student,RDT,Pv,Indigenous,45
+2020,M,UJUNG KUBU,11,11/6/2020,Student,RDT,Pv,Indigenous,45
+2020,M,UJUNG KUBU,11,11/9/2020,Student,RDT,Pv,Indigenous,46
+2020,M,PEMATANG RAMBAI,11,11/11/2020,Student,RDT,Pv,Indigenous,46
+2020,F,UJUNG KUBU,11,11/12/2020,Student,RDT,Pv,Indigenous,46
+2020,M,TALI AIR PERMAI,11,11/16/2020,Student,RDT,Pv,Indigenous,47
+2020,M,UJUNG KUBU,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2020,M,BAGAN BARU,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2020,M,UJUNG KUBU,11,11/18/2020,Fisherman,RDT,Pv,Indigenous,47
+2020,F,UJUNG KUBU,11,11/18/2020,Housewife,RDT,Pv,Indigenous,47
+2020,F,UJUNG KUBU,11,11/20/2020,Housewife,RDT,Pv,Indigenous,47
+2020,F,SENTANG,11,11/23/2020,Housewife,RDT,Pv,Indigenous,48
+2020,M,SENTANG,11,11/23/2020,Student,RDT,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/26/2020,Housewife,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/26/2020,Housewife,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/27/2020,Housewife,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/28/2020,Fisherman,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/28/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/28/2020,Student,Microscope,Pv,Indigenous,48
+2020,M,TALI AIR PERMAI,11,11/28/2020,Fisherman,Microscope,Pv,Indigenous,48
+2020,F,TALI AIR PERMAI,11,11/30/2020,Student,Microscope,Pv,Indigenous,49
+2020,F,TALI AIR PERMAI,11,11/30/2020,Student,Microscope,Pv,Indigenous,49
+2020,M,UJUNG KUBU,12,12/1/2020,Traders,Microscope,Pv,Indigenous,49
+2020,M,UJUNG KUBU,12,12/1/2020,Farmer,Microscope,Pv,Indigenous,49
+2020,M,TALI AIR PERMAI,12,12/2/2020,Fisherman,Microscope,Pv,Indigenous,49
+2020,F,PEMATANG RAMBAI,12,12/2/2020,Housewife,RDT,Pv,Indigenous,49
+2020,F,TALI AIR PERMAI,12,12/4/2020,Student,RDT,Pv,Indigenous,49
+2020,M,UJUNG KUBU,12,12/7/2020,Traders,RDT,Pv,Indigenous,50
+2020,M,UJUNG KUBU,12,12/7/2020,Farmer,Microscope,Pv,Indigenous,50
+2020,F,TALI AIR PERMAI,12,12/10/2020,Student,Microscope,Pv,Indigenous,50
+2020,F,SENTANG,12,12/15/2020,Housewife,Microscope,Pv,Indigenous,51
+2020,F,LIMA LARAS,12,12/20/2020,Traders,Microscope,Pv,Indigenous,51
+2021,M,GUNTUNG,3,3/13/2020,Housewife,RDT,Pv,Indigenous,11
+2021,F,PEMATANG RAMBAI,8,8/8/2020,Housewife,RDT,Pv,Indigenous,32
+2021,F,UJUNG KUBU,7,7/23/2020,Student,Microscope,Pv,Indigenous,30
+2021,F,TITI PAYUNG,3,3/11/2020,Student,RDT,Pv,Indigenous,11
+2021,M,PERUPUK,9,9/3/2020,Student,RDT,Pv,Indigenous,36
+2021,F,KWALA INDAH,5,5/15/2020,Student,Microscope,Pv,Indigenous,20
+2021,F,UJUNG KUBU,12,12/15/2020,Student,RDT,Pv,Indigenous,51
+2021,F,PERUPUK,9,9/17/2020,Employees,RDT,Pf,Indigenous,38
+2021,F,KWALA INDAH,4,4/1/2020,Fisherman,RDT,Pv,Indigenous,14
+2021,F,TANJUNG HARAPAN,6,6/24/2020,Fisherman,Microscope,Pv,Indigenous,26
+2021,M,UJUNG KUBU,10,10/25/2020,Student,Microscope,Pv,Indigenous,43
+2021,F,SENTANG,10,10/13/2020,Unemployed,RDT,Pv,Indigenous,42
+2021,F,PERUPUK,11,11/24/2020,Housewife,Microscope,Pv,Indigenous,48
+2021,M,PERUPUK,10,10/22/2020,Student,Microscope,Pv,Indigenous,43
+2021,M,PERUPUK,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2021,F,Outside the PHC,2,2/25/2020,Housewife,Microscope,Pmix,Indigenous,9
+2021,F,LABUHAN RUKU,7,7/24/2020,Housewife,RDT,Pmix,Indigenous,30
+2021,F,BAGAN DALAM,8,8/10/2020,Student,Microscope,Pmix,Indigenous,33
+2021,F,INDRA YAMAN,12,12/15/2020,Student,Microscope,Pv,Indigenous,51
+2021,F,GUNTUNG,8,8/11/2020,Student,RDT,Pv,Indigenous,33
+2021,F,DAHARI SELEBAR,5,5/15/2020,Unemployed,Microscope,Pf,Indigenous,20
+2021,F,DAHARI SELEBAR,11,11/5/2020,Student,Microscope,Pv,Indigenous,45
+2021,M,DAHARI SELEBAR,9,9/3/2020,Traders,RDT,Pv,Indigenous,36
+2021,M,TALI AIR PERMAI,9,9/3/2020,Unemployed,RDT,Pv,Indigenous,36
+2021,F,BAGAN DALAM,8,8/7/2020,Unemployed,RDT,Pmix,Indigenous,32
+2021,M,Outside the PHC,11,11/7/2020,Student,Microscope,Pmix,Indigenous,45
+2021,M,UJUNG KUBU,9,9/1/2020,Fisherman,Microscope,Pmix,Indigenous,36
+2021,M,UJUNG KUBU,12,12/13/2020,Fisherman,Microscope,Pv,Indigenous,50
+2021,F,KAMPUNG LALANG,9,9/12/2020,Student,RDT,Pmix,Indigenous,37
+2021,M,UJUNG KUBU,5,5/8/2020,Student,Microscope,Pv,Indigenous,19
+2021,M,PERUPUK,10,10/29/2020,Housewife,RDT,Pv,Indigenous,44
+2021,F,PERUPUK,11,11/6/2020,Student,Microscope,Pv,Indigenous,45
+2021,M,GAMBUS LAUT,9,9/28/2020,Student,RDT,Pmix,Indigenous,40
+2021,F,TALI AIR PERMAI,12,12/12/2020,Housewife,Microscope,Pmix,Indigenous,50
+2021,M,BAGAN DALAM,11,11/30/2020,Student,Microscope,Pv,Indigenous,49
+2021,M,PERUPUK,9,9/16/2020,Housewife,Microscope,Pmix,Indigenous,38
+2021,M,Outside the PHC,11,11/4/2020,Fisherman,Microscope,Pmix,Indigenous,45
+2021,M,Outside the PHC,7,7/11/2020,Traders,RDT,Pf,Indigenous,28
+2021,F,TANJUNG MULIA,8,8/30/2020,Housewife,Microscope,Pv,Indigenous,35
+2021,M,GAMBUS LAUT,12,12/8/2020,Gardening,RDT,Pv,Indigenous,50
+2021,F,KWALA INDAH,12,12/2/2020,Student,Microscope,Pv,Indigenous,49
+2021,M,KWALA INDAH,11,11/24/2020,Student,RDT,Pmix,Indigenous,48
+2021,F,KWALA INDAH,2,2/13/2020,Student,Microscope,Pmix,Indigenous,7
+2021,F,DAHARI SELEBAR,8,8/8/2020,Student,Microscope,Pv,Indigenous,32
+2021,M,SUKA RAMAI,12,12/7/2020,Housewife,Microscope,Pv,Indigenous,50
+2021,M,KWALA INDAH,10,10/6/2020,Student,Microscope,Pf,Indigenous,41
+2021,F,Outside the PHC,10,10/15/2020,Fisherman,Microscope,Pf,Indigenous,42
+2021,F,PERUPUK,11,11/20/2020,Housewife,Microscope,Pv,Indigenous,47
+2021,M,GUNTUNG,5,5/10/2020,Student,RDT,Pv,Indigenous,19
+2021,F,KWALA INDAH,10,10/2/2020,Fisherman,RDT,Pv,Indigenous,40
+2021,M,GUNTUNG,10,10/24/2020,Housewife,RDT,Pf,Indigenous,43
+2021,F,TALI AIR PERMAI,6,6/26/2020,Gardening,RDT,Pf,Indigenous,26
+2021,F,TANJUNG KUBAH,10,10/20/2020,Farmer,RDT,Pv,Indigenous,43
+2021,M,PERUPUK,10,10/12/2020,Unemployed,RDT,Pv,Indigenous,42
+2021,M,GAMBUS LAUT,8,8/12/2020,Unemployed,RDT,Pmix,Indigenous,33
+2021,M,GUNTUNG,6,6/24/2020,Student,RDT,Pmix,Indigenous,26
+2021,F,BANDAR SONO,11,11/24/2020,Housewife,RDT,Pmix,Indigenous,48
+2021,M,TANJUNG MULIA,11,11/17/2020,Unemployed,Microscope,Pf,Indigenous,47
+2021,F,PEMATANG CENGKRING,7,7/22/2020,Student,Microscope,Pv,Indigenous,30
+2021,M,INDRA YAMAN,8,8/23/2020,Unemployed,Microscope,Pmix,Indigenous,34
+2021,M,PERUPUK,11,11/19/2020,Fisherman,Microscope,Pv,Indigenous,47
+2021,M,GUNTUNG,5,5/9/2020,Housewife,Microscope,Pv,Indigenous,19
+2021,F,PERUPUK,11,11/24/2020,Student,RDT,Pv,Indigenous,48
+2021,M,KWALA INDAH,2,2/20/2020,Fisherman,Microscope,Pv,Indigenous,8
+2021,F,KWALA INDAH,8,8/8/2020,Student,RDT,Pv,Indigenous,32
+2021,M,BAGAN DALAM,11,11/7/2020,Student,Microscope,Pv,Indigenous,45
+2021,M,PERUPUK,8,8/12/2020,Student,RDT,Pf,Indigenous,33
+2021,M,PERUPUK,12,12/28/2020,Unemployed,Microscope,Pv,Indigenous,53
+2021,M,LUBUK CUIK,4,4/14/2020,Student,Microscope,Pv,Indigenous,16
+2021,F,LIMAU SUNDAI,10,10/13/2020,Student,Microscope,Pv,Indigenous,42
+2021,F,BANDAR RAHMAD,9,9/11/2020,Traders,RDT,Pv,Indigenous,37
+2021,M,KWALA INDAH,8,8/12/2020,Housewife,Microscope,Pv,Indigenous,33
+2021,M,KWALA INDAH,12,12/9/2020,Student,Microscope,Pmix,Indigenous,50
+2021,M,KAMPUNG LALANG,9,9/29/2020,Unemployed,RDT,Pv,Indigenous,40
+2021,M,PERUPUK,5,5/11/2020,Student,RDT,Pv,Indigenous,20
+2021,M,Outside the PHC,9,9/24/2020,Unemployed,RDT,Pv,Indigenous,39
+2021,M,PERUPUK,7,7/30/2020,Fisherman,Microscope,Pv,Indigenous,31
+2021,M,PERUPUK,5,5/8/2020,Employees,RDT,Pf,Indigenous,19
+2021,F,PERUPUK,10,10/12/2020,Housewife,RDT,Pf,Indigenous,42
+2021,M,UJUNG KUBU,3,3/5/2020,Housewife,RDT,Pf,Indigenous,10
+2021,M,BANDAR RAHMAD,11,11/20/2020,Unemployed,RDT,Pmix,Indigenous,47
+2021,M,BANDAR SONO,12,12/16/2020,Student,Microscope,Pv,Indigenous,51
+2021,M,PERUPUK,12,12/15/2020,Fisherman,RDT,Pmix,Indigenous,51
+2021,M,SUKA MAJU,4,4/4/2020,Housewife,RDT,Pv,Indigenous,14
+2021,F,GUNTUNG,5,5/10/2020,Student,RDT,Pv,Indigenous,19
+2021,F,BAGAN DALAM,9,9/28/2020,Unemployed,RDT,Pv,Indigenous,40
+2021,F,KWALA INDAH,12,12/28/2020,Student,RDT,Pf,Indigenous,53
+2021,F,PERUPUK,11,11/20/2020,Housewife,RDT,Pv,Indigenous,47
+2021,M,TALI AIR PERMAI,5,5/17/2020,Unemployed,Microscope,Pmix,Indigenous,20
+2021,M,PERUPUK,6,6/20/2020,Student,Microscope,Pv,Indigenous,25
+2021,M,PERUPUK,11,11/5/2020,Fisherman,RDT,Pv,Indigenous,45
+2021,M,PERUPUK,6,6/18/2020,Student,RDT,Pv,Indigenous,25
+2021,M,BOGAK,12,12/12/2020,Fisherman,Microscope,Pv,Indigenous,50
+2021,M,PERUPUK,4,4/15/2020,Unemployed,RDT,Pf,Indigenous,16
+2021,M,SUKA RAMAI,5,5/17/2020,Student,Microscope,Pv,Indigenous,20
+2021,F,Outside the PHC,12,12/1/2020,Unemployed,Microscope,Pmix,Indigenous,49
+2021,F,SUKA JAYA,10,10/5/2020,Housewife,Microscope,Pv,Indigenous,41
+2021,F,KWALA INDAH,2,2/13/2020,Unemployed,RDT,Pf,Indigenous,7
+2021,M,KWALA INDAH,9,9/5/2020,Fisherman,RDT,Pmix,Indigenous,36
+2021,M,PERUPUK,9,9/24/2020,Unemployed,RDT,Pv,Indigenous,39
+2021,M,PERUPUK,9,9/13/2020,Student,RDT,Pmix,Indigenous,37
+2021,M,LABUHAN RUKU,12,12/9/2020,Fisherman,Microscope,Pv,Indigenous,50
+2021,M,KWALA TANJUNG,5,5/25/2020,Fisherman,Microscope,Pv,Indigenous,22
+2021,M,Outside the PHC,5,5/26/2020,Unemployed,RDT,Pv,Indigenous,22
+2021,F,PAHANG,7,7/3/2020,Unemployed,Microscope,Pf,Indigenous,27
+2021,M,SENTANG,7,7/1/2020,Petambak,Microscope,Pmix,Indigenous,27
+2021,F,KWALA INDAH,3,3/5/2020,Traders,RDT,Pv,Indigenous,10
+2021,M,PERUPUK,10,10/26/2020,Housewife,Microscope,Pv,Indigenous,44
+2021,M,DAHARI SELEBAR,5,5/5/2020,Farmer,RDT,Pmix,Indigenous,19
+2021,M,BAGAN DALAM,11,11/17/2020,Unemployed,Microscope,Pf,Indigenous,47
+2021,F,KWALA INDAH,12,12/17/2020,Traders,RDT,Pv,Indigenous,51
+2021,F,KWALA INDAH,4,4/24/2020,Petambak,Microscope,Pv,Indigenous,17
+2021,M,BULAN-BULAN,11,11/25/2020,Student,Microscope,Pmix,Indigenous,48
+2021,M,UJUNG KUBU,9,9/2/2020,Gardening,RDT,Pf,Indigenous,36
+2021,M,KWALA INDAH,5,5/26/2020,Housewife,RDT,Pmix,Indigenous,22
+2021,M,SUKA MAJU,3,3/26/2020,Housewife,RDT,Pv,Indigenous,13
+2021,F,TANJUNG HARAPAN,5,5/26/2020,Unemployed,RDT,Pv,Indigenous,22
+2021,F,TALI AIR PERMAI,12,12/30/2020,Student,RDT,Pv,Indigenous,53
+2021,F,DAHARI SELEBAR,12,12/15/2020,Student,RDT,Pv,Indigenous,51
+2021,F,PERUPUK,11,11/25/2020,Student,RDT,Pv,Indigenous,48
+2021,M,KWALA INDAH,5,5/4/2020,Unemployed,RDT,Pv,Indigenous,19
+2021,M,DAHARI INDAH,3,3/17/2020,Unemployed,Microscope,Pv,Indigenous,12
+2021,M,TALI AIR PERMAI,9,9/13/2020,Housewife,RDT,Pv,Indigenous,37
+2021,M,SENTANG,5,5/15/2020,Housewife,RDT,Pmix,Indigenous,20
+2021,M,PERUPUK,9,9/22/2020,Housewife,RDT,Pv,Indigenous,39
+2021,F,SUKA JAYA,11,11/19/2020,Student,Microscope,Pv,Indigenous,47
+2021,M,DAHARI SELEBAR,4,4/24/2020,Fisherman,RDT,Pv,Indigenous,17
+2021,M,PERUPUK,10,10/7/2020,Housewife,RDT,Pv,Indigenous,41
+2021,M,SENTANG,12,12/16/2020,Housewife,RDT,Pmix,Indigenous,51
+2021,M,TALI AIR PERMAI,6,6/14/2020,Housewife,Microscope,Pf,Indigenous,24
+2021,F,PADANG GENTING,12,12/22/2020,Housewife,RDT,Pv,Indigenous,52
+2021,M,SUKA MAJU,1,1/16/2020,Employees,Microscope,Pv,Indigenous,3
+2021,M,DAHARI SELEBAR,7,7/6/2020,Housewife,Microscope,Pf,Indigenous,28
+2021,M,GAMBUS LAUT,9,9/24/2020,Housewife,RDT,Pv,Indigenous,39
+2021,F,TALI AIR PERMAI,9,9/29/2020,Housewife,RDT,Pv,Indigenous,40
+2021,F,GUNTUNG,9,9/23/2020,Student,RDT,Pf,Indigenous,39
+2021,M,SENTANG,3,3/2/2020,Housewife,Microscope,Pmix,Indigenous,10
+2021,F,PERUPUK,1,1/2/2020,Fisherman,RDT,Pf,Indigenous,1
+2021,M,SUKA JAYA,11,11/11/2020,Student,RDT,Pv,Indigenous,46
+2021,F,PEMATANG JERING,7,7/14/2020,Student,Microscope,Pmix,Indigenous,29
+2021,F,PERUPUK,3,3/5/2020,Student,RDT,Pv,Indigenous,10
+2021,M,KAMPUNG LALANG,12,12/15/2020,Fisherman,RDT,Pf,Indigenous,51
+2021,M,UJUNG KUBU,7,7/24/2020,Student,Microscope,Pmix,Indigenous,30
+2021,M,PASIR PERMIT,7,7/29/2020,Student,RDT,Pv,Indigenous,31
+2021,F,KWALA INDAH,11,11/27/2020,Traders,RDT,Pf,Indigenous,48
+2021,M,DAHARI SELEBAR,8,8/10/2020,Housewife,Microscope,Pv,Indigenous,33
+2021,M,KWALA INDAH,1,1/24/2020,Student,RDT,Pv,Indigenous,4
+2021,M,BAGAN DALAM,6,6/11/2020,Student,RDT,Pmix,Indigenous,24
+2021,M,PERUPUK,9,9/9/2020,Unemployed,Microscope,Pv,Indigenous,37
+2021,M,Outside the PHC,10,10/2/2020,Traders,Microscope,Pmix,Indigenous,40
+2021,F,UJUNG KUBU,11,11/12/2020,Student,RDT,Pf,Indigenous,46
+2021,M,GUNTUNG,6,6/19/2020,Student,Microscope,Pv,Indigenous,25
+2021,M,PERUPUK,12,12/7/2020,Housewife,RDT,Pv,Indigenous,50
+2021,M,SUKA JAYA,5,5/25/2020,Fisherman,RDT,Pv,Indigenous,22
+2021,M,PERUPUK,10,10/18/2020,Traders,Microscope,Pmix,Indigenous,42
+2021,M,PERUPUK,11,11/12/2020,Unemployed,RDT,Pf,Indigenous,46
+2021,F,KWALA INDAH,10,10/4/2020,Housewife,RDT,Pv,Indigenous,40
+2021,F,BAGAN ARYA,6,6/30/2020,Student,Microscope,Pv,Indigenous,27
+2021,F,GUNTUNG,8,8/10/2020,Unemployed,RDT,Pv,Indigenous,33
+2021,F,PEMATANG RAMBAI,10,10/9/2020,Fisherman,Microscope,Pmix,Indigenous,41
+2021,F,Outside the PHC,11,11/26/2020,Unemployed,RDT,Pf,Indigenous,48
+2021,F,PERUPUK,12,12/2/2020,Traders,Microscope,Pv,Indigenous,49
+2021,M,PERUPUK,5,5/5/2020,Housewife,RDT,Pv,Indigenous,19
+2021,M,PERUPUK,8,8/22/2020,Fisherman,RDT,Pv,Indigenous,34
+2021,F,KWALA INDAH,10,10/12/2020,Housewife,Microscope,Pv,Indigenous,42
+2021,F,TALI AIR PERMAI,10,10/25/2020,Housewife,Microscope,Pf,Indigenous,43
+2021,M,TALI AIR PERMAI,12,12/2/2020,Student,RDT,Pmix,Indigenous,49
+2021,F,SENTANG,7,7/28/2020,Housewife,RDT,Pv,Indigenous,31
+2021,F,KWALA GUNUNG,6,6/26/2020,Traders,RDT,Pv,Indigenous,26
+2021,M,DAHARI SELEBAR,8,8/19/2020,Housewife,Microscope,Pv,Indigenous,34
+2021,M,GUNTUNG,11,11/23/2020,Unemployed,Microscope,Pf,Indigenous,48
+2021,M,PERUPUK,9,9/21/2020,Student,RDT,Pv,Indigenous,39
+2021,F,PERUPUK,5,5/4/2020,Student,Microscope,Pmix,Indigenous,19
+2021,M,UJUNG KUBU,4,4/18/2020,Student,Microscope,Pmix,Indigenous,16
+2021,F,TALI AIR PERMAI,10,10/6/2020,Student,RDT,Pv,Indigenous,41
+2021,M,UJUNG KUBU,9,9/28/2020,Unemployed,Microscope,Pv,Indigenous,40
+2021,F,PERUPUK,3,3/13/2020,Student,Microscope,Pf,Indigenous,11
+2021,M,KWALA INDAH,9,9/23/2020,Fisherman,RDT,Pv,Indigenous,39
+2021,M,PERUPUK,8,8/10/2020,Student,RDT,Pv,Indigenous,33
+2021,M,KWALA INDAH,9,9/2/2020,Student,RDT,Pv,Indigenous,36
+2021,M,DAHARI INDAH,5,5/18/2020,Student,RDT,Pmix,Indigenous,21
+2021,M,KWALA INDAH,6,6/4/2020,Housewife,RDT,Pv,Indigenous,23
+2021,M,UJUNG KUBU,7,7/8/2020,Unemployed,Microscope,Pv,Indigenous,28
+2021,F,PAHLAWAN,1,1/16/2020,Student,Microscope,Pv,Indigenous,3
+2021,M,Outside the PHC,12,12/16/2020,Student,Microscope,Pf,Indigenous,51
+2021,F,TITI MERAH,10,10/2/2020,Student,RDT,Pv,Indigenous,40
+2021,M,PERUPUK,4,4/12/2020,Student,RDT,Pv,Indigenous,15
+2021,M,PERUPUK,5,5/18/2020,Student,RDT,Pmix,Indigenous,21
+2021,M,LABUHAN RUKU,5,5/18/2020,Student,Microscope,Pmix,Indigenous,21
+2021,M,GAMBUS LAUT,11,11/4/2020,Unemployed,RDT,Pv,Indigenous,45
+2021,M,BAGAN ARYA,4,4/14/2020,Unemployed,Microscope,Pv,Indigenous,16
+2021,M,Outside the PHC,12,12/8/2020,Gardening,RDT,Pv,Indigenous,50
+2021,M,PERUPUK,11,11/7/2020,Student,RDT,Pv,Indigenous,45
+2021,M,KAMPUNG LALANG,10,10/19/2020,Traders,Microscope,Pv,Indigenous,43
+2021,M,DAHARI SELEBAR,6,6/4/2020,Traders,Microscope,Pv,Indigenous,23
+2021,F,LABUHAN RUKU,6,6/19/2020,Housewife,Microscope,Pv,Indigenous,25
+2021,F,TANJUNG KUBAH,11,11/18/2020,Unemployed,RDT,Pv,Indigenous,47
+2021,F,PADANG GENTING,12,12/10/2020,Student,Microscope,Pv,Indigenous,50
+2021,M,PAHANG,12,12/30/2020,Housewife,Microscope,Pv,Indigenous,53
+2021,M,PERUPUK,11,11/7/2020,Student,RDT,Pv,Indigenous,45
+2021,M,PERUPUK,4,4/14/2020,Unemployed,RDT,Pv,Indigenous,16
+2021,F,BAGAN DALAM,11,11/19/2020,Housewife,Microscope,Pv,Indigenous,47
+2021,M,Outside the PHC,6,6/12/2020,Student,Microscope,Pv,Indigenous,24
+2021,F,TALI AIR PERMAI,11,11/10/2020,Housewife,Microscope,Pv,Indigenous,46
+2021,F,PERUPUK,11,11/23/2020,Student,Microscope,Pv,Indigenous,48
+2021,M,DAHARI SELEBAR,9,9/25/2020,Student,RDT,Pf,Indigenous,39
+2021,M,TANJUNG HARAPAN,8,8/11/2020,Student,Microscope,Pv,Indigenous,33
+2021,F,PERUPUK,4,4/11/2020,Student,RDT,Pv,Indigenous,15
+2021,M,DAHARI SELEBAR,12,12/1/2020,Fisherman,RDT,Pv,Indigenous,49
+2021,M,SUKA JAYA,3,3/2/2020,Student,RDT,Pv,Indigenous,10
+2021,M,PERUPUK,2,2/25/2020,Employees,RDT,Pf,Indigenous,9
+2021,M,PEMATANG RAMBAI,5,5/12/2020,Student,RDT,Pmix,Indigenous,20
+2021,M,KWALA INDAH,2,2/10/2020,Fisherman,RDT,Pf,Indigenous,7
+2021,M,DAHARI SELEBAR,6,6/26/2020,Student,RDT,Pv,Indigenous,26
+2021,M,TANJUNG KUBAH,9,9/11/2020,Unemployed,RDT,Pmix,Indigenous,37
+2021,M,UJUNG KUBU,10,10/18/2020,Traders,RDT,Pf,Indigenous,42
+2021,M,BAGAN DALAM,11,11/5/2020,Student,RDT,Pv,Indigenous,45
+2021,M,PERUPUK,5,5/14/2020,Student,Microscope,Pv,Indigenous,20
+2021,F,KWALA INDAH,10,10/6/2020,Unemployed,Microscope,Pv,Indigenous,41
+2021,M,Outside the PHC,9,9/12/2020,Fisherman,RDT,Pmix,Indigenous,37
+2021,M,UJUNG KUBU,12,12/10/2020,Fisherman,RDT,Pf,Indigenous,50
+2021,M,KWALA INDAH,8,8/10/2020,Farmer,RDT,Pv,Indigenous,33
+2021,M,PERUPUK,3,3/9/2020,Student,Microscope,Pv,Indigenous,11
+2021,F,TALI AIR PERMAI,9,9/24/2020,Unemployed,RDT,Pv,Indigenous,39
+2021,M,PERUPUK,5,5/8/2020,Unemployed,Microscope,Pv,Indigenous,19
+2021,F,PERUPUK,4,4/23/2020,Unemployed,RDT,Pv,Indigenous,17
+2021,F,SENTANG,2,2/15/2020,Student,RDT,Pf,Indigenous,7
+2021,M,GAMBUS LAUT,12,12/20/2020,Student,RDT,Pmix,Indigenous,51
+2021,M,UJUNG KUBU,11,11/16/2020,Student,RDT,Pv,Indigenous,47
+2021,F,PEMATANG KUING,12,12/7/2020,Housewife,Microscope,Pv,Indigenous,50
+2021,M,SENTANG,10,10/22/2020,Traders,Microscope,Pv,Indigenous,43
+2021,F,LIMAU SUNDAI,12,12/6/2020,Unemployed,RDT,Pv,Indigenous,49
+2021,F,DAHARI SELEBAR,10,10/9/2020,Unemployed,RDT,Pv,Indigenous,41
+2021,F,DAHARI SELEBAR,6,6/12/2020,Fisherman,Microscope,Pv,Indigenous,24
+2021,F,DAHARI SELEBAR,7,7/13/2020,Unemployed,RDT,Pv,Indigenous,29
+2021,F,SUKA JAYA,6,6/15/2020,Fisherman,RDT,Pv,Indigenous,25
+2021,F,PEMATANG RAMBAI,4,4/13/2020,Unemployed,RDT,Pv,Indigenous,16
+2021,F,UJUNG KUBU,5,5/10/2020,Student,Microscope,Pmix,Indigenous,19
+2021,M,PERUPUK,12,12/29/2020,Fisherman,RDT,Pmix,Indigenous,53
+2021,M,PERUPUK,12,12/28/2020,Housewife,Microscope,Pv,Indigenous,53
+2021,M,TALI AIR PERMAI,9,9/21/2020,Fisherman,RDT,Pf,Indigenous,39
+2021,F,TALI AIR PERMAI,7,7/22/2020,Student,Microscope,Pf,Indigenous,30
+2021,M,Outside the PHC,6,6/17/2020,Student,RDT,Pmix,Indigenous,25
+2021,M,BAGAN DALAM,9,9/21/2020,Student,Microscope,Pmix,Indigenous,39
+2021,F,SUKA MAJU,5,5/11/2020,Student,Microscope,Pmix,Indigenous,20
+2021,F,PERUPUK,12,12/15/2020,Employees,RDT,Pmix,Indigenous,51
+2021,M,TITI PUTIH,9,9/21/2020,Fisherman,Microscope,Pv,Indigenous,39
+2021,F,Outside the PHC,11,11/24/2020,Unemployed,RDT,Pv,Indigenous,48
+2021,M,TALI AIR PERMAI,5,5/27/2020,Farmer,Microscope,Pf,Indigenous,22
+2021,M,Outside the PHC,3,3/2/2020,Traders,Microscope,Pv,Indigenous,10
+2021,F,SENTANG,12,12/17/2020,Student,Microscope,Pv,Indigenous,51
+2021,M,PERUPUK,11,11/2/2020,Housewife,RDT,Pv,Indigenous,45
+2021,M,TALI AIR PERMAI,3,3/19/2020,Fisherman,Microscope,Pf,Indigenous,12
+2021,M,TALI AIR PERMAI,3,3/11/2020,Student,RDT,Pv,Indigenous,11
+2021,M,KWALA INDAH,11,11/3/2020,Unemployed,Microscope,Pv,Indigenous,45
+2021,M,GUNTUNG,10,10/19/2020,Unemployed,Microscope,Pf,Indigenous,43
+2021,M,BULAN-BULAN,7,7/11/2020,Housewife,RDT,Pv,Indigenous,28
+2021,F,PERUPUK,11,11/14/2020,Unemployed,Microscope,Pf,Indigenous,46
+2021,F,TANJUNG KUBAH,7,7/14/2020,Unemployed,RDT,Pmix,Indigenous,29
+2021,M,PERUPUK,4,4/12/2020,Fisherman,RDT,Pv,Indigenous,15
+2021,M,KWALA INDAH,6,6/12/2020,Fisherman,RDT,Pv,Indigenous,24
+2021,M,LABUHAN RUKU,6,6/24/2020,Unemployed,RDT,Pv,Indigenous,26
+2021,M,LIMA LARAS,10,10/15/2020,Student,RDT,Pv,Indigenous,42
+2021,M,LABUHAN RUKU,3,3/22/2020,Gardening,RDT,Pv,Indigenous,12
+2021,M,PERUPUK,8,8/4/2020,Student,RDT,Pv,Indigenous,32
+2021,M,KWALA INDAH,3,3/16/2020,Fisherman,Microscope,Pf,Indigenous,12
+2021,M,TALI AIR PERMAI,3,3/5/2020,Gardening,RDT,Pmix,Indigenous,10
+2021,M,PERUPUK,9,9/3/2020,Gardening,Microscope,Pv,Indigenous,36
+2021,F,BAGAN DALAM,9,9/21/2020,Traders,Microscope,Pv,Indigenous,39
+2021,M,SENTANG,10,10/8/2020,Unemployed,Microscope,Pmix,Indigenous,41
+2021,M,DAHARI INDAH,10,10/26/2020,Fisherman,RDT,Pv,Indigenous,44
+2021,F,BAGAN BARU,3,3/21/2020,Fisherman,RDT,Pf,Indigenous,12
+2021,F,Outside the PHC,11,11/16/2020,Student,RDT,Pv,Indigenous,47
+2021,F,PERUPUK,12,12/25/2020,Farmer,RDT,Pv,Indigenous,52
+2021,M,GUNTUNG,6,6/5/2020,Housewife,Microscope,Pv,Indigenous,23
+2021,M,KWALA INDAH,8,8/10/2020,Traders,RDT,Pv,Indigenous,33
+2021,M,UJUNG KUBU,11,11/12/2020,Unemployed,RDT,Pmix,Indigenous,46
+2021,F,BAGAN DALAM,7,7/2/2020,Housewife,Microscope,Pv,Indigenous,27
+2021,M,SUKA MAJU,6,6/15/2020,Student,RDT,Pmix,Indigenous,25
+2021,M,BAGAN DALAM,8,8/22/2020,Unemployed,RDT,Pf,Indigenous,34
+2021,F,SUKA JAYA,9,9/11/2020,Housewife,Microscope,Pf,Indigenous,37
+2021,F,KAMPUNG LALANG,6,6/8/2020,Housewife,Microscope,Pv,Indigenous,24
+2021,F,Outside the PHC,7,7/15/2020,Student,RDT,Pf,Indigenous,29
+2021,M,PERUPUK,10,10/22/2020,Unemployed,Microscope,Pv,Indigenous,43
+2021,F,PADANG GENTING,7,7/11/2020,Unemployed,Microscope,Pmix,Indigenous,28
+2021,F,SUKA MAJU,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2021,F,BAGAN DALAM,11,11/3/2020,Student,RDT,Pmix,Indigenous,45
+2021,M,PERUPUK,8,8/3/2020,Employees,Microscope,Pv,Indigenous,32
+2021,M,TALI AIR PERMAI,2,2/18/2020,Student,Microscope,Pv,Indigenous,8
+2021,M,LUBUK CUIK,12,12/25/2020,Student,RDT,Pv,Indigenous,52
+2021,M,PERUPUK,6,6/23/2020,Unemployed,RDT,Pmix,Indigenous,26
+2021,M,PADANG GENTING,4,4/6/2020,Student,Microscope,Pv,Indigenous,15
+2021,M,BAGAN DALAM,11,11/16/2020,Student,Microscope,Pmix,Indigenous,47
+2021,M,PERUPUK,8,8/22/2020,Housewife,RDT,Pmix,Indigenous,34
+2021,F,GUNTUNG,6,6/15/2020,Unemployed,RDT,Pv,Indigenous,25
+2021,M,BAGAN DALAM,11,11/27/2020,Housewife,RDT,Pv,Indigenous,48
+2021,F,PERUPUK,12,12/22/2020,Student,RDT,Pmix,Indigenous,52
+2021,M,LABUHAN RUKU,12,12/22/2020,Housewife,RDT,Pv,Indigenous,52
+2021,M,PERUPUK,9,9/5/2020,Farmer,RDT,Pv,Indigenous,36
+2021,M,TALI AIR PERMAI,11,11/24/2020,Traders,Microscope,Pv,Indigenous,48
+2021,F,KWALA INDAH,10,10/14/2020,Unemployed,RDT,Pv,Indigenous,42
+2021,F,TALI AIR PERMAI,6,6/26/2020,Student,Microscope,Pv,Indigenous,26
+2021,M,PERUPUK,2,2/23/2020,Traders,Microscope,Pmix,Indigenous,8
+2021,M,BOGAK,4,4/4/2020,Student,RDT,Pv,Indigenous,14
+2021,F,KWALA INDAH,3,3/13/2020,Housewife,Microscope,Pv,Indigenous,11
+2021,M,BAGAN DALAM,9,9/14/2020,Housewife,Microscope,Pv,Indigenous,38
+2021,F,BANDAR SONO,7,7/30/2020,Student,Microscope,Pmix,Indigenous,31
+2021,F,KWALA INDAH,12,12/10/2020,Student,RDT,Pv,Indigenous,50
+2021,F,Outside the PHC,9,9/8/2020,Unemployed,RDT,Pmix,Indigenous,37
+2021,M,PERUPUK,10,10/16/2020,Student,Microscope,Pv,Indigenous,42
+2021,F,KWALA INDAH,10,10/20/2020,Housewife,Microscope,Pmix,Indigenous,43
+2021,M,PERUPUK,11,11/4/2020,Student,RDT,Pv,Indigenous,45
+2021,F,Outside the PHC,6,6/15/2020,Unemployed,RDT,Pmix,Indigenous,25
+2021,M,KWALA INDAH,5,5/26/2020,Unemployed,Microscope,Pmix,Indigenous,22
+2021,M,TALI AIR PERMAI,10,10/18/2020,Petambak,RDT,Pmix,Indigenous,42
+2021,M,KWALA INDAH,12,12/1/2020,Housewife,RDT,Pv,Indigenous,49
+2021,F,BAGAN DALAM,9,9/1/2020,Student,RDT,Pf,Indigenous,36
+2021,M,LUBUK CUIK,3,3/22/2020,Fisherman,RDT,Pf,Indigenous,12
+2021,M,PERUPUK,12,12/6/2020,Unemployed,Microscope,Pv,Indigenous,49
+2021,F,DAHARI SELEBAR,7,7/1/2020,Housewife,RDT,Pv,Indigenous,27
+2021,F,KWALA INDAH,3,3/2/2020,Fisherman,RDT,Pv,Indigenous,10
+2021,M,UJUNG KUBU,8,8/30/2020,Student,RDT,Pv,Indigenous,35
+2021,F,KWALA INDAH,7,7/24/2020,Student,Microscope,Pmix,Indigenous,30
+2021,M,SUKA JAYA,3,3/23/2020,Student,RDT,Pv,Indigenous,13
+2021,M,GAMBUS LAUT,9,9/21/2020,Student,RDT,Pv,Indigenous,39
+2021,M,GUNTUNG,3,3/5/2020,Unemployed,RDT,Pv,Indigenous,10
+2021,M,GUNTUNG,11,11/20/2020,Student,Microscope,Pv,Indigenous,47
+2021,M,PERUPUK,12,12/17/2020,Housewife,RDT,Pv,Indigenous,51
+2021,M,KWALA INDAH,3,3/5/2020,Traders,Microscope,Pf,Indigenous,10
+2021,F,UJUNG KUBU,11,11/3/2020,Unemployed,RDT,Pv,Indigenous,45
+2021,M,PERUPUK,12,12/10/2020,Student,RDT,Pmix,Indigenous,50
+2021,F,PERUPUK,12,12/12/2020,Student,RDT,Pv,Indigenous,50
+2021,M,Outside the PHC,9,9/21/2020,Student,RDT,Pmix,Indigenous,39
+2021,M,UJUNG KUBU,3,3/11/2020,Student,RDT,Pv,Indigenous,11
+2021,M,TALI AIR PERMAI,6,6/8/2020,Student,Microscope,Pmix,Indigenous,24
+2021,M,KAMPUNG LALANG,7,7/25/2020,Student,RDT,Pf,Indigenous,30
+2021,M,BOGAK,2,2/13/2020,Unemployed,Microscope,Pv,Indigenous,7
+2021,M,UJUNG KUBU,12,12/2/2020,Housewife,RDT,Pv,Indigenous,49
+2021,M,TALI AIR PERMAI,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2021,F,Outside the Regency,9,9/12/2020,Housewife,RDT,Pf,Indigenous,37
+2021,F,PERUPUK,12,12/8/2020,Student,RDT,Pf,Indigenous,50
+2021,M,PERUPUK,6,6/26/2020,Housewife,Microscope,Pf,Indigenous,26
+2021,F,PERUPUK,6,6/26/2020,Housewife,Microscope,Pv,Indigenous,26
+2021,F,Outside the PHC,6,6/25/2020,Student,RDT,Pf,Indigenous,26
+2021,F,KWALA INDAH,1,1/30/2020,Student,Microscope,Pf,Indigenous,5
+2021,M,PERUPUK,9,9/24/2020,Student,RDT,Pmix,Indigenous,39
+2021,M,PAKAM RAYA,2,2/20/2020,Student,Microscope,Pmix,Indigenous,8
+2021,M,UJUNG KUBU,10,10/25/2020,Unemployed,RDT,Pv,Indigenous,43
+2021,M,KWALA INDAH,10,10/12/2020,Fisherman,Microscope,Pmix,Indigenous,42
+2021,M,KWALA INDAH,7,7/9/2020,Student,RDT,Pv,Indigenous,28
+2021,M,BAGAN DALAM,6,6/25/2020,Unemployed,Microscope,Pf,Indigenous,26
+2021,F,SUKA MAJU,6,6/23/2020,Unemployed,Microscope,Pf,Indigenous,26
+2021,F,Outside the PHC,7,7/2/2020,Student,RDT,Pv,Indigenous,27
+2021,M,TANJUNG KUBAH,5,5/16/2020,Student,RDT,Pmix,Indigenous,20
+2021,F,KWALA INDAH,9,9/29/2020,Unemployed,RDT,Pmix,Indigenous,40
+2021,F,TALI AIR PERMAI,6,6/20/2020,Unemployed,Microscope,Pv,Indigenous,25
+2021,M,KWALA INDAH,10,10/2/2020,Student,Microscope,Pmix,Indigenous,40
+2021,F,KWALA GUNUNG,10,10/23/2020,Fisherman,Microscope,Pv,Indigenous,43
+2021,F,TALI AIR PERMAI,8,8/25/2020,Student,RDT,Pv,Indigenous,35
+2021,F,PERUPUK,6,6/1/2020,Student,RDT,Pmix,Indigenous,23
+2021,M,KWALA INDAH,8,8/19/2020,Student,Microscope,Pv,Indigenous,34
+2021,M,PERUPUK,9,9/28/2020,Student,RDT,Pv,Indigenous,40
+2021,F,GAMBUS LAUT,10,10/20/2020,Housewife,RDT,Pv,Indigenous,43
+2021,F,BAGAN DALAM,4,4/8/2020,Unemployed,Microscope,Pv,Indigenous,15
+2021,F,PERUPUK,6,6/1/2020,Student,RDT,Pv,Indigenous,23
+2021,F,GAMBUS LAUT,11,11/24/2020,Traders,RDT,Pmix,Indigenous,48
+2021,F,PERUPUK,9,9/3/2020,Student,RDT,Pv,Indigenous,36
+2021,M,PEMATANG RAMBAI,8,8/7/2020,Student,RDT,Pmix,Indigenous,32
+2021,F,PERUPUK,6,6/22/2020,Student,RDT,Pv,Indigenous,26
+2021,F,PAKAM RAYA,11,11/14/2020,Housewife,RDT,Pv,Indigenous,46
+2021,F,TALI AIR PERMAI,9,9/28/2020,Unemployed,RDT,Pmix,Indigenous,40
+2021,F,UJUNG KUBU,3,3/24/2020,Student,RDT,Pv,Indigenous,13
+2021,M,Outside the PHC,11,11/16/2020,Housewife,Microscope,Pv,Indigenous,47
+2021,F,PERUPUK,1,1/24/2020,Student,Microscope,Pv,Indigenous,4
+2021,M,UJUNG KUBU,8,8/22/2020,Traders,Microscope,Pv,Indigenous,34
+2021,M,GAMBUS LAUT,6,6/8/2020,Housewife,RDT,Pmix,Indigenous,24
+2021,M,Outside the PHC,7,7/8/2020,Housewife,RDT,Pv,Indigenous,28
+2021,M,PERUPUK,6,6/8/2020,Fisherman,Microscope,Pmix,Indigenous,24
+2021,F,GUNTUNG,10,10/14/2020,Student,RDT,Pf,Indigenous,42
+2021,F,KWALA INDAH,10,10/9/2020,Fisherman,RDT,Pmix,Indigenous,41
+2021,F,KAMPUNG LALANG,11,11/5/2020,Student,Microscope,Pv,Indigenous,45
+2021,M,PERUPUK,7,7/15/2020,Student,Microscope,Pv,Indigenous,29
+2021,M,PERUPUK,11,11/17/2020,Unemployed,Microscope,Pf,Indigenous,47
+2021,M,KWALA INDAH,11,11/7/2020,Unemployed,Microscope,Pmix,Indigenous,45
+2021,M,GAMBUS LAUT,12,12/7/2020,Unemployed,RDT,Pv,Indigenous,50
+2021,F,TANJUNG TIRAM,11,11/25/2020,Student,RDT,Pv,Indigenous,48
+2021,F,PERUPUK,6,6/26/2020,Student,Microscope,Pv,Indigenous,26
+2021,M,TALI AIR PERMAI,11,11/3/2020,Housewife,RDT,Pv,Indigenous,45
+2021,F,Outside the PHC,1,1/5/2020,Unemployed,RDT,Pv,Indigenous,1
+2021,F,BOGAK,2,2/19/2020,Student,Microscope,Pv,Indigenous,8
+2021,M,KWALA INDAH,10,10/19/2020,Student,RDT,Pv,Indigenous,43
+2021,M,KWALA INDAH,11,11/10/2020,Student,Microscope,Pv,Indigenous,46
+2021,F,Outside the PHC,7,7/2/2020,Student,RDT,Pmix,Indigenous,27
+2021,M,KAMPUNG LALANG,12,12/13/2020,Housewife,RDT,Pv,Indigenous,50
+2021,M,PERUPUK,10,10/6/2020,Housewife,RDT,Pv,Indigenous,41
+2021,M,BAGAN DALAM,8,8/23/2020,Unemployed,RDT,Pv,Indigenous,34
+2021,M,PERUPUK,6,6/16/2020,Student,RDT,Pv,Indigenous,25
+2021,F,UJUNG KUBU,11,11/17/2020,Unemployed,RDT,Pv,Indigenous,47
+2021,F,PERUPUK,7,7/24/2020,Unemployed,Microscope,Pmix,Indigenous,30
+2021,M,UJUNG KUBU,6,6/17/2020,Fisherman,Microscope,Pv,Indigenous,25
+2021,F,KWALA INDAH,7,7/29/2020,Student,Microscope,Pf,Indigenous,31
+2021,M,PERUPUK,4,4/15/2020,Student,Microscope,Pv,Indigenous,16
+2021,M,KWALA INDAH,1,1/2/2020,Student,RDT,Pv,Indigenous,1
+2021,F,BOGAK,4,4/1/2020,Farmer,Microscope,Pmix,Indigenous,14
+2021,M,PERUPUK,5,5/18/2020,Student,RDT,Pmix,Indigenous,21
+2021,M,GUNTUNG,10,10/2/2020,Housewife,RDT,Pv,Indigenous,40
+2021,M,DAHARI SELEBAR,12,12/16/2020,Unemployed,RDT,Pv,Indigenous,51
+2021,F,KWALA INDAH,5,5/27/2020,Student,RDT,Pv,Indigenous,22
+2021,F,SUKA MAJU,3,3/11/2020,Unemployed,RDT,Pmix,Indigenous,11
+2021,F,BANDAR RAHMAD,9,9/11/2020,Student,Microscope,Pmix,Indigenous,37
+2021,M,DAHARI SELEBAR,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2021,F,GUNTUNG,8,8/11/2020,Fisherman,RDT,Pv,Indigenous,33
+2021,F,PEMATANG PANJANG,9,9/12/2020,Housewife,RDT,Pv,Indigenous,37
+2021,F,INDRA YAMAN,3,3/5/2020,Student,RDT,Pv,Indigenous,10
+2021,F,BAGAN BARU,5,5/11/2020,Student,Microscope,Pv,Indigenous,20
+2021,F,KWALA INDAH,11,11/17/2020,Student,Microscope,Pv,Indigenous,47
+2021,M,BAGAN DALAM,6,6/5/2020,Unemployed,Microscope,Pv,Indigenous,23
+2021,M,KWALA GUNUNG,6,6/16/2020,Student,RDT,Pmix,Indigenous,25
+2021,M,KWALA INDAH,7,7/3/2020,Housewife,Microscope,Pv,Indigenous,27
+2021,F,PERUPUK,11,11/9/2020,Unemployed,Microscope,Pv,Indigenous,46
+2021,M,DAHARI INDAH,11,11/3/2020,Student,RDT,Pf,Indigenous,45
+2021,M,LABUHAN RUKU,7,7/8/2020,Student,Microscope,Pv,Indigenous,28
+2021,F,SENTANG,12,12/1/2020,Housewife,RDT,Pv,Indigenous,49
+2021,F,GAMBUS LAUT,9,9/10/2020,Housewife,Microscope,Pmix,Indigenous,37
+2021,M,TANJUNG TIRAM,5,5/5/2020,Student,RDT,Pv,Indigenous,19
+2021,F,SUKA JAYA,5,5/21/2020,Housewife,Microscope,Pf,Indigenous,21
+2021,F,SUKA JAYA,3,3/5/2020,Housewife,Microscope,Pmix,Indigenous,10
+2021,M,SUKA JAYA,6,6/26/2020,Unemployed,RDT,Pv,Indigenous,26
+2021,F,SENTANG,7,7/20/2020,Student,Microscope,Pv,Indigenous,30
+2021,F,BAGAN DALAM,4,4/14/2020,Student,Microscope,Pmix,Indigenous,16
+2021,M,UJUNG KUBU,10,10/23/2020,Housewife,RDT,Pv,Indigenous,43
+2021,M,KWALA INDAH,7,7/22/2020,Employees,RDT,Pv,Indigenous,30
+2021,M,KWALA INDAH,7,7/23/2020,Student,Microscope,Pv,Indigenous,30
+2021,F,PERUPUK,6,6/1/2020,Unemployed,Microscope,Pmix,Indigenous,23
+2021,F,BULAN-BULAN,9,9/28/2020,Student,Microscope,Pv,Indigenous,40
+2021,F,SENTANG,3,3/19/2020,Housewife,RDT,Pv,Indigenous,12
+2021,F,Outside the PHC,9,9/8/2020,Fisherman,Microscope,Pv,Indigenous,37
+2021,M,GUNTUNG,6,6/16/2020,Housewife,Microscope,Pv,Indigenous,25
+2021,M,PERUPUK,8,8/11/2020,Unemployed,Microscope,Pv,Indigenous,33
+2021,M,PERUPUK,4,4/1/2020,Unemployed,RDT,Pv,Indigenous,14
+2021,M,KWALA GUNUNG,3,3/17/2020,Fisherman,RDT,Pv,Indigenous,12
+2021,M,TALI AIR PERMAI,7,7/29/2020,Student,RDT,Pv,Indigenous,31
+2021,M,PERUPUK,11,11/16/2020,Student,RDT,Pv,Indigenous,47
+2021,M,LALANG,9,9/9/2020,Fisherman,Microscope,Pv,Indigenous,37
+2021,F,SENTANG,12,12/10/2020,Housewife,Microscope,Pv,Indigenous,50
+2021,F,LABUHAN RUKU,9,9/7/2020,Housewife,RDT,Pf,Indigenous,37
+2021,M,MESJID LAMA,7,7/2/2020,Housewife,Microscope,Pv,Indigenous,27
+2021,F,LIMA LARAS,11,11/10/2020,Traders,Microscope,Pv,Indigenous,46
+2021,F,DAHARI INDAH,6,6/26/2020,Student,RDT,Pv,Indigenous,26
+2021,M,PERUPUK,11,11/24/2020,Student,RDT,Pmix,Indigenous,48
+2021,F,KWALA INDAH,11,11/21/2020,Fisherman,RDT,Pv,Indigenous,47
+2021,M,PERUPUK,10,10/23/2020,Unemployed,RDT,Pv,Indigenous,43
+2021,F,SUKA MAJU,9,9/28/2020,Housewife,Microscope,Pf,Indigenous,40
+2021,M,PERUPUK,4,4/1/2020,Student,RDT,Pv,Indigenous,14
+2021,F,PERUPUK,9,9/22/2020,Student,RDT,Pmix,Indigenous,39
+2021,F,TALI AIR PERMAI,3,3/16/2020,Housewife,RDT,Pmix,Indigenous,12
+2021,M,Outside the PHC,3,3/2/2020,Student,RDT,Pv,Indigenous,10
+2021,M,KWALA INDAH,7,7/8/2020,Fisherman,RDT,Pmix,Indigenous,28
+2021,M,SUKA RAMAI,10,10/2/2020,Fisherman,RDT,Pmix,Indigenous,40
+2021,M,BAGAN DALAM,9,9/25/2020,Fisherman,RDT,Pmix,Indigenous,39
+2021,M,TANJUNG KUBAH,10,10/16/2020,Fisherman,RDT,Pv,Indigenous,42
+2021,F,BAGAN DALAM,9,9/30/2020,Student,Microscope,Pv,Indigenous,40
+2021,M,Outside the PHC,11,11/27/2020,Student,RDT,Pv,Indigenous,48
+2021,M,UJUNG KUBU,8,8/7/2020,Housewife,Microscope,Pv,Indigenous,32
+2021,M,KWALA INDAH,3,3/24/2020,Housewife,Microscope,Pv,Indigenous,13
+2021,M,TALI AIR PERMAI,3,3/9/2020,Fisherman,RDT,Pv,Indigenous,11
+2021,M,BANDAR RAHMAD,11,11/30/2020,Fisherman,RDT,Pv,Indigenous,49
+2021,M,LABUHAN RUKU,6,6/25/2020,Student,RDT,Pv,Indigenous,26
+2021,M,SUKA MAJU,3,3/5/2020,Student,Microscope,Pv,Indigenous,10
+2021,M,SUKA JAYA,11,11/14/2020,Unemployed,RDT,Pv,Indigenous,46
+2021,M,SUKA JAYA,8,8/12/2020,Student,Microscope,Pv,Indigenous,33
+2021,M,TALI AIR PERMAI,12,12/15/2020,Traders,RDT,Pmix,Indigenous,51
+2021,M,GUNTUNG,10,10/20/2020,Student,RDT,Pmix,Indigenous,43
+2021,M,SENTANG,7,7/28/2020,Student,RDT,Pv,Indigenous,31
+2021,F,GAMBUS LAUT,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2021,M,KWALA INDAH,3,3/9/2020,Unemployed,Microscope,Pv,Indigenous,11
+2021,M,PERUPUK,10,10/15/2020,Student,RDT,Pmix,Indigenous,42
+2021,F,KWALA INDAH,5,5/15/2020,Housewife,RDT,Pv,Indigenous,20
+2021,M,KWALA INDAH,7,7/30/2020,Farmer,Microscope,Pf,Indigenous,31
+2021,M,PERUPUK,8,8/8/2020,Fisherman,RDT,Pf,Indigenous,32
+2021,M,TALI AIR PERMAI,2,2/10/2020,Farmer,RDT,Pv,Indigenous,7
+2021,F,BANDAR RAHMAD,6,6/22/2020,Student,RDT,Pf,Indigenous,26
+2021,F,KWALA INDAH,6,6/22/2020,Student,RDT,Pf,Indigenous,26
+2021,F,GAMBUS LAUT,6,6/22/2020,Fisherman,RDT,Pf,Indigenous,26
+2021,F,KWALA INDAH,10,10/6/2020,Fisherman,RDT,Pv,Indigenous,41
+2021,M,GAMBUS LAUT,9,9/30/2020,Employees,RDT,Pv,Indigenous,40
+2021,F,TITI MERAH,9,9/22/2020,Employees,Microscope,Pv,Indigenous,39
+2021,M,LABUHAN RUKU,6,6/16/2020,Fisherman,RDT,Pv,Indigenous,25
+2021,M,GUNTUNG,6,6/25/2020,Traders,RDT,Pv,Indigenous,26
+2021,M,KWALA INDAH,12,12/12/2020,Unemployed,RDT,Pv,Indigenous,50
+2021,M,BANDAR RAHMAD,2,2/18/2020,Housewife,Microscope,Pf,Indigenous,8
+2021,F,GUNTUNG,12,12/20/2020,Housewife,Microscope,Pv,Indigenous,51
+2021,M,PERUPUK,6,6/4/2020,Housewife,RDT,Pmix,Indigenous,23
+2021,M,GAMBUS LAUT,12,12/28/2020,Housewife,Microscope,Pmix,Indigenous,53
+2021,M,SENTANG,5,5/14/2020,Student,RDT,Pv,Indigenous,20
+2021,F,SENTANG,3,3/26/2020,Fisherman,Microscope,Pmix,Indigenous,13
+2021,F,PERUPUK,9,9/8/2020,Housewife,RDT,Pmix,Indigenous,37
+2021,F,TALI AIR PERMAI,11,11/26/2020,Unemployed,RDT,Pv,Indigenous,48
+2021,F,INDRA YAMAN,6,6/17/2020,Farmer,Microscope,Pmix,Indigenous,25
+2021,M,KWALA INDAH,2,2/18/2020,Traders,Microscope,Pmix,Indigenous,8
+2021,M,UJUNG KUBU,12,12/9/2020,Student,RDT,Pv,Indigenous,50
+2021,F,LABUHAN RUKU,6,6/17/2020,Unemployed,RDT,Pv,Indigenous,25
+2021,F,SUKA MAJU,8,8/7/2020,Fisherman,Microscope,Pv,Indigenous,32
+2021,M,TALI AIR PERMAI,5,5/8/2020,Housewife,RDT,Pv,Indigenous,19
+2021,F,UJUNG KUBU,4,4/4/2020,Fisherman,RDT,Pf,Indigenous,14
+2021,M,LABUHAN RUKU,8,8/8/2020,Fisherman,RDT,Pv,Indigenous,32
+2021,F,Outside the PHC,12,12/1/2020,Housewife,Microscope,Pf,Indigenous,49
+2021,M,PERUPUK,11,11/2/2020,Student,RDT,Pv,Indigenous,45
+2021,F,BANDAR RAHMAD,1,1/27/2020,Student,RDT,Pf,Indigenous,5
+2021,F,SUKA MAJU,7,7/14/2020,Employees,Microscope,Pv,Indigenous,29
+2021,F,PERUPUK,6,6/16/2020,Unemployed,RDT,Pv,Indigenous,25
+2021,M,GAMBUS LAUT,6,6/15/2020,Student,RDT,Pv,Indigenous,25
+2021,M,PERUPUK,3,3/23/2020,Petambak,Microscope,Pv,Indigenous,13
+2021,M,GUNTUNG,7,7/20/2020,Student,Microscope,Pv,Indigenous,30
+2021,F,Outside the PHC,12,12/20/2020,Student,RDT,Pv,Indigenous,51
+2021,M,PERUPUK,7,7/27/2020,Unemployed,RDT,Pv,Indigenous,31
+2021,M,PERUPUK,2,2/20/2020,Traders,Microscope,Pv,Indigenous,8
+2021,F,PERUPUK,8,8/19/2020,Farmer,RDT,Pmix,Indigenous,34
+2021,F,SENTANG,10,10/7/2020,Student,RDT,Pf,Indigenous,41
+2021,F,TALI AIR PERMAI,9,9/22/2020,Student,RDT,Pv,Indigenous,39
+2021,F,BAGAN DALAM,11,11/7/2020,Traders,RDT,Pv,Indigenous,45
+2021,F,GUNTUNG,10,10/29/2020,Farmer,RDT,Pv,Indigenous,44
+2021,F,PERUPUK,10,10/10/2020,Student,Microscope,Pv,Indigenous,41
+2021,F,GUNTUNG,3,3/10/2020,Unemployed,RDT,Pv,Indigenous,11
+2021,M,Outside the Regency,7,7/22/2020,Traders,Microscope,Pv,Indigenous,30
+2021,M,PERUPUK,10,10/7/2020,Unemployed,RDT,Pv,Indigenous,41
+2021,M,LABUHAN RUKU,1,1/8/2020,Student,Microscope,Pv,Indigenous,2
+2021,M,BAGAN DALAM,4,4/22/2020,Traders,RDT,Pv,Indigenous,17
+2021,M,GAMBUS LAUT,10,10/20/2020,Student,Microscope,Pf,Indigenous,43
+2021,M,SUKA RAMAI,10,10/29/2020,Student,RDT,Pmix,Indigenous,44
+2021,M,UJUNG KUBU,6,6/18/2020,Fisherman,Microscope,Pv,Indigenous,25
+2021,M,KWALA INDAH,12,12/5/2020,Student,RDT,Pv,Indigenous,49
+2021,F,KWALA GUNUNG,1,1/29/2020,Housewife,Microscope,Pv,Indigenous,5
+2021,M,SENTANG,5,5/4/2020,Fisherman,Microscope,Pv,Indigenous,19
+2021,M,PERUPUK,5,5/13/2020,Fisherman,RDT,Pv,Indigenous,20
+2021,M,GUNTUNG,7,7/7/2020,Student,RDT,Pv,Indigenous,28
+2021,M,PERUPUK,9,9/6/2020,Student,Microscope,Pf,Indigenous,36
+2021,M,PERUPUK,6,6/25/2020,Housewife,RDT,Pv,Indigenous,26
+2021,F,GUNTUNG,9,9/28/2020,Student,RDT,Pmix,Indigenous,40
+2021,M,Outside the PHC,9,9/13/2020,Unemployed,Microscope,Pv,Indigenous,37
+2021,M,BAGAN BARU,11,11/11/2020,Student,Microscope,Pv,Indigenous,46
+2021,M,PERUPUK,11,11/26/2020,Student,Microscope,Pmix,Indigenous,48
+2021,F,KWALA INDAH,5,5/26/2020,Fisherman,RDT,Pf,Indigenous,22
+2021,M,KWALA INDAH,8,8/1/2020,Traders,RDT,Pf,Indigenous,31
+2021,M,DAHARI SELEBAR,11,11/3/2020,Housewife,RDT,Pmix,Indigenous,45
+2021,M,SENTANG,9,9/23/2020,Student,RDT,Pv,Indigenous,39
+2021,F,PERUPUK,5,5/15/2020,Farmer,RDT,Pv,Indigenous,20
+2021,M,KWALA INDAH,3,3/5/2020,Fisherman,Microscope,Pv,Indigenous,10
+2021,M,GAMBUS LAUT,11,11/12/2020,Student,Microscope,Pmix,Indigenous,46
+2021,M,KWALA INDAH,12,12/8/2020,Student,Microscope,Pf,Indigenous,50
+2021,M,DAHARI INDAH,7,7/25/2020,Housewife,Microscope,Pmix,Indigenous,30
+2021,M,SUKA MAJU,12,12/8/2020,Farmer,RDT,Pv,Indigenous,50
+2021,M,GUNTUNG,9,9/8/2020,Student,Microscope,Pf,Indigenous,37
+2021,M,KWALA INDAH,3,3/23/2020,Student,RDT,Pv,Indigenous,13
+2021,M,SUKA MAJU,6,6/3/2020,Fisherman,RDT,Pmix,Indigenous,23
+2021,F,KWALA INDAH,1,1/27/2020,Student,RDT,Pmix,Indigenous,5
+2021,F,BAGAN DALAM,10,10/5/2020,Student,RDT,Pf,Indigenous,41
+2021,F,BAGAN DALAM,9,9/23/2020,Student,RDT,Pf,Indigenous,39
+2021,F,LIMA LARAS,9,9/30/2020,Student,RDT,Pv,Indigenous,40
+2021,F,GAMBUS LAUT,7,7/22/2020,Student,Microscope,Pv,Indigenous,30
+2021,M,UJUNG KUBU,10,10/9/2020,Unemployed,RDT,Pv,Indigenous,41
+2021,M,SUKA RAMAI,4,4/30/2020,Student,RDT,Pf,Indigenous,18
+2021,M,SUKA MAJU,7,7/11/2020,Unemployed,RDT,Pv,Indigenous,28
+2021,F,TANJUNG TIRAM,12,12/1/2020,Housewife,RDT,Pv,Indigenous,49
+2021,M,Outside the PHC,3,3/22/2020,Gardening,RDT,Pv,Indigenous,12
+2021,M,KWALA INDAH,12,12/16/2020,Gardening,Microscope,Pmix,Indigenous,51
+2021,M,PEMATANG RAMBAI,3,3/16/2020,Student,Microscope,Pv,Indigenous,12
+2021,M,KWALA INDAH,9,9/11/2020,Student,RDT,Pv,Indigenous,37
+2021,F,PERUPUK,6,6/17/2020,Fisherman,RDT,Pf,Indigenous,25
+2021,M,SENTANG,11,11/9/2020,Student,RDT,Pmix,Indigenous,46
+2021,M,PAHLAWAN,3,3/3/2020,Student,RDT,Pv,Indigenous,10
+2021,F,KWALA INDAH,9,9/11/2020,Housewife,Microscope,Pv,Indigenous,37
+2021,F,SUKA RAMAI,8,8/1/2020,Student,Microscope,Pv,Indigenous,31
+2021,F,SUKA MAJU,11,11/13/2020,Housewife,Microscope,Pv,Indigenous,46
+2021,F,KWALA INDAH,7,7/2/2020,Fisherman,Microscope,Pv,Indigenous,27
+2021,F,KWALA INDAH,10,10/7/2020,Student,Microscope,Pv,Indigenous,41
+2021,F,PERUPUK,12,12/1/2020,Fisherman,Microscope,Pv,Indigenous,49
+2021,F,PERUPUK,3,3/18/2020,Employees,RDT,Pv,Indigenous,12
+2021,M,PERUPUK,6,6/11/2020,Fisherman,RDT,Pf,Indigenous,24
+2021,F,PAHANG,8,8/3/2020,Student,RDT,Pv,Indigenous,32
+2021,M,LABUHAN RUKU,3,3/12/2020,Unemployed,RDT,Pf,Indigenous,11
+2021,M,PERUPUK,10,10/15/2020,Student,RDT,Pv,Indigenous,42
+2021,M,KWALA GUNUNG,7,7/14/2020,Student,RDT,Pv,Indigenous,29
+2021,M,SUKA JAYA,5,5/11/2020,Fisherman,RDT,Pf,Indigenous,20
+2021,F,GAMBUS LAUT,12,12/7/2020,Student,Microscope,Pv,Indigenous,50
+2021,F,SUKA MAJU,6,6/24/2020,Student,RDT,Pv,Indigenous,26
+2021,F,PERUPUK,11,11/5/2020,Unemployed,RDT,Pf,Indigenous,45
+2021,F,SUKA JAYA,3,3/18/2020,Student,RDT,Pv,Indigenous,12
+2021,M,PEMATANG PANJANG,12,12/12/2020,Student,Microscope,Pv,Indigenous,50
+2021,M,KWALA TANJUNG,7,7/27/2020,Student,RDT,Pf,Indigenous,31
+2021,F,KWALA INDAH,10,10/25/2020,Housewife,RDT,Pv,Indigenous,43
+2021,M,BAGAN DALAM,2,2/19/2020,Student,RDT,Pmix,Indigenous,8
+2021,M,GUNTUNG,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2021,F,GUNTUNG,9,9/7/2020,Unemployed,Microscope,Pv,Indigenous,37
+2021,M,SENTANG,3,3/12/2020,Unemployed,RDT,Pmix,Indigenous,11
+2021,M,TALI AIR PERMAI,4,4/22/2020,Student,Microscope,Pv,Indigenous,17
+2021,M,GUNTUNG,3,3/5/2020,Student,RDT,Pmix,Indigenous,10
+2021,M,PERUPUK,3,3/10/2020,Unemployed,RDT,Pf,Indigenous,11
+2021,M,TANJUNG HARAPAN,1,1/30/2020,Student,Microscope,Pv,Indigenous,5
+2021,M,SUKA JAYA,7,7/22/2020,Unemployed,RDT,Pv,Indigenous,30
+2021,M,PERUPUK,6,6/12/2020,Student,RDT,Pv,Indigenous,24
+2021,M,KWALA INDAH,10,10/16/2020,Unemployed,Microscope,Pmix,Indigenous,42
+2021,F,PERUPUK,11,11/27/2020,Fisherman,RDT,Pf,Indigenous,48
+2021,M,Outside the PHC,2,2/18/2020,Fisherman,RDT,Pmix,Indigenous,8
+2021,M,PERUPUK,9,9/17/2020,Housewife,RDT,Pv,Indigenous,38
+2021,M,BAGAN ARYA,6,6/26/2020,Housewife,RDT,Pv,Indigenous,26
+2021,M,KWALA INDAH,4,4/24/2020,Fisherman,RDT,Pv,Indigenous,17
+2021,M,GUNTUNG,10,10/12/2020,Traders,RDT,Pv,Indigenous,42
+2021,M,GAMBUS LAUT,7,7/28/2020,Student,Microscope,Pv,Indigenous,31
+2021,M,UJUNG KUBU,10,10/20/2020,Student,Microscope,Pv,Indigenous,43
+2021,M,PERUPUK,2,2/25/2020,Student,RDT,Pf,Indigenous,9
+2021,F,PERUPUK,11,11/27/2020,Student,RDT,Pf,Indigenous,48
+2021,M,KWALA INDAH,6,6/23/2020,Student,Microscope,Pv,Indigenous,26
+2021,M,PERUPUK,1,1/27/2020,Fisherman,Microscope,Pmix,Indigenous,5
+2021,F,DAHARI SELEBAR,11,11/12/2020,Student,RDT,Pmix,Indigenous,46
+2021,F,BANDAR SONO,3,3/24/2020,Fisherman,RDT,Pv,Indigenous,13
+2021,F,PERUPUK,6,6/15/2020,Student,RDT,Pv,Indigenous,25
+2021,M,BAGAN DALAM,11,11/16/2020,Student,RDT,Pv,Indigenous,47
+2021,F,TANJUNG MULIA,3,3/13/2020,Housewife,Microscope,Pv,Indigenous,11
+2021,M,PERUPUK,3,3/26/2020,Fisherman,Microscope,Pv,Indigenous,13
+2021,F,DAHARI SELEBAR,10,10/29/2020,Fisherman,RDT,Pmix,Indigenous,44
+2021,F,KAMPUNG LALANG,5,5/4/2020,Housewife,Microscope,Pv,Indigenous,19
+2021,M,PERUPUK,11,11/26/2020,Student,RDT,Pv,Indigenous,48
+2021,M,PEMATANG PANJANG,1,1/5/2020,Student,RDT,Pmix,Indigenous,1
+2021,F,PEMATANG PANJANG,10,10/26/2020,Fisherman,RDT,Pf,Indigenous,44
+2021,M,LABUHAN RUKU,3,3/5/2020,Housewife,Microscope,Pv,Indigenous,10
+2021,M,PERUPUK,4,4/1/2020,Housewife,RDT,Pv,Indigenous,14
+2021,M,DAHARI SELEBAR,11,11/19/2020,Unemployed,RDT,Pmix,Indigenous,47
+2021,F,TALI AIR PERMAI,8,8/12/2020,Student,Microscope,Pf,Indigenous,33
+2021,M,Outside the PHC,10,10/7/2020,Student,Microscope,Pv,Indigenous,41
+2021,F,KWALA INDAH,10,10/14/2020,Student,Microscope,Pv,Indigenous,42
+2021,M,GAMBUS LAUT,12,12/1/2020,Fisherman,Microscope,Pv,Indigenous,49
+2021,M,LALANG,10,10/12/2020,Student,Microscope,Pv,Indigenous,42
+2021,M,KWALA TANJUNG,12,12/29/2020,Traders,Microscope,Pv,Indigenous,53
+2021,M,TANJUNG KUBAH,8,8/24/2020,Fisherman,Microscope,Pmix,Indigenous,35
+2021,F,KWALA INDAH,12,12/12/2020,Traders,Microscope,Pv,Indigenous,50
+2021,M,SUKA JAYA,9,9/24/2020,Fisherman,RDT,Pv,Indigenous,39
+2021,M,KWALA INDAH,10,10/19/2020,Student,RDT,Pv,Indigenous,43
+2021,M,TALI AIR PERMAI,9,9/16/2020,Student,Microscope,Pv,Indigenous,38
+2021,M,GUNTUNG,10,10/14/2020,Unemployed,RDT,Pv,Indigenous,42
+2021,F,LABUHAN RUKU,10,10/10/2020,Unemployed,Microscope,Pv,Indigenous,41
+2021,M,KWALA INDAH,11,11/2/2020,Student,RDT,Pv,Indigenous,45
+2021,M,BAGAN DALAM,9,9/1/2020,Unemployed,RDT,Pv,Indigenous,36
+2021,M,TALI AIR PERMAI,12,12/21/2020,Housewife,Microscope,Pv,Indigenous,52
+2021,M,Outside the PHC,11,11/23/2020,Student,RDT,Pv,Indigenous,48
+2021,F,PERUPUK,3,3/3/2020,Student,Microscope,Pv,Indigenous,10
+2021,M,SUKA MAJU,12,12/11/2020,Petambak,RDT,Pv,Indigenous,50
+2021,M,BAGAN DALAM,2,2/23/2020,Student,Microscope,Pv,Indigenous,8
+2021,M,GAMBUS LAUT,1,1/5/2020,Student,Microscope,Pmix,Indigenous,1
+2021,F,LABUHAN RUKU,12,12/16/2020,Fisherman,RDT,Pv,Indigenous,51
+2021,F,KWALA INDAH,6,6/24/2020,Unemployed,RDT,Pv,Indigenous,26
+2021,F,KWALA INDAH,10,10/29/2020,Fisherman,Microscope,Pf,Indigenous,44
+2021,M,BAGAN DALAM,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2021,M,SUKA MAJU,1,1/16/2020,Student,RDT,Pf,Indigenous,3
+2021,M,GAMBUS LAUT,5,5/1/2020,Unemployed,Microscope,Pmix,Indigenous,18
+2021,M,SUKA JAYA,9,9/16/2020,Housewife,RDT,Pv,Indigenous,38
+2021,M,TANJUNG TIRAM,7,7/2/2020,Fisherman,RDT,Pv,Indigenous,27
+2021,F,KWALA INDAH,10,10/6/2020,Student,RDT,Pmix,Indigenous,41
+2021,F,PERUPUK,10,10/2/2020,Housewife,Microscope,Pv,Indigenous,40
+2021,M,SUKA JAYA,10,10/2/2020,Petambak,Microscope,Pv,Indigenous,40
+2021,M,SUKA JAYA,12,12/7/2020,Unemployed,Microscope,Pmix,Indigenous,50
+2021,F,PERUPUK,9,9/1/2020,Fisherman,Microscope,Pf,Indigenous,36
+2021,M,PERUPUK,9,9/21/2020,Housewife,RDT,Pmix,Indigenous,39
+2021,F,KWALA INDAH,9,9/17/2020,Traders,RDT,Pmix,Indigenous,38
+2021,M,INDRA YAMAN,4,4/15/2020,Housewife,RDT,Pv,Indigenous,16
+2021,M,TANJUNG TIRAM,8,8/19/2020,Fisherman,Microscope,Pf,Indigenous,34
+2021,M,PERUPUK,12,12/15/2020,Student,Microscope,Pv,Indigenous,51
+2021,F,PERUPUK,7,7/2/2020,Student,Microscope,Pv,Indigenous,27
+2021,M,Outside the PHC,6,6/8/2020,Unemployed,RDT,Pf,Indigenous,24
+2021,F,Outside the PHC,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2021,M,BAGAN DALAM,6,6/1/2020,Student,RDT,Pv,Indigenous,23
+2021,M,KWALA INDAH,11,11/18/2020,Student,RDT,Pv,Indigenous,47
+2021,F,SUKA MAJU,11,11/24/2020,Traders,RDT,Pmix,Indigenous,48
+2021,F,PERUPUK,4,4/12/2020,Unemployed,RDT,Pv,Indigenous,15
+2021,M,PERUPUK,8,8/8/2020,Farmer,Microscope,Pv,Indigenous,32
+2021,F,Outside the PHC,10,10/22/2020,Student,RDT,Pv,Indigenous,43
+2021,F,KWALA INDAH,3,3/10/2020,Farmer,Microscope,Pv,Indigenous,11
+2021,F,BAGAN DALAM,11,11/17/2020,Student,RDT,Pv,Indigenous,47
+2021,F,Outside the PHC,8,8/3/2020,Student,Microscope,Pv,Indigenous,32
+2021,M,GUNTUNG,3,3/5/2020,Housewife,Microscope,Pv,Indigenous,10
+2021,M,TALI AIR PERMAI,3,3/3/2020,Fisherman,RDT,Pv,Indigenous,10
+2021,F,DAHARI SELEBAR,8,8/3/2020,Unemployed,RDT,Pf,Indigenous,32
+2021,M,UJUNG KUBU,9,9/11/2020,Housewife,RDT,Pv,Indigenous,37
+2021,M,TALI AIR PERMAI,4,4/8/2020,Student,RDT,Pv,Indigenous,15
+2021,F,PEMATANG RAMBAI,6,6/23/2020,Traders,Microscope,Pv,Indigenous,26
+2021,M,PEMATANG KUING,7,7/23/2020,Student,Microscope,Pv,Indigenous,30
+2021,M,DAHARI INDAH,12,12/5/2020,Student,RDT,Pv,Indigenous,49
+2021,F,KWALA INDAH,11,11/17/2020,Student,RDT,Pmix,Indigenous,47
+2021,M,GAMBUS LAUT,12,12/16/2020,Unemployed,RDT,Pv,Indigenous,51
+2021,F,PERUPUK,2,2/28/2020,Student,Microscope,Pv,Indigenous,9
+2021,M,Outside the PHC,5,5/8/2020,Fisherman,Microscope,Pmix,Indigenous,19
+2021,M,KWALA INDAH,11,11/16/2020,Fisherman,RDT,Pv,Indigenous,47
+2021,F,SUKA MAJU,3,3/13/2020,Student,RDT,Pv,Indigenous,11
+2021,F,GUNTUNG,8,8/8/2020,Farmer,Microscope,Pv,Indigenous,32
+2021,F,KWALA INDAH,10,10/12/2020,Student,RDT,Pmix,Indigenous,42
+2021,F,PERUPUK,7,7/7/2020,Unemployed,Microscope,Pmix,Indigenous,28
+2021,F,BANDAR RAHMAD,10,10/13/2020,Fisherman,Microscope,Pv,Indigenous,42
+2021,M,SENTANG,6,6/24/2020,Unemployed,Microscope,Pmix,Indigenous,26
+2021,M,KWALA GUNUNG,11,11/28/2020,Student,Microscope,Pmix,Indigenous,48
+2021,M,TANJUNG TIRAM,5,5/15/2020,Student,Microscope,Pf,Indigenous,20
+2021,F,PERUPUK,5,5/16/2020,Student,RDT,Pv,Indigenous,20
+2021,M,PEMATANG PANJANG,9,9/24/2020,Traders,RDT,Pv,Indigenous,39
+2021,F,KWALA INDAH,9,9/1/2020,Student,Microscope,Pv,Indigenous,36
+2021,F,TITI PAYUNG,9,9/16/2020,Housewife,Microscope,Pf,Indigenous,38
+2021,F,DAHARI SELEBAR,6,6/18/2020,Unemployed,RDT,Pmix,Indigenous,25
+2021,M,SUKA JAYA,3,3/10/2020,Student,RDT,Pv,Indigenous,11
+2021,M,KWALA INDAH,9,9/3/2020,Student,RDT,Pv,Indigenous,36
+2021,F,TANJUNG KUBAH,6,6/30/2020,Traders,Microscope,Pmix,Indigenous,27
+2021,M,INDRA YAMAN,5,5/5/2020,Gardening,Microscope,Pv,Indigenous,19
+2021,F,TALI AIR PERMAI,11,11/19/2020,Unemployed,RDT,Pv,Indigenous,47
+2021,F,DAHARI INDAH,11,11/24/2020,Traders,RDT,Pv,Indigenous,48
+2021,M,Outside the PHC,6,6/15/2020,Housewife,RDT,Pmix,Indigenous,25
+2021,M,KWALA INDAH,5,5/11/2020,Student,Microscope,Pv,Indigenous,20
+2021,F,BANDAR SONO,5,5/15/2020,Fisherman,Microscope,Pv,Indigenous,20
+2021,F,KWALA INDAH,6,6/18/2020,Student,RDT,Pf,Indigenous,25
+2021,M,BAGAN DALAM,2,2/17/2020,Housewife,RDT,Pv,Indigenous,8
+2021,M,GUNTUNG,1,1/8/2020,Unemployed,Microscope,Pv,Indigenous,2
+2021,M,SUKA JAYA,4,4/6/2020,Student,RDT,Pmix,Indigenous,15
+2021,F,SUKA JAYA,7,7/25/2020,Unemployed,RDT,Pf,Indigenous,30
+2021,F,GUNTUNG,2,2/13/2020,Unemployed,Microscope,Pmix,Indigenous,7
+2021,F,SUKA MAJU,11,11/17/2020,Unemployed,RDT,Pf,Indigenous,47
+2021,M,GUNTUNG,11,11/24/2020,Student,RDT,Pf,Indigenous,48
+2021,M,GAMBUS LAUT,10,10/14/2020,Student,Microscope,Pmix,Indigenous,42
+2021,M,PERUPUK,2,2/13/2020,Traders,Microscope,Pv,Indigenous,7
+2021,M,PERUPUK,11,11/22/2020,Housewife,RDT,Pmix,Indigenous,47
+2021,F,BAGAN DALAM,3,3/10/2020,Farmer,RDT,Pf,Indigenous,11
+2021,F,PERUPUK,6,6/22/2020,Student,Microscope,Pv,Indigenous,26
+2021,M,PERUPUK,11,11/11/2020,Student,RDT,Pv,Indigenous,46
+2021,M,KWALA INDAH,11,11/18/2020,Housewife,RDT,Pmix,Indigenous,47
+2021,F,SUKA RAMAI,11,11/21/2020,Unemployed,RDT,Pv,Indigenous,47
+2021,M,KWALA INDAH,5,5/18/2020,Housewife,RDT,Pv,Indigenous,21
+2021,M,DAHARI INDAH,6,6/24/2020,Unemployed,RDT,Pv,Indigenous,26
+2021,M,GUNTUNG,1,1/31/2020,Unemployed,RDT,Pmix,Indigenous,5
+2021,M,PERUPUK,3,3/10/2020,Farmer,Microscope,Pv,Indigenous,11
+2021,F,SUKA MAJU,12,12/17/2020,Student,RDT,Pf,Indigenous,51
+2021,F,INDRA YAMAN,11,11/20/2020,Student,RDT,Pv,Indigenous,47
+2021,M,KWALA INDAH,10,10/9/2020,Housewife,RDT,Pmix,Indigenous,41
+2021,F,TALI AIR PERMAI,11,11/2/2020,Fisherman,Microscope,Pv,Indigenous,45
+2021,F,SUKA RAMAI,1,1/27/2020,Student,Microscope,Pf,Indigenous,5
+2021,F,KWALA INDAH,7,7/25/2020,Student,Microscope,Pv,Indigenous,30
+2021,F,TALI AIR PERMAI,12,12/5/2020,Unemployed,RDT,Pmix,Indigenous,49
+2021,F,PEMATANG RAMBAI,1,1/2/2020,Petambak,RDT,Pv,Indigenous,1
+2021,M,KAMPUNG LALANG,12,12/5/2020,Unemployed,RDT,Pv,Indigenous,49
+2021,M,PERUPUK,10,10/2/2020,Student,RDT,Pv,Indigenous,40
+2021,M,KWALA INDAH,7,7/11/2020,Housewife,RDT,Pmix,Indigenous,28
+2021,M,LIMA LARAS,10,10/22/2020,Housewife,Microscope,Pf,Indigenous,43
+2021,F,GUNTUNG,1,1/16/2020,Student,Microscope,Pv,Indigenous,3
+2021,F,PEMATANG JERING,5,5/5/2020,Student,RDT,Pmix,Indigenous,19
+2021,F,TALI AIR PERMAI,12,12/7/2020,Student,RDT,Pv,Indigenous,50
+2021,M,KWALA INDAH,8,8/19/2020,Farmer,RDT,Pv,Indigenous,34
+2021,M,KWALA GUNUNG,9,9/28/2020,Student,RDT,Pv,Indigenous,40
+2021,M,SUKA JAYA,12,12/8/2020,Housewife,RDT,Pmix,Indigenous,50
+2021,M,SUKA JAYA,12,12/15/2020,Student,RDT,Pmix,Indigenous,51
+2021,F,TALI AIR PERMAI,12,12/9/2020,Student,Microscope,Pv,Indigenous,50
+2021,F,Outside the PHC,11,11/18/2020,Unemployed,RDT,Pv,Indigenous,47
+2021,M,TITI MERAH,9,9/24/2020,Student,Microscope,Pf,Indigenous,39
+2021,M,MESJID LAMA,9,9/23/2020,Traders,RDT,Pv,Indigenous,39
+2021,F,BOGAK,12,12/29/2020,Unemployed,RDT,Pv,Indigenous,53
+2021,M,TALI AIR PERMAI,11,11/27/2020,Housewife,Microscope,Pv,Indigenous,48
+2021,F,KWALA INDAH,10,10/5/2020,Student,Microscope,Pv,Indigenous,41
+2021,F,GAMBUS LAUT,8,8/12/2020,Unemployed,Microscope,Pf,Indigenous,33
+2021,M,TALI AIR PERMAI,5,5/10/2020,Unemployed,RDT,Pmix,Indigenous,19
+2021,M,PERUPUK,4,4/8/2020,Farmer,RDT,Pv,Indigenous,15
+2021,M,GUNTUNG,8,8/24/2020,Student,Microscope,Pv,Indigenous,35
+2021,F,PERUPUK,10,10/7/2020,Traders,RDT,Pv,Indigenous,41
+2021,F,KWALA INDAH,9,9/28/2020,Unemployed,RDT,Pv,Indigenous,40
+2021,F,BAGAN DALAM,7,7/2/2020,Fisherman,Microscope,Pmix,Indigenous,27
+2021,M,PERUPUK,11,11/17/2020,Student,Microscope,Pv,Indigenous,47
+2021,F,Outside the PHC,7,7/14/2020,Unemployed,RDT,Pv,Indigenous,29
+2021,F,PEMATANG RAMBAI,7,7/29/2020,Student,RDT,Pv,Indigenous,31
+2021,M,PERUPUK,10,10/12/2020,Traders,RDT,Pv,Indigenous,42
+2021,M,KWALA INDAH,12,12/12/2020,Unemployed,RDT,Pf,Indigenous,50
+2021,F,KWALA INDAH,12,12/6/2020,Housewife,Microscope,Pv,Indigenous,49
+2021,F,GAMBUS LAUT,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2021,M,PERUPUK,9,9/23/2020,Student,Microscope,Pv,Indigenous,39
+2021,M,DAHARI INDAH,12,12/1/2020,Unemployed,RDT,Pv,Indigenous,49
+2021,M,PERUPUK,9,9/22/2020,Student,RDT,Pv,Indigenous,39
+2021,F,TALI AIR PERMAI,12,12/15/2020,Unemployed,RDT,Pv,Indigenous,51
+2021,F,PAHLAWAN,6,6/26/2020,Housewife,RDT,Pv,Indigenous,26
+2021,F,UJUNG KUBU,12,12/7/2020,Student,Microscope,Pv,Indigenous,50
+2021,M,KWALA INDAH,4,4/11/2020,Fisherman,Microscope,Pv,Indigenous,15
+2021,M,KWALA INDAH,9,9/22/2020,Student,RDT,Pv,Indigenous,39
+2021,M,PERUPUK,5,5/8/2020,Student,Microscope,Pf,Indigenous,19
+2021,M,PEMATANG RAMBAI,12,12/16/2020,Student,Microscope,Pv,Indigenous,51
+2021,M,PERUPUK,9,9/8/2020,Student,RDT,Pv,Indigenous,37
+2021,F,TALI AIR PERMAI,1,1/30/2020,Housewife,RDT,Pf,Indigenous,5
+2021,M,KWALA INDAH,12,12/6/2020,Student,RDT,Pf,Indigenous,49
+2021,M,UJUNG KUBU,2,2/18/2020,Student,RDT,Pv,Indigenous,8
+2021,M,LABUHAN RUKU,2,2/17/2020,Student,RDT,Pv,Indigenous,8
+2021,M,BAGAN DALAM,3,3/2/2020,Fisherman,RDT,Pv,Indigenous,10
+2021,M,KWALA INDAH,10,10/20/2020,Fisherman,RDT,Pv,Indigenous,43
+2021,M,GAMBUS LAUT,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2021,F,SUKA JAYA,4,4/30/2020,Unemployed,Microscope,Pv,Indigenous,18
+2021,M,Outside the PHC,9,9/11/2020,Unemployed,RDT,Pmix,Indigenous,37
+2021,M,SUKA MAJU,3,3/16/2020,Student,RDT,Pv,Indigenous,12
+2021,M,SUKA MAJU,3,3/22/2020,Fisherman,RDT,Pf,Indigenous,12
+2021,M,UJUNG KUBU,6,6/26/2020,Fisherman,RDT,Pf,Indigenous,26
+2021,F,KWALA GUNUNG,7,7/24/2020,Student,RDT,Pv,Indigenous,30
+2021,M,PAHLAWAN,1,1/30/2020,Unemployed,Microscope,Pmix,Indigenous,5
+2021,F,UJUNG KUBU,12,12/30/2020,Student,Microscope,Pv,Indigenous,53
+2021,F,UJUNG KUBU,4,4/6/2020,Student,RDT,Pmix,Indigenous,15
+2021,M,KWALA INDAH,8,8/8/2020,Student,RDT,Pv,Indigenous,32
+2021,M,TALI AIR PERMAI,5,5/8/2020,Unemployed,Microscope,Pf,Indigenous,19
+2021,M,KWALA INDAH,10,10/5/2020,Student,RDT,Pf,Indigenous,41
+2021,F,TALI AIR PERMAI,4,4/11/2020,Student,Microscope,Pmix,Indigenous,15
+2021,F,GAMBUS LAUT,6,6/1/2020,Student,RDT,Pf,Indigenous,23
+2021,M,PERUPUK,3,3/23/2020,Housewife,Microscope,Pmix,Indigenous,13
+2021,F,BAGAN DALAM,11,11/19/2020,Unemployed,RDT,Pmix,Indigenous,47
+2021,M,SUKA RAMAI,4,4/30/2020,Student,RDT,Pf,Indigenous,18
+2021,F,INDRA YAMAN,1,1/9/2020,Housewife,Microscope,Pv,Indigenous,2
+2021,M,KWALA INDAH,2,2/23/2020,Student,Microscope,Pv,Indigenous,8
+2021,M,LUBUK CUIK,11,11/27/2020,Student,RDT,Pmix,Indigenous,48
+2021,M,PERUPUK,3,3/17/2020,Farmer,Microscope,Pv,Indigenous,12
+2021,F,TALI AIR PERMAI,3,3/21/2020,Student,RDT,Pv,Indigenous,12
+2021,M,KWALA GUNUNG,2,2/18/2020,Housewife,RDT,Pv,Indigenous,8
+2021,F,PERUPUK,8,8/29/2020,Student,Microscope,Pv,Indigenous,35
+2021,F,GAMBUS LAUT,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2021,F,GAMBUS LAUT,4,4/18/2020,Student,Microscope,Pv,Indigenous,16
+2021,F,KWALA INDAH,11,11/2/2020,Fisherman,Microscope,Pv,Indigenous,45
+2021,F,Outside the PHC,11,11/19/2020,Housewife,RDT,Pf,Indigenous,47
+2021,M,TALI AIR PERMAI,10,10/4/2020,Student,RDT,Pf,Indigenous,40
+2021,F,PERUPUK,4,4/14/2020,Fisherman,RDT,Pf,Indigenous,16
+2021,F,GUNTUNG,1,1/27/2020,Fisherman,Microscope,Pv,Indigenous,5
+2021,M,KWALA INDAH,7,7/2/2020,Fisherman,RDT,Pv,Indigenous,27
+2021,F,SENTANG,11,11/27/2020,Student,RDT,Pv,Indigenous,48
+2021,M,PERUPUK,7,7/23/2020,Employees,RDT,Pv,Indigenous,30
+2021,M,TALI AIR PERMAI,12,12/5/2020,Student,Microscope,Pv,Indigenous,49
+2021,M,UJUNG KUBU,2,2/17/2020,Unemployed,Microscope,Pmix,Indigenous,8
+2021,M,PERUPUK,11,11/7/2020,Student,RDT,Pf,Indigenous,45
+2021,M,Outside the PHC,1,1/8/2020,Student,RDT,Pv,Indigenous,2
+2021,F,PERUPUK,9,9/10/2020,Fisherman,RDT,Pmix,Indigenous,37
+2021,F,SUKA MAJU,5,5/18/2020,Housewife,Microscope,Pmix,Indigenous,21
+2021,M,TITI MERAH,11,11/18/2020,Housewife,Microscope,Pv,Indigenous,47
+2021,F,LIMAU SUNDAI,5,5/15/2020,Student,Microscope,Pv,Indigenous,20
+2021,F,GUNTUNG,11,11/17/2020,Gardening,RDT,Pv,Indigenous,47
+2021,F,TALI AIR PERMAI,2,2/28/2020,Fisherman,RDT,Pv,Indigenous,9
+2021,M,BAGAN DALAM,10,10/20/2020,Student,Microscope,Pv,Indigenous,43
+2021,F,GAMBUS LAUT,11,11/25/2020,Housewife,RDT,Pv,Indigenous,48
+2021,F,TALI AIR PERMAI,11,11/25/2020,Farmer,Microscope,Pf,Indigenous,48
+2021,F,PADANG GENTING,6,6/30/2020,Student,Microscope,Pv,Indigenous,27
+2021,M,PERUPUK,6,6/3/2020,Student,Microscope,Pv,Indigenous,23
+2021,M,PERUPUK,5,5/27/2020,Housewife,Microscope,Pv,Indigenous,22
+2021,M,SUKA MAJU,5,5/18/2020,Housewife,Microscope,Pv,Indigenous,21
+2021,F,PERUPUK,12,12/11/2020,Housewife,RDT,Pv,Indigenous,50
+2021,M,Outside the PHC,2,2/10/2020,Fisherman,RDT,Pv,Indigenous,7
+2021,M,KWALA INDAH,5,5/26/2020,Student,Microscope,Pmix,Indigenous,22
+2021,M,DAHARI SELEBAR,11,11/18/2020,Farmer,RDT,Pv,Indigenous,47
+2021,M,LALANG,9,9/5/2020,Student,Microscope,Pv,Indigenous,36
+2021,M,LABUHAN RUKU,10,10/20/2020,Student,Microscope,Pmix,Indigenous,43
+2021,M,TALI AIR PERMAI,10,10/10/2020,Student,RDT,Pv,Indigenous,41
+2021,F,SUKA MAJU,3,3/12/2020,Fisherman,Microscope,Pv,Indigenous,11
+2021,F,TALI AIR PERMAI,12,12/10/2020,Student,Microscope,Pmix,Indigenous,50
+2021,M,TITI PAYUNG,5,5/27/2020,Traders,Microscope,Pv,Indigenous,22
+2021,F,PEMATANG RAMBAI,5,5/21/2020,Traders,RDT,Pv,Indigenous,21
+2021,M,BULAN-BULAN,10,10/22/2020,Housewife,Microscope,Pv,Indigenous,43
+2021,M,PERUPUK,11,11/23/2020,Student,RDT,Pv,Indigenous,48
+2021,F,PERUPUK,10,10/12/2020,Unemployed,RDT,Pv,Indigenous,42
+2021,F,UJUNG KUBU,6,6/9/2020,Student,RDT,Pmix,Indigenous,24
+2021,M,Outside the PHC,7,7/20/2020,Fisherman,RDT,Pf,Indigenous,30
+2021,M,PERUPUK,1,1/16/2020,Fisherman,RDT,Pv,Indigenous,3
+2021,M,BAGAN DALAM,2,2/10/2020,Student,Microscope,Pf,Indigenous,7
+2021,M,PERUPUK,4,4/12/2020,Student,Microscope,Pv,Indigenous,15
+2021,F,PERUPUK,10,10/20/2020,Fisherman,RDT,Pv,Indigenous,43
+2021,F,SENTANG,5,5/10/2020,Student,Microscope,Pmix,Indigenous,19
+2021,M,PERUPUK,8,8/19/2020,Housewife,RDT,Pf,Indigenous,34
+2021,M,KWALA INDAH,9,9/16/2020,Unemployed,RDT,Pv,Indigenous,38
+2021,F,PASIR PERMIT,10,10/20/2020,Unemployed,Microscope,Pmix,Indigenous,43
+2021,M,KWALA INDAH,7,7/22/2020,Housewife,RDT,Pmix,Indigenous,30
+2021,M,PERUPUK,9,9/24/2020,Housewife,RDT,Pv,Indigenous,39
+2021,F,KWALA INDAH,10,10/13/2020,Housewife,RDT,Pmix,Indigenous,42
+2021,F,DAHARI SELEBAR,6,6/26/2020,Student,Microscope,Pv,Indigenous,26
+2021,M,BAGAN DALAM,11,11/18/2020,Housewife,Microscope,Pv,Indigenous,47
+2021,M,PERUPUK,5,5/11/2020,Farmer,RDT,Pv,Indigenous,20
+2021,M,DAHARI SELEBAR,5,5/15/2020,Housewife,RDT,Pf,Indigenous,20
+2021,M,TALI AIR PERMAI,7,7/1/2020,Fisherman,Microscope,Pf,Indigenous,27
+2021,M,PERUPUK,11,11/23/2020,Housewife,RDT,Pf,Indigenous,48
+2021,F,Outside the Regency,1,1/5/2020,Petambak,Microscope,Pv,Indigenous,1
+2021,F,TALI AIR PERMAI,6,6/24/2020,Student,Microscope,Pmix,Indigenous,26
+2021,M,KWALA INDAH,5,5/25/2020,Unemployed,Microscope,Pf,Indigenous,22
+2021,F,DAHARI INDAH,6,6/22/2020,Student,RDT,Pv,Indigenous,26
+2021,M,BANDAR RAHMAD,11,11/17/2020,Housewife,RDT,Pmix,Indigenous,47
+2021,M,KWALA INDAH,12,12/29/2020,Traders,RDT,Pv,Indigenous,53
+2021,M,SENTANG,12,12/1/2020,Housewife,Microscope,Pv,Indigenous,49
+2021,F,Outside the PHC,11,11/10/2020,Student,RDT,Pmix,Indigenous,46
+2021,F,Outside the PHC,5,5/8/2020,Student,RDT,Pf,Indigenous,19
+2021,F,KWALA TANJUNG,12,12/16/2020,Student,RDT,Pv,Indigenous,51
+2021,M,TANJUNG MULIA,1,1/30/2020,Student,RDT,Pv,Indigenous,5
+2021,F,SENTANG,7,7/25/2020,Unemployed,Microscope,Pmix,Indigenous,30
+2021,M,Outside the PHC,9,9/10/2020,Student,RDT,Pmix,Indigenous,37
+2021,M,BAGAN DALAM,10,10/6/2020,Student,RDT,Pv,Indigenous,41
+2021,F,KWALA INDAH,6,6/8/2020,Housewife,RDT,Pv,Indigenous,24
+2021,M,UJUNG KUBU,6,6/11/2020,Traders,RDT,Pv,Indigenous,24
+2021,M,PEMATANG RAMBAI,7,7/24/2020,Student,Microscope,Pmix,Indigenous,30
+2021,M,PEMATANG RAMBAI,7,7/7/2020,Fisherman,Microscope,Pv,Indigenous,28
+2021,M,KWALA INDAH,5,5/27/2020,Student,Microscope,Pv,Indigenous,22
+2021,F,DAHARI SELEBAR,2,2/20/2020,Student,RDT,Pv,Indigenous,8
+2021,M,BANDAR RAHMAD,10,10/19/2020,Student,Microscope,Pv,Indigenous,43
+2021,F,DAHARI SELEBAR,12,12/22/2020,Housewife,RDT,Pv,Indigenous,52
+2021,M,PERUPUK,2,2/10/2020,Housewife,Microscope,Pmix,Indigenous,7
+2021,M,PEMATANG RAMBAI,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2021,F,PERUPUK,2,2/15/2020,Fisherman,RDT,Pv,Indigenous,7
+2021,M,BOGAK,7,7/29/2020,Unemployed,Microscope,Pf,Indigenous,31
+2021,M,UJUNG KUBU,11,11/12/2020,Student,Microscope,Pf,Indigenous,46
+2021,M,TALI AIR PERMAI,9,9/16/2020,Housewife,Microscope,Pv,Indigenous,38
+2021,F,PERUPUK,11,11/16/2020,Unemployed,Microscope,Pv,Indigenous,47
+2021,F,DAHARI SELEBAR,5,5/27/2020,Housewife,Microscope,Pf,Indigenous,22
+2021,M,KWALA INDAH,4,4/14/2020,Unemployed,Microscope,Pv,Indigenous,16
+2021,M,TALI AIR PERMAI,6,6/24/2020,Housewife,Microscope,Pf,Indigenous,26
+2021,M,KAMPUNG LALANG,4,4/12/2020,Petambak,Microscope,Pmix,Indigenous,15
+2021,F,BAGAN DALAM,6,6/26/2020,Student,RDT,Pv,Indigenous,26
+2021,F,PERUPUK,11,11/24/2020,Student,RDT,Pmix,Indigenous,48
+2021,M,PERUPUK,6,6/8/2020,Housewife,RDT,Pv,Indigenous,24
+2021,F,PERUPUK,11,11/5/2020,Employees,Microscope,Pmix,Indigenous,45
+2021,M,SUKA JAYA,9,9/8/2020,Unemployed,RDT,Pf,Indigenous,37
+2021,F,KWALA INDAH,3,3/13/2020,Student,RDT,Pv,Indigenous,11
+2021,M,KWALA INDAH,2,2/13/2020,Housewife,Microscope,Pv,Indigenous,7
+2021,M,SUKA JAYA,6,6/22/2020,Fisherman,RDT,Pv,Indigenous,26
+2021,F,TITI MERAH,12,12/1/2020,Student,RDT,Pf,Indigenous,49
+2021,F,KWALA INDAH,8,8/22/2020,Traders,RDT,Pv,Indigenous,34
+2021,F,INDRA YAMAN,7,7/13/2020,Unemployed,Microscope,Pv,Indigenous,29
+2021,M,TALI AIR PERMAI,6,6/15/2020,Traders,RDT,Pv,Indigenous,25
+2021,M,Outside the PHC,9,9/16/2020,Student,Microscope,Pf,Indigenous,38
+2021,M,SENTANG,5,5/16/2020,Traders,RDT,Pmix,Indigenous,20
+2021,F,KWALA INDAH,11,11/20/2020,Fisherman,Microscope,Pv,Indigenous,47
+2021,M,KWALA INDAH,9,9/19/2020,Student,RDT,Pv,Indigenous,38
+2021,F,UJUNG KUBU,9,9/11/2020,Traders,RDT,Pv,Indigenous,37
+2021,F,KAMPUNG LALANG,11,11/12/2020,Student,Microscope,Pmix,Indigenous,46
+2021,F,PERUPUK,5,5/8/2020,Fisherman,Microscope,Pv,Indigenous,19
+2021,F,PERUPUK,10,10/21/2020,Employees,Microscope,Pf,Indigenous,43
+2021,M,SUKA MAJU,4,4/6/2020,Fisherman,Microscope,Pmix,Indigenous,15
+2021,M,PERUPUK,11,11/28/2020,Student,Microscope,Pv,Indigenous,48
+2021,F,TALI AIR PERMAI,5,5/27/2020,Student,Microscope,Pmix,Indigenous,22
+2021,M,PERUPUK,10,10/13/2020,Student,Microscope,Pmix,Indigenous,42
+2021,F,BAGAN DALAM,9,9/2/2020,Fisherman,Microscope,Pv,Indigenous,36
+2021,M,GAMBUS LAUT,11,11/25/2020,Student,Microscope,Pv,Indigenous,48
+2021,F,Outside the PHC,12,12/11/2020,Farmer,Microscope,Pv,Indigenous,50
+2021,M,PERUPUK,6,6/17/2020,Student,Microscope,Pmix,Indigenous,25
+2021,F,TALI AIR PERMAI,10,10/29/2020,Fisherman,RDT,Pf,Indigenous,44
+2021,M,KWALA INDAH,12,12/13/2020,Fisherman,Microscope,Pv,Indigenous,50
+2021,M,UJUNG KUBU,11,11/23/2020,Student,RDT,Pmix,Indigenous,48
+2021,F,LIMA LARAS,10,10/5/2020,Fisherman,Microscope,Pf,Indigenous,41
+2021,F,DAHARI SELEBAR,12,12/4/2020,Fisherman,RDT,Pv,Indigenous,49
+2021,F,DAHARI SELEBAR,7,7/28/2020,Housewife,RDT,Pmix,Indigenous,31
+2021,F,LABUHAN RUKU,5,5/15/2020,Farmer,RDT,Pv,Indigenous,20
+2021,F,PERUPUK,4,4/22/2020,Student,RDT,Pv,Indigenous,17
+2021,M,PERUPUK,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2021,M,GUNTUNG,7,7/22/2020,Unemployed,Microscope,Pmix,Indigenous,30
+2021,F,BAGAN DALAM,3,3/12/2020,Student,Microscope,Pf,Indigenous,11
+2021,F,TALI AIR PERMAI,10,10/7/2020,Traders,Microscope,Pv,Indigenous,41
+2021,M,BANDAR RAHMAD,2,2/25/2020,Student,RDT,Pv,Indigenous,9
+2021,F,UJUNG KUBU,4,4/12/2020,Housewife,RDT,Pv,Indigenous,15
+2021,M,UJUNG KUBU,12,12/20/2020,Traders,RDT,Pmix,Indigenous,51
+2021,M,KWALA INDAH,12,12/1/2020,Fisherman,Microscope,Pmix,Indigenous,49
+2021,M,PERUPUK,12,12/25/2020,Student,RDT,Pf,Indigenous,52
+2021,M,GUNTUNG,5,5/26/2020,Housewife,Microscope,Pv,Indigenous,22
+2021,M,BANDAR RAHMAD,11,11/19/2020,Gardening,RDT,Pv,Indigenous,47
+2021,F,TALI AIR PERMAI,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2021,M,TALI AIR PERMAI,7,7/14/2020,Student,Microscope,Pv,Indigenous,29
+2021,M,GUNTUNG,9,9/7/2020,Traders,Microscope,Pv,Indigenous,37
+2021,M,GUNTUNG,9,9/21/2020,Student,RDT,Pv,Indigenous,39
+2021,M,TALI AIR PERMAI,6,6/26/2020,Unemployed,Microscope,Pv,Indigenous,26
+2021,F,KWALA INDAH,11,11/12/2020,Housewife,Microscope,Pv,Indigenous,46
+2022,M,PERUPUK,8,8/7/2020,Traders,Microscope,Pf,Indigenous,32
+2022,F,PEMATANG JERING,1,1/9/2020,Fisherman,Microscope,Pv,Indigenous,2
+2022,M,BANDAR RAHMAD,11,11/28/2020,Student,Microscope,Pv,Indigenous,48
+2022,F,KAMPUNG LALANG,3,3/23/2020,Student,RDT,Pv,Indigenous,13
+2022,F,TALI AIR PERMAI,9,9/2/2020,Housewife,Microscope,Pv,Indigenous,36
+2022,F,PERUPUK,11,11/11/2020,Farmer,RDT,Pv,Indigenous,46
+2022,M,KWALA INDAH,5,5/18/2020,Student,Microscope,Pv,Indigenous,21
+2022,F,PERUPUK,12,12/20/2020,Farmer,RDT,Pf,Indigenous,51
+2022,F,PERUPUK,11,11/23/2020,Housewife,Microscope,Pv,Indigenous,48
+2022,M,TANJUNG KUBAH,6,6/8/2020,Student,Microscope,Pv,Indigenous,24
+2022,F,KWALA INDAH,3,3/11/2020,Unemployed,RDT,Pv,Indigenous,11
+2022,M,PERUPUK,10,10/21/2020,Fisherman,RDT,Pf,Indigenous,43
+2022,M,KWALA INDAH,10,10/9/2020,Student,RDT,Pv,Indigenous,41
+2022,M,BAGAN DALAM,11,11/14/2020,Unemployed,RDT,Pmix,Indigenous,46
+2022,M,Outside the PHC,10,10/21/2020,Housewife,Microscope,Pv,Indigenous,43
+2022,M,KWALA INDAH,7,7/3/2020,Student,RDT,Pv,Indigenous,27
+2022,M,SENTANG,5,5/15/2020,Student,Microscope,Pv,Indigenous,20
+2022,F,PERUPUK,3,3/2/2020,Traders,RDT,Pf,Indigenous,10
+2022,M,SUKA MAJU,5,5/21/2020,Unemployed,RDT,Pv,Indigenous,21
+2022,M,Outside the Regency,5,5/9/2020,Student,RDT,Pv,Indigenous,19
+2022,M,DAHARI INDAH,6,6/3/2020,Student,RDT,Pf,Indigenous,23
+2022,F,TANJUNG KUBAH,12,12/17/2020,Unemployed,RDT,Pv,Indigenous,51
+2022,F,INDRA YAMAN,3,3/16/2020,Student,Microscope,Pv,Indigenous,12
+2022,F,PEMATANG RAMBAI,5,5/15/2020,Student,RDT,Pv,Indigenous,20
+2022,M,GAMBUS LAUT,4,4/11/2020,Petambak,Microscope,Pv,Indigenous,15
+2022,M,Outside the PHC,12,12/16/2020,Housewife,Microscope,Pv,Indigenous,51
+2022,F,LABUHAN RUKU,12,12/8/2020,Student,RDT,Pv,Indigenous,50
+2022,M,PERUPUK,11,11/14/2020,Unemployed,RDT,Pv,Indigenous,46
+2022,F,Outside the PHC,10,10/4/2020,Housewife,Microscope,Pv,Indigenous,40
+2022,M,GAMBUS LAUT,9,9/8/2020,Housewife,Microscope,Pv,Indigenous,37
+2022,F,SENTANG,6,6/3/2020,Student,Microscope,Pv,Indigenous,23
+2022,M,SUKA MAJU,5,5/12/2020,Housewife,RDT,Pv,Indigenous,20
+2022,F,KWALA INDAH,4,4/13/2020,Student,RDT,Pv,Indigenous,16
+2022,M,PEMATANG RAMBAI,6,6/25/2020,Housewife,RDT,Pf,Indigenous,26
+2022,F,KWALA INDAH,8,8/4/2020,Housewife,Microscope,Pf,Indigenous,32
+2022,M,GUNTUNG,5,5/17/2020,Unemployed,RDT,Pv,Indigenous,20
+2022,M,LABUHAN RUKU,9,9/22/2020,Student,Microscope,Pmix,Indigenous,39
+2022,M,TALI AIR PERMAI,7,7/22/2020,Student,RDT,Pmix,Indigenous,30
+2022,F,PERUPUK,7,7/15/2020,Fisherman,RDT,Pv,Indigenous,29
+2022,M,SENTANG,11,11/30/2020,Fisherman,Microscope,Pv,Indigenous,49
+2022,M,UJUNG KUBU,4,4/13/2020,Unemployed,Microscope,Pv,Indigenous,16
+2022,M,KWALA INDAH,10,10/2/2020,Housewife,RDT,Pf,Indigenous,40
+2022,M,SENTANG,1,1/27/2020,Housewife,RDT,Pf,Indigenous,5
+2022,M,SENTANG,12,12/16/2020,Gardening,Microscope,Pf,Indigenous,51
+2022,M,BANDAR SONO,4,4/4/2020,Student,RDT,Pv,Indigenous,14
+2022,M,DAHARI INDAH,10,10/12/2020,Unemployed,RDT,Pv,Indigenous,42
+2022,F,PADANG GENTING,6,6/19/2020,Unemployed,Microscope,Pv,Indigenous,25
+2022,F,SUKA MAJU,10,10/6/2020,Unemployed,Microscope,Pf,Indigenous,41
+2022,M,TALI AIR PERMAI,10,10/12/2020,Housewife,RDT,Pv,Indigenous,42
+2022,M,SUKA RAMAI,4,4/18/2020,Student,RDT,Pmix,Indigenous,16
+2022,M,BAGAN DALAM,3,3/24/2020,Fisherman,Microscope,Pmix,Indigenous,13
+2022,F,GAMBUS LAUT,6,6/26/2020,Student,RDT,Pf,Indigenous,26
+2022,F,BAGAN DALAM,9,9/1/2020,Farmer,RDT,Pmix,Indigenous,36
+2022,F,SUKA JAYA,5,5/9/2020,Student,Microscope,Pv,Indigenous,19
+2022,F,PERUPUK,9,9/23/2020,Unemployed,RDT,Pmix,Indigenous,39
+2022,F,SUKA JAYA,12,12/4/2020,Student,Microscope,Pv,Indigenous,49
+2022,M,DAHARI SELEBAR,9,9/22/2020,Student,Microscope,Pv,Indigenous,39
+2022,M,KWALA INDAH,11,11/20/2020,Housewife,RDT,Pmix,Indigenous,47
+2022,F,LALANG,6,6/16/2020,Housewife,Microscope,Pf,Indigenous,25
+2022,F,KWALA INDAH,6,6/4/2020,Farmer,RDT,Pv,Indigenous,23
+2022,M,UJUNG KUBU,10,10/2/2020,Student,RDT,Pf,Indigenous,40
+2022,F,SUKA JAYA,7,7/22/2020,Student,RDT,Pv,Indigenous,30
+2022,M,GUNTUNG,6,6/15/2020,Housewife,RDT,Pf,Indigenous,25
+2022,M,PEMATANG RAMBAI,4,4/1/2020,Student,Microscope,Pv,Indigenous,14
+2022,M,BOGAK,2,2/18/2020,Housewife,RDT,Pv,Indigenous,8
+2022,M,KWALA TANJUNG,11,11/21/2020,Unemployed,Microscope,Pf,Indigenous,47
+2022,M,GAMBUS LAUT,10,10/15/2020,Student,Microscope,Pv,Indigenous,42
+2022,F,LIMAU SUNDAI,12,12/1/2020,Housewife,Microscope,Pv,Indigenous,49
+2022,F,TALI AIR PERMAI,10,10/6/2020,Fisherman,RDT,Pv,Indigenous,41
+2022,F,KWALA INDAH,9,9/22/2020,Unemployed,Microscope,Pf,Indigenous,39
+2022,M,TALI AIR PERMAI,12,12/19/2020,Fisherman,RDT,Pv,Indigenous,51
+2022,M,KWALA INDAH,5,5/10/2020,Student,RDT,Pv,Indigenous,19
+2022,F,DAHARI SELEBAR,9,9/16/2020,Student,Microscope,Pv,Indigenous,38
+2022,M,PERUPUK,3,3/3/2020,Student,Microscope,Pmix,Indigenous,10
+2022,F,SUKA JAYA,6,6/4/2020,Student,RDT,Pv,Indigenous,23
+2022,M,SUKA JAYA,3,3/12/2020,Student,RDT,Pv,Indigenous,11
+2022,F,TALI AIR PERMAI,4,4/4/2020,Student,RDT,Pmix,Indigenous,14
+2022,M,PAHLAWAN,6,6/16/2020,Student,Microscope,Pv,Indigenous,25
+2022,F,KWALA INDAH,5,5/10/2020,Fisherman,Microscope,Pf,Indigenous,19
+2022,M,GAMBUS LAUT,11,11/26/2020,Student,RDT,Pv,Indigenous,48
+2022,F,SENTANG,10,10/29/2020,Unemployed,Microscope,Pv,Indigenous,44
+2022,F,Outside the PHC,2,2/28/2020,Housewife,RDT,Pv,Indigenous,9
+2022,F,GUNTUNG,9,9/19/2020,Housewife,RDT,Pv,Indigenous,38
+2022,F,PERUPUK,7,7/23/2020,Student,RDT,Pv,Indigenous,30
+2022,F,KWALA TANJUNG,7,7/22/2020,Student,RDT,Pmix,Indigenous,30
+2022,F,BAGAN DALAM,8,8/8/2020,Unemployed,RDT,Pv,Indigenous,32
+2022,M,SENTANG,7,7/30/2020,Petambak,Microscope,Pv,Indigenous,31
+2022,M,UJUNG KUBU,2,2/28/2020,Housewife,RDT,Pv,Indigenous,9
+2022,M,BAGAN DALAM,9,9/1/2020,Student,Microscope,Pmix,Indigenous,36
+2022,M,PERUPUK,4,4/25/2020,Student,RDT,Pf,Indigenous,17
+2022,M,TALI AIR PERMAI,9,9/28/2020,Student,RDT,Pv,Indigenous,40
+2022,M,TALI AIR PERMAI,3,3/10/2020,Fisherman,Microscope,Pv,Indigenous,11
+2022,F,GUNTUNG,6,6/5/2020,Housewife,RDT,Pv,Indigenous,23
+2022,F,KWALA INDAH,8,8/7/2020,Student,Microscope,Pmix,Indigenous,32
+2022,M,BAGAN DALAM,5,5/25/2020,Student,RDT,Pv,Indigenous,22
+2022,M,PERUPUK,10,10/24/2020,Fisherman,RDT,Pv,Indigenous,43
+2022,F,KWALA INDAH,8,8/23/2020,Student,RDT,Pv,Indigenous,34
+2022,F,GAMBUS LAUT,8,8/7/2020,Farmer,Microscope,Pv,Indigenous,32
+2022,M,DAHARI SELEBAR,10,10/22/2020,Fisherman,Microscope,Pv,Indigenous,43
+2022,M,SUKA MAJU,9,9/22/2020,Traders,Microscope,Pf,Indigenous,39
+2022,M,KWALA INDAH,3,3/24/2020,Employees,RDT,Pv,Indigenous,13
+2022,F,UJUNG KUBU,10,10/20/2020,Fisherman,RDT,Pv,Indigenous,43
+2022,M,BAGAN DALAM,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2022,F,BULAN-BULAN,9,9/3/2020,Housewife,RDT,Pv,Indigenous,36
+2022,M,PERUPUK,1,1/9/2020,Student,RDT,Pv,Indigenous,2
+2022,M,SUKA JAYA,3,3/26/2020,Traders,RDT,Pmix,Indigenous,13
+2022,M,GUNTUNG,11,11/10/2020,Fisherman,RDT,Pv,Indigenous,46
+2022,M,SUKA JAYA,11,11/30/2020,Housewife,RDT,Pv,Indigenous,49
+2022,M,BAGAN DALAM,3,3/26/2020,Farmer,RDT,Pv,Indigenous,13
+2022,M,KWALA INDAH,12,12/15/2020,Fisherman,RDT,Pmix,Indigenous,51
+2022,M,SUKA RAMAI,11,11/12/2020,Unemployed,Microscope,Pmix,Indigenous,46
+2022,F,UJUNG KUBU,10,10/6/2020,Student,Microscope,Pmix,Indigenous,41
+2022,M,LABUHAN RUKU,10,10/7/2020,Petambak,RDT,Pf,Indigenous,41
+2022,F,SUKA JAYA,6,6/15/2020,Unemployed,RDT,Pmix,Indigenous,25
+2022,F,KWALA INDAH,6,6/23/2020,Student,Microscope,Pf,Indigenous,26
+2022,M,KWALA INDAH,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2022,M,SUKA JAYA,2,2/19/2020,Fisherman,RDT,Pmix,Indigenous,8
+2022,F,PERUPUK,7,7/7/2020,Student,RDT,Pv,Indigenous,28
+2022,F,BAGAN DALAM,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2022,M,LABUHAN RUKU,9,9/29/2020,Unemployed,RDT,Pv,Indigenous,40
+2022,M,PERUPUK,11,11/28/2020,Fisherman,RDT,Pv,Indigenous,48
+2022,F,GAMBUS LAUT,4,4/12/2020,Unemployed,RDT,Pv,Indigenous,15
+2022,F,PERUPUK,7,7/9/2020,Fisherman,Microscope,Pmix,Indigenous,28
+2022,F,PAHLAWAN,6,6/20/2020,Unemployed,RDT,Pmix,Indigenous,25
+2022,M,GUNTUNG,11,11/30/2020,Employees,RDT,Pv,Indigenous,49
+2022,M,TALI AIR PERMAI,10,10/9/2020,Housewife,RDT,Pmix,Indigenous,41
+2022,F,PEMATANG RAMBAI,11,11/12/2020,Housewife,Microscope,Pv,Indigenous,46
+2022,F,SUKA JAYA,7,7/15/2020,Unemployed,RDT,Pv,Indigenous,29
+2022,M,UJUNG KUBU,8,8/8/2020,Student,RDT,Pmix,Indigenous,32
+2022,M,PERUPUK,3,3/22/2020,Student,Microscope,Pv,Indigenous,12
+2022,F,PERUPUK,10,10/8/2020,Student,RDT,Pv,Indigenous,41
+2022,F,PADANG GENTING,11,11/18/2020,Student,RDT,Pv,Indigenous,47
+2022,M,TANJUNG HARAPAN,12,12/12/2020,Student,Microscope,Pmix,Indigenous,50
+2022,M,PERUPUK,12,12/7/2020,Fisherman,RDT,Pv,Indigenous,50
+2022,F,LABUHAN RUKU,9,9/28/2020,Fisherman,Microscope,Pv,Indigenous,40
+2022,F,LABUHAN RUKU,12,12/11/2020,Unemployed,RDT,Pv,Indigenous,50
+2022,F,Outside the PHC,7,7/9/2020,Employees,Microscope,Pv,Indigenous,28
+2022,F,TALI AIR PERMAI,12,12/8/2020,Housewife,Microscope,Pv,Indigenous,50
+2022,F,TALI AIR PERMAI,5,5/4/2020,Student,RDT,Pf,Indigenous,19
+2022,M,KWALA INDAH,7,7/15/2020,Farmer,Microscope,Pmix,Indigenous,29
+2022,F,PEMATANG JERING,12,12/7/2020,Housewife,RDT,Pmix,Indigenous,50
+2022,F,UJUNG KUBU,12,12/4/2020,Student,Microscope,Pv,Indigenous,49
+2022,M,LIMA LARAS,8,8/10/2020,Student,Microscope,Pv,Indigenous,33
+2022,F,PASIR PERMIT,11,11/11/2020,Student,Microscope,Pf,Indigenous,46
+2022,M,Outside the PHC,9,9/16/2020,Unemployed,Microscope,Pv,Indigenous,38
+2022,F,TALI AIR PERMAI,10,10/2/2020,Unemployed,RDT,Pf,Indigenous,40
+2022,M,UJUNG KUBU,3,3/11/2020,Student,Microscope,Pv,Indigenous,11
+2022,M,LABUHAN RUKU,11,11/3/2020,Student,RDT,Pv,Indigenous,45
+2022,F,PAHLAWAN,3,3/23/2020,Employees,RDT,Pv,Indigenous,13
+2022,M,BAGAN DALAM,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2022,M,GAMBUS LAUT,6,6/4/2020,Unemployed,RDT,Pv,Indigenous,23
+2022,M,SUKA MAJU,12,12/10/2020,Traders,Microscope,Pv,Indigenous,50
+2022,F,KWALA INDAH,5,5/9/2020,Unemployed,RDT,Pv,Indigenous,19
+2022,M,SUKA RAMAI,11,11/27/2020,Unemployed,RDT,Pf,Indigenous,48
+2022,F,TITI PAYUNG,6,6/26/2020,Traders,RDT,Pv,Indigenous,26
+2022,M,PEMATANG RAMBAI,6,6/1/2020,Student,Microscope,Pv,Indigenous,23
+2022,M,GUNTUNG,10,10/4/2020,Student,RDT,Pmix,Indigenous,40
+2022,M,GAMBUS LAUT,12,12/2/2020,Traders,Microscope,Pv,Indigenous,49
+2022,M,TALI AIR PERMAI,5,5/16/2020,Unemployed,Microscope,Pmix,Indigenous,20
+2022,M,UJUNG KUBU,10,10/7/2020,Housewife,RDT,Pv,Indigenous,41
+2022,M,SUKA JAYA,6,6/3/2020,Housewife,RDT,Pv,Indigenous,23
+2022,F,BAGAN DALAM,3,3/26/2020,Fisherman,RDT,Pv,Indigenous,13
+2022,M,TALI AIR PERMAI,10,10/6/2020,Student,RDT,Pv,Indigenous,41
+2022,M,BAGAN DALAM,6,6/24/2020,Student,RDT,Pv,Indigenous,26
+2022,M,TALI AIR PERMAI,11,11/17/2020,Housewife,RDT,Pv,Indigenous,47
+2022,F,PEMATANG PANJANG,8,8/8/2020,Student,RDT,Pf,Indigenous,32
+2022,M,TALI AIR PERMAI,6,6/8/2020,Unemployed,Microscope,Pv,Indigenous,24
+2022,M,SUKA JAYA,3,3/5/2020,Employees,RDT,Pv,Indigenous,10
+2022,M,PAKAM RAYA,11,11/3/2020,Fisherman,RDT,Pf,Indigenous,45
+2022,M,SUKA JAYA,4,4/1/2020,Housewife,RDT,Pv,Indigenous,14
+2022,M,KWALA INDAH,9,9/24/2020,Gardening,RDT,Pv,Indigenous,39
+2022,F,TALI AIR PERMAI,1,1/24/2020,Housewife,RDT,Pv,Indigenous,4
+2022,F,SENTANG,9,9/6/2020,Fisherman,RDT,Pmix,Indigenous,36
+2022,F,SUKA MAJU,11,11/18/2020,Fisherman,Microscope,Pmix,Indigenous,47
+2022,M,UJUNG KUBU,9,9/28/2020,Housewife,RDT,Pv,Indigenous,40
+2022,M,GAMBUS LAUT,7,7/29/2020,Housewife,Microscope,Pv,Indigenous,31
+2022,F,SENTANG,4,4/14/2020,Housewife,Microscope,Pv,Indigenous,16
+2022,M,PERUPUK,6,6/22/2020,Unemployed,RDT,Pv,Indigenous,26
+2022,M,GAMBUS LAUT,12,12/17/2020,Student,RDT,Pmix,Indigenous,51
+2022,F,SUKA JAYA,12,12/22/2020,Housewife,RDT,Pv,Indigenous,52
+2022,M,PERUPUK,8,8/1/2020,Fisherman,Microscope,Pmix,Indigenous,31
+2022,M,KWALA INDAH,10,10/7/2020,Unemployed,Microscope,Pv,Indigenous,41
+2022,F,KWALA GUNUNG,10,10/10/2020,Student,RDT,Pmix,Indigenous,41
+2022,F,TALI AIR PERMAI,4,4/4/2020,Student,RDT,Pmix,Indigenous,14
+2022,F,PEMATANG KUING,11,11/2/2020,Student,RDT,Pv,Indigenous,45
+2022,F,PEMATANG RAMBAI,3,3/5/2020,Unemployed,RDT,Pf,Indigenous,10
+2022,M,PERUPUK,6,6/3/2020,Student,Microscope,Pf,Indigenous,23
+2022,F,GUNTUNG,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2022,M,TALI AIR PERMAI,6,6/15/2020,Student,RDT,Pv,Indigenous,25
+2022,M,TALI AIR PERMAI,1,1/4/2020,Student,Microscope,Pv,Indigenous,1
+2022,M,GAMBUS LAUT,9,9/3/2020,Student,Microscope,Pmix,Indigenous,36
+2022,M,SUKA RAMAI,6,6/26/2020,Student,RDT,Pf,Indigenous,26
+2022,F,PERUPUK,12,12/4/2020,Student,Microscope,Pv,Indigenous,49
+2022,M,UJUNG KUBU,10,10/5/2020,Student,Microscope,Pv,Indigenous,41
+2022,F,SENTANG,11,11/11/2020,Unemployed,RDT,Pv,Indigenous,46
+2022,M,KWALA INDAH,11,11/13/2020,Housewife,Microscope,Pmix,Indigenous,46
+2022,M,GUNTUNG,7,7/14/2020,Student,Microscope,Pv,Indigenous,29
+2022,F,TITI PAYUNG,7,7/29/2020,Fisherman,RDT,Pf,Indigenous,31
+2022,M,PEMATANG JERING,10,10/20/2020,Housewife,RDT,Pv,Indigenous,43
+2022,M,TALI AIR PERMAI,7,7/7/2020,Unemployed,RDT,Pmix,Indigenous,28
+2022,M,PERUPUK,1,1/29/2020,Fisherman,RDT,Pv,Indigenous,5
+2022,F,TALI AIR PERMAI,12,12/4/2020,Fisherman,Microscope,Pf,Indigenous,49
+2022,M,PERUPUK,4,4/15/2020,Student,RDT,Pv,Indigenous,16
+2022,M,LABUHAN RUKU,10,10/9/2020,Petambak,RDT,Pv,Indigenous,41
+2022,M,DAHARI INDAH,12,12/10/2020,Student,RDT,Pv,Indigenous,50
+2022,F,KWALA INDAH,7,7/15/2020,Student,Microscope,Pf,Indigenous,29
+2022,F,TALI AIR PERMAI,10,10/2/2020,Unemployed,RDT,Pv,Indigenous,40
+2022,F,PERUPUK,10,10/23/2020,Student,RDT,Pv,Indigenous,43
+2022,M,KAMPUNG LALANG,5,5/16/2020,Unemployed,Microscope,Pf,Indigenous,20
+2022,F,BAGAN DALAM,12,12/1/2020,Student,Microscope,Pv,Indigenous,49
+2022,M,PERUPUK,2,2/17/2020,Student,Microscope,Pv,Indigenous,8
+2022,M,Outside the PHC,3,3/5/2020,Student,RDT,Pv,Indigenous,10
+2022,M,PERUPUK,7,7/7/2020,Student,RDT,Pf,Indigenous,28
+2022,M,UJUNG KUBU,1,1/4/2020,Student,RDT,Pf,Indigenous,1
+2022,F,KAMPUNG LALANG,11,11/12/2020,Student,Microscope,Pmix,Indigenous,46
+2022,F,GUNTUNG,5,5/5/2020,Student,Microscope,Pv,Indigenous,19
+2022,F,BAGAN DALAM,10,10/20/2020,Student,Microscope,Pv,Indigenous,43
+2022,F,PERUPUK,7,7/11/2020,Student,Microscope,Pv,Indigenous,28
+2022,F,KWALA INDAH,11,11/14/2020,Unemployed,Microscope,Pmix,Indigenous,46
+2022,F,KWALA INDAH,2,2/23/2020,Housewife,RDT,Pv,Indigenous,8
+2022,F,TALI AIR PERMAI,1,1/16/2020,Employees,Microscope,Pv,Indigenous,3
+2022,M,TALI AIR PERMAI,6,6/24/2020,Student,Microscope,Pf,Indigenous,26
+2022,M,PERUPUK,10,10/8/2020,Fisherman,RDT,Pv,Indigenous,41
+2022,M,TALI AIR PERMAI,3,3/22/2020,Student,Microscope,Pv,Indigenous,12
+2022,M,BOGAK,6,6/26/2020,Housewife,RDT,Pv,Indigenous,26
+2022,F,SUKA JAYA,5,5/4/2020,Housewife,RDT,Pmix,Indigenous,19
+2022,F,BAGAN DALAM,6,6/17/2020,Traders,RDT,Pv,Indigenous,25
+2022,M,TALI AIR PERMAI,7,7/15/2020,Housewife,Microscope,Pmix,Indigenous,29
+2022,M,LIMAU SUNDAI,11,11/19/2020,Student,Microscope,Pf,Indigenous,47
+2022,M,BAGAN DALAM,10,10/5/2020,Unemployed,Microscope,Pv,Indigenous,41
+2022,M,KWALA INDAH,9,9/21/2020,Student,Microscope,Pmix,Indigenous,39
+2022,F,SUKA MAJU,8,8/29/2020,Housewife,Microscope,Pv,Indigenous,35
+2022,M,BAGAN DALAM,7,7/7/2020,Student,Microscope,Pv,Indigenous,28
+2022,M,TALI AIR PERMAI,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2022,F,PAHLAWAN,9,9/24/2020,Student,RDT,Pmix,Indigenous,39
+2022,M,BAGAN DALAM,12,12/8/2020,Student,RDT,Pv,Indigenous,50
+2022,M,GUNTUNG,8,8/4/2020,Unemployed,Microscope,Pmix,Indigenous,32
+2022,F,SUKA JAYA,9,9/30/2020,Housewife,RDT,Pv,Indigenous,40
+2022,F,GAMBUS LAUT,8,8/24/2020,Student,Microscope,Pv,Indigenous,35
+2022,F,PERUPUK,6,6/12/2020,Unemployed,RDT,Pv,Indigenous,24
+2022,M,Outside the Regency,11,11/11/2020,Fisherman,RDT,Pv,Indigenous,46
+2022,F,TANJUNG HARAPAN,8,8/4/2020,Housewife,RDT,Pmix,Indigenous,32
+2022,M,GUNTUNG,3,3/24/2020,Housewife,RDT,Pmix,Indigenous,13
+2022,M,GUNTUNG,7,7/15/2020,Student,RDT,Pv,Indigenous,29
+2022,F,GAMBUS LAUT,11,11/19/2020,Student,RDT,Pv,Indigenous,47
+2022,F,UJUNG KUBU,4,4/11/2020,Student,Microscope,Pv,Indigenous,15
+2022,M,LABUHAN RUKU,10,10/25/2020,Student,Microscope,Pv,Indigenous,43
+2022,F,LABUHAN RUKU,5,5/8/2020,Fisherman,RDT,Pv,Indigenous,19
+2022,M,Outside the Regency,10,10/20/2020,Unemployed,RDT,Pmix,Indigenous,43
+2022,M,UJUNG KUBU,11,11/14/2020,Student,Microscope,Pv,Indigenous,46
+2022,M,GAMBUS LAUT,10,10/26/2020,Housewife,RDT,Pv,Indigenous,44
+2022,F,PERUPUK,6,6/5/2020,Student,RDT,Pf,Indigenous,23
+2022,F,BAGAN DALAM,12,12/7/2020,Student,RDT,Pv,Indigenous,50
+2022,M,PEMATANG JERING,1,1/29/2020,Student,Microscope,Pmix,Indigenous,5
+2022,F,TALI AIR PERMAI,7,7/6/2020,Fisherman,RDT,Pv,Indigenous,28
+2022,M,GUNTUNG,11,11/28/2020,Fisherman,RDT,Pv,Indigenous,48
+2022,F,KWALA INDAH,5,5/18/2020,Student,RDT,Pv,Indigenous,21
+2022,M,TALI AIR PERMAI,8,8/30/2020,Housewife,RDT,Pv,Indigenous,35
+2022,F,UJUNG KUBU,11,11/17/2020,Student,Microscope,Pv,Indigenous,47
+2022,F,GAMBUS LAUT,6,6/15/2020,Unemployed,Microscope,Pv,Indigenous,25
+2022,M,KWALA INDAH,11,11/18/2020,Fisherman,RDT,Pv,Indigenous,47
+2022,M,KWALA INDAH,10,10/10/2020,Unemployed,RDT,Pv,Indigenous,41
+2022,F,DAHARI INDAH,7,7/6/2020,Housewife,RDT,Pv,Indigenous,28
+2022,M,PAHLAWAN,9,9/25/2020,Unemployed,Microscope,Pv,Indigenous,39
+2022,F,KWALA INDAH,6,6/23/2020,Student,RDT,Pv,Indigenous,26
+2022,F,SUKA MAJU,11,11/3/2020,Unemployed,RDT,Pv,Indigenous,45
+2022,F,PERUPUK,11,11/20/2020,Student,RDT,Pv,Indigenous,47
+2022,F,SUKA MAJU,6,6/24/2020,Housewife,Microscope,Pv,Indigenous,26
+2022,F,LIMA LARAS,1,1/24/2020,Student,RDT,Pv,Indigenous,4
+2022,F,DAHARI INDAH,11,11/12/2020,Student,Microscope,Pv,Indigenous,46
+2022,F,GUNTUNG,1,1/9/2020,Unemployed,RDT,Pv,Indigenous,2
+2022,F,PEMATANG JERING,3,3/9/2020,Student,RDT,Pv,Indigenous,11
+2022,F,SENTANG,12,12/28/2020,Unemployed,Microscope,Pv,Indigenous,53
+2022,F,GAMBUS LAUT,4,4/7/2020,Student,Microscope,Pv,Indigenous,15
+2022,F,TANJUNG HARAPAN,3,3/5/2020,Student,RDT,Pf,Indigenous,10
+2022,M,BAGAN DALAM,11,11/5/2020,Student,RDT,Pmix,Indigenous,45
+2022,M,Outside the PHC,9,9/18/2020,Student,Microscope,Pv,Indigenous,38
+2022,M,KWALA INDAH,11,11/28/2020,Student,Microscope,Pv,Indigenous,48
+2022,M,BANDAR SONO,7,7/14/2020,Fisherman,RDT,Pmix,Indigenous,29
+2022,F,PAHLAWAN,10,10/10/2020,Student,RDT,Pv,Indigenous,41
+2022,F,TALI AIR PERMAI,3,3/17/2020,Housewife,Microscope,Pmix,Indigenous,12
+2022,M,TALI AIR PERMAI,12,12/2/2020,Housewife,RDT,Pmix,Indigenous,49
+2022,F,PERUPUK,8,8/3/2020,Petambak,Microscope,Pv,Indigenous,32
+2022,F,GUNTUNG,4,4/23/2020,Unemployed,Microscope,Pv,Indigenous,17
+2022,M,SUKA MAJU,12,12/9/2020,Housewife,RDT,Pmix,Indigenous,50
+2022,F,BANDAR SONO,10,10/26/2020,Student,Microscope,Pv,Indigenous,44
+2022,M,TALI AIR PERMAI,9,9/22/2020,Housewife,RDT,Pv,Indigenous,39
+2022,M,LIMA LARAS,10,10/16/2020,Unemployed,RDT,Pmix,Indigenous,42
+2022,F,KWALA INDAH,12,12/7/2020,Student,RDT,Pf,Indigenous,50
+2022,F,SUKA JAYA,6,6/18/2020,Student,Microscope,Pv,Indigenous,25
+2022,M,BAGAN DALAM,9,9/30/2020,Housewife,RDT,Pv,Indigenous,40
+2022,M,TALI AIR PERMAI,7,7/9/2020,Housewife,Microscope,Pmix,Indigenous,28
+2022,F,GUNTUNG,5,5/15/2020,Student,RDT,Pmix,Indigenous,20
+2022,M,LABUHAN RUKU,10,10/20/2020,Student,RDT,Pmix,Indigenous,43
+2022,M,Outside the PHC,11,11/30/2020,Student,RDT,Pmix,Indigenous,49
+2022,F,BAGAN DALAM,9,9/20/2020,Student,Microscope,Pv,Indigenous,38
+2022,F,LABUHAN RUKU,9,9/5/2020,Student,RDT,Pv,Indigenous,36
+2022,M,KWALA INDAH,6,6/1/2020,Housewife,Microscope,Pf,Indigenous,23
+2022,F,PERUPUK,9,9/5/2020,Fisherman,Microscope,Pv,Indigenous,36
+2022,M,PEMATANG CENGKRING,11,11/19/2020,Student,Microscope,Pv,Indigenous,47
+2022,M,TALI AIR PERMAI,3,3/26/2020,Student,RDT,Pf,Indigenous,13
+2022,F,DAHARI SELEBAR,10,10/10/2020,Student,Microscope,Pv,Indigenous,41
+2022,M,UJUNG KUBU,10,10/20/2020,Fisherman,RDT,Pv,Indigenous,43
+2022,M,PERUPUK,9,9/21/2020,Gardening,Microscope,Pmix,Indigenous,39
+2022,M,PEMATANG RAMBAI,3,3/5/2020,Student,RDT,Pv,Indigenous,10
+2022,F,KWALA INDAH,6,6/15/2020,Housewife,Microscope,Pf,Indigenous,25
+2022,M,DAHARI INDAH,12,12/6/2020,Student,RDT,Pf,Indigenous,49
+2022,M,SUKA RAMAI,11,11/21/2020,Student,Microscope,Pmix,Indigenous,47
+2022,M,GAMBUS LAUT,4,4/1/2020,Student,Microscope,Pmix,Indigenous,14
+2022,F,LABUHAN RUKU,9,9/22/2020,Housewife,Microscope,Pv,Indigenous,39
+2022,F,UJUNG KUBU,3,3/21/2020,Fisherman,RDT,Pv,Indigenous,12
+2022,F,UJUNG KUBU,9,9/17/2020,Housewife,Microscope,Pv,Indigenous,38
+2022,F,KWALA INDAH,10,10/15/2020,Student,RDT,Pv,Indigenous,42
+2022,M,PERUPUK,10,10/8/2020,Housewife,Microscope,Pv,Indigenous,41
+2022,M,KWALA INDAH,6,6/15/2020,Student,RDT,Pv,Indigenous,25
+2022,F,PERUPUK,11,11/3/2020,Housewife,RDT,Pv,Indigenous,45
+2022,M,UJUNG KUBU,6,6/16/2020,Student,RDT,Pv,Indigenous,25
+2022,M,KWALA INDAH,8,8/29/2020,Employees,Microscope,Pmix,Indigenous,35
+2022,F,BAGAN DALAM,9,9/28/2020,Student,Microscope,Pf,Indigenous,40
+2022,M,TALI AIR PERMAI,9,9/10/2020,Housewife,RDT,Pv,Indigenous,37
+2022,M,LABUHAN RUKU,10,10/29/2020,Unemployed,Microscope,Pv,Indigenous,44
+2022,M,GUNTUNG,10,10/20/2020,Housewife,RDT,Pv,Indigenous,43
+2022,F,DAHARI SELEBAR,5,5/9/2020,Student,Microscope,Pmix,Indigenous,19
+2022,M,BOGAK,12,12/16/2020,Student,RDT,Pv,Indigenous,51
+2022,M,SUKA JAYA,6,6/1/2020,Student,RDT,Pv,Indigenous,23
+2022,F,PAHLAWAN,3,3/17/2020,Housewife,Microscope,Pv,Indigenous,12
+2022,M,KWALA INDAH,6,6/17/2020,Student,RDT,Pv,Indigenous,25
+2022,M,SENTANG,7,7/25/2020,Student,RDT,Pv,Indigenous,30
+2022,F,DAHARI SELEBAR,3,3/10/2020,Student,RDT,Pv,Indigenous,11
+2022,M,DAHARI SELEBAR,7,7/20/2020,Unemployed,RDT,Pv,Indigenous,30
+2022,M,KWALA GUNUNG,4,4/22/2020,Housewife,RDT,Pv,Indigenous,17
+2022,F,TALI AIR PERMAI,7,7/15/2020,Unemployed,RDT,Pv,Indigenous,29
+2022,M,TALI AIR PERMAI,11,11/25/2020,Petambak,RDT,Pv,Indigenous,48
+2022,F,TITI PAYUNG,9,9/28/2020,Student,RDT,Pv,Indigenous,40
+2022,F,TALI AIR PERMAI,7,7/9/2020,Student,RDT,Pmix,Indigenous,28
+2022,F,BAGAN DALAM,5,5/9/2020,Unemployed,RDT,Pv,Indigenous,19
+2022,F,TALI AIR PERMAI,3,3/7/2020,Housewife,RDT,Pmix,Indigenous,10
+2022,F,TITI PAYUNG,7,7/29/2020,Student,Microscope,Pv,Indigenous,31
+2022,F,KWALA GUNUNG,9,9/24/2020,Student,RDT,Pv,Indigenous,39
+2022,M,SUKA MAJU,7,7/7/2020,Housewife,Microscope,Pf,Indigenous,28
+2022,M,SUKA MAJU,9,9/19/2020,Unemployed,Microscope,Pf,Indigenous,38
+2022,F,KWALA INDAH,1,1/5/2020,Student,RDT,Pv,Indigenous,1
+2022,M,BANDAR SONO,4,4/2/2020,Housewife,RDT,Pv,Indigenous,14
+2022,M,PEMATANG RAMBAI,4,4/22/2020,Farmer,RDT,Pv,Indigenous,17
+2022,F,LABUHAN RUKU,5,5/12/2020,Fisherman,Microscope,Pmix,Indigenous,20
+2022,F,DAHARI SELEBAR,12,12/2/2020,Unemployed,Microscope,Pv,Indigenous,49
+2022,F,BAGAN DALAM,4,4/12/2020,Student,Microscope,Pv,Indigenous,15
+2022,F,Outside the PHC,9,9/11/2020,Student,RDT,Pv,Indigenous,37
+2022,F,BAGAN DALAM,6,6/18/2020,Housewife,Microscope,Pv,Indigenous,25
+2022,M,SUKA MAJU,7,7/24/2020,Student,Microscope,Pv,Indigenous,30
+2022,M,PEMATANG RAMBAI,8,8/8/2020,Student,RDT,Pv,Indigenous,32
+2022,M,TITI MERAH,6,6/11/2020,Unemployed,RDT,Pf,Indigenous,24
+2022,M,LABUHAN RUKU,9,9/22/2020,Student,Microscope,Pv,Indigenous,39
+2022,F,PERUPUK,7,7/11/2020,Student,Microscope,Pmix,Indigenous,28
+2022,F,TALI AIR PERMAI,11,11/11/2020,Student,Microscope,Pv,Indigenous,46
+2022,F,SUKA RAMAI,2,2/10/2020,Unemployed,RDT,Pv,Indigenous,7
+2022,F,DAHARI INDAH,12,12/12/2020,Student,RDT,Pv,Indigenous,50
+2022,F,PERUPUK,3,3/24/2020,Student,RDT,Pv,Indigenous,13
+2022,M,PERUPUK,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2022,M,UJUNG KUBU,12,12/6/2020,Student,RDT,Pv,Indigenous,49
+2022,M,SUKA RAMAI,9,9/28/2020,Unemployed,RDT,Pmix,Indigenous,40
+2022,F,DAHARI SELEBAR,1,1/9/2020,Traders,RDT,Pv,Indigenous,2
+2022,M,SENTANG,6,6/23/2020,Employees,RDT,Pmix,Indigenous,26
+2022,F,PERUPUK,4,4/12/2020,Fisherman,Microscope,Pv,Indigenous,15
+2022,M,SENTANG,11,11/3/2020,Housewife,RDT,Pf,Indigenous,45
+2022,M,GAMBUS LAUT,3,3/16/2020,Student,Microscope,Pmix,Indigenous,12
+2022,F,DAHARI INDAH,3,3/12/2020,Student,Microscope,Pv,Indigenous,11
+2022,M,BAGAN DALAM,9,9/24/2020,Fisherman,Microscope,Pv,Indigenous,39
+2022,F,PEMATANG CENGKRING,9,9/14/2020,Student,Microscope,Pv,Indigenous,38
+2022,F,Outside the PHC,7,7/30/2020,Student,Microscope,Pv,Indigenous,31
+2022,F,SENTANG,12,12/29/2020,Student,Microscope,Pf,Indigenous,53
+2022,F,GAMBUS LAUT,10,10/4/2020,Student,RDT,Pv,Indigenous,40
+2022,F,BAGAN BARU,5,5/15/2020,Traders,RDT,Pf,Indigenous,20
+2022,F,GAMBUS LAUT,9,9/22/2020,Fisherman,Microscope,Pf,Indigenous,39
+2022,F,UJUNG KUBU,1,1/16/2020,Fisherman,RDT,Pf,Indigenous,3
+2022,M,KWALA INDAH,6,6/18/2020,Student,RDT,Pv,Indigenous,25
+2022,M,PERUPUK,10,10/14/2020,Student,Microscope,Pv,Indigenous,42
+2022,M,KWALA INDAH,3,3/24/2020,Farmer,Microscope,Pv,Indigenous,13
+2022,M,KWALA INDAH,7,7/14/2020,Unemployed,Microscope,Pv,Indigenous,29
+2022,M,BAGAN DALAM,4,4/30/2020,Student,RDT,Pmix,Indigenous,18
+2022,M,Outside the PHC,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2022,M,UJUNG KUBU,8,8/12/2020,Student,RDT,Pv,Indigenous,33
+2022,M,SUKA RAMAI,7,7/9/2020,Unemployed,Microscope,Pv,Indigenous,28
+2022,M,SUKA JAYA,8,8/11/2020,Student,RDT,Pv,Indigenous,33
+2022,M,KWALA INDAH,3,3/26/2020,Student,RDT,Pv,Indigenous,13
+2022,M,GAMBUS LAUT,10,10/20/2020,Student,Microscope,Pv,Indigenous,43
+2022,M,KWALA INDAH,1,1/17/2020,Fisherman,RDT,Pv,Indigenous,3
+2022,F,SUKA JAYA,4,4/25/2020,Fisherman,RDT,Pv,Indigenous,17
+2022,F,PERUPUK,10,10/16/2020,Student,Microscope,Pv,Indigenous,42
+2022,F,SUKA JAYA,9,9/17/2020,Employees,Microscope,Pf,Indigenous,38
+2022,F,Outside the PHC,6,6/15/2020,Housewife,Microscope,Pv,Indigenous,25
+2022,F,KWALA INDAH,8,8/12/2020,Housewife,RDT,Pv,Indigenous,33
+2022,F,SENTANG,1,1/9/2020,Fisherman,RDT,Pv,Indigenous,2
+2022,M,UJUNG KUBU,11,11/18/2020,Housewife,RDT,Pv,Indigenous,47
+2022,M,PERUPUK,6,6/11/2020,Student,Microscope,Pmix,Indigenous,24
+2022,F,KWALA INDAH,10,10/8/2020,Fisherman,RDT,Pv,Indigenous,41
+2022,M,PERUPUK,12,12/15/2020,Fisherman,Microscope,Pv,Indigenous,51
+2022,M,SUKA MAJU,5,5/15/2020,Unemployed,Microscope,Pv,Indigenous,20
+2022,M,BAGAN DALAM,12,12/5/2020,Student,RDT,Pv,Indigenous,49
+2022,M,TITI PAYUNG,8,8/12/2020,Housewife,RDT,Pv,Indigenous,33
+2022,F,PEMATANG JERING,10,10/19/2020,Student,Microscope,Pv,Indigenous,43
+2022,M,DAHARI SELEBAR,5,5/5/2020,Student,Microscope,Pmix,Indigenous,19
+2022,M,PEMATANG RAMBAI,6,6/25/2020,Student,Microscope,Pv,Indigenous,26
+2022,F,KWALA INDAH,6,6/24/2020,Housewife,Microscope,Pv,Indigenous,26
+2022,M,SUKA JAYA,12,12/16/2020,Petambak,RDT,Pv,Indigenous,51
+2022,M,DAHARI INDAH,6,6/11/2020,Student,Microscope,Pmix,Indigenous,24
+2022,F,TALI AIR PERMAI,12,12/29/2020,Housewife,Microscope,Pmix,Indigenous,53
+2022,M,PERUPUK,10,10/20/2020,Student,RDT,Pv,Indigenous,43
+2022,F,SUKA RAMAI,9,9/23/2020,Student,Microscope,Pv,Indigenous,39
+2022,F,PADANG GENTING,6,6/15/2020,Fisherman,RDT,Pmix,Indigenous,25
+2022,M,KWALA GUNUNG,12,12/20/2020,Traders,RDT,Pmix,Indigenous,51
+2022,M,SUKA JAYA,11,11/10/2020,Student,Microscope,Pv,Indigenous,46
+2022,F,TALI AIR PERMAI,8,8/13/2020,Unemployed,Microscope,Pv,Indigenous,33
+2022,M,KWALA INDAH,1,1/4/2020,Fisherman,RDT,Pmix,Indigenous,1
+2022,F,Outside the PHC,4,4/23/2020,Student,RDT,Pv,Indigenous,17
+2022,F,LABUHAN RUKU,7,7/8/2020,Fisherman,Microscope,Pv,Indigenous,28
+2022,M,KWALA INDAH,1,1/5/2020,Farmer,Microscope,Pmix,Indigenous,1
+2022,F,BAGAN DALAM,2,2/25/2020,Student,RDT,Pf,Indigenous,9
+2022,F,PERUPUK,9,9/29/2020,Student,RDT,Pf,Indigenous,40
+2022,M,SUKA JAYA,7,7/28/2020,Employees,Microscope,Pmix,Indigenous,31
+2022,M,DAHARI SELEBAR,3,3/5/2020,Student,Microscope,Pv,Indigenous,10
+2022,F,KWALA INDAH,4,4/1/2020,Housewife,RDT,Pf,Indigenous,14
+2022,F,PERUPUK,1,1/27/2020,Student,RDT,Pf,Indigenous,5
+2022,M,SUKA JAYA,8,8/11/2020,Student,Microscope,Pv,Indigenous,33
+2022,M,UJUNG KUBU,7,7/15/2020,Housewife,RDT,Pv,Indigenous,29
+2022,F,BOGAK,10,10/15/2020,Student,RDT,Pv,Indigenous,42
+2022,F,SUKA MAJU,1,1/17/2020,Unemployed,RDT,Pmix,Indigenous,3
+2022,F,KWALA INDAH,12,12/12/2020,Student,RDT,Pv,Indigenous,50
+2022,F,SUKA RAMAI,7,7/11/2020,Student,Microscope,Pv,Indigenous,28
+2022,F,KWALA INDAH,9,9/2/2020,Student,RDT,Pv,Indigenous,36
+2022,M,Outside the PHC,6,6/16/2020,Student,Microscope,Pv,Indigenous,25
+2022,F,SUKA JAYA,10,10/14/2020,Unemployed,Microscope,Pv,Indigenous,42
+2022,F,PERUPUK,11,11/26/2020,Student,Microscope,Pv,Indigenous,48
+2022,M,BAGAN DALAM,2,2/20/2020,Student,Microscope,Pv,Indigenous,8
+2022,F,LALANG,9,9/17/2020,Student,RDT,Pv,Indigenous,38
+2022,F,GUNTUNG,6,6/17/2020,Student,Microscope,Pmix,Indigenous,25
+2022,M,PERUPUK,6,6/5/2020,Student,RDT,Pmix,Indigenous,23
+2022,M,PERUPUK,1,1/8/2020,Gardening,RDT,Pv,Indigenous,2
+2022,F,PERUPUK,7,7/9/2020,Student,RDT,Pv,Indigenous,28
+2022,M,DAHARI SELEBAR,7,7/24/2020,Student,RDT,Pv,Indigenous,30
+2022,M,BOGAK,11,11/28/2020,Student,RDT,Pv,Indigenous,48
+2022,M,PEMATANG RAMBAI,6,6/11/2020,Fisherman,Microscope,Pmix,Indigenous,24
+2022,M,SUKA MAJU,6,6/18/2020,Housewife,RDT,Pv,Indigenous,25
+2022,F,PEMATANG RAMBAI,3,3/12/2020,Unemployed,Microscope,Pv,Indigenous,11
+2022,F,KWALA INDAH,10,10/19/2020,Unemployed,RDT,Pv,Indigenous,43
+2022,M,SUKA RAMAI,9,9/9/2020,Employees,RDT,Pv,Indigenous,37
+2022,M,KWALA INDAH,10,10/4/2020,Fisherman,RDT,Pmix,Indigenous,40
+2022,F,PERUPUK,7,7/9/2020,Student,RDT,Pmix,Indigenous,28
+2022,F,Outside the PHC,10,10/6/2020,Unemployed,Microscope,Pv,Indigenous,41
+2022,F,GAMBUS LAUT,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2022,M,KWALA INDAH,10,10/5/2020,Student,RDT,Pmix,Indigenous,41
+2022,M,LIMA LARAS,9,9/1/2020,Unemployed,RDT,Pv,Indigenous,36
+2022,F,BAGAN DALAM,2,2/25/2020,Student,Microscope,Pmix,Indigenous,9
+2022,M,KWALA TANJUNG,11,11/28/2020,Student,RDT,Pv,Indigenous,48
+2022,F,KWALA INDAH,6,6/22/2020,Student,Microscope,Pf,Indigenous,26
+2022,F,KWALA INDAH,7,7/1/2020,Student,Microscope,Pv,Indigenous,27
+2022,M,TALI AIR PERMAI,6,6/25/2020,Student,RDT,Pv,Indigenous,26
+2022,M,TALI AIR PERMAI,7,7/27/2020,Student,Microscope,Pv,Indigenous,31
+2022,M,LABUHAN RUKU,7,7/13/2020,Student,RDT,Pv,Indigenous,29
+2022,M,UJUNG KUBU,6,6/8/2020,Student,RDT,Pf,Indigenous,24
+2022,M,GAMBUS LAUT,12,12/13/2020,Student,Microscope,Pmix,Indigenous,50
+2022,M,PERUPUK,3,3/17/2020,Student,RDT,Pf,Indigenous,12
+2022,M,UJUNG KUBU,6,6/23/2020,Housewife,Microscope,Pv,Indigenous,26
+2022,F,PERUPUK,10,10/5/2020,Fisherman,Microscope,Pv,Indigenous,41
+2022,M,PEMATANG PANJANG,3,3/16/2020,Traders,RDT,Pv,Indigenous,12
+2022,F,TALI AIR PERMAI,9,9/20/2020,Student,Microscope,Pmix,Indigenous,38
+2022,F,SUKA MAJU,5,5/15/2020,Student,Microscope,Pv,Indigenous,20
+2022,F,LABUHAN RUKU,2,2/13/2020,Housewife,RDT,Pv,Indigenous,7
+2022,F,KWALA INDAH,10,10/16/2020,Fisherman,Microscope,Pv,Indigenous,42
+2022,M,KWALA INDAH,10,10/13/2020,Student,RDT,Pv,Indigenous,42
+2022,F,UJUNG KUBU,8,8/3/2020,Student,Microscope,Pv,Indigenous,32
+2022,F,DAHARI INDAH,3,3/19/2020,Housewife,RDT,Pmix,Indigenous,12
+2022,M,SENTANG,6,6/8/2020,Student,RDT,Pv,Indigenous,24
+2022,F,UJUNG KUBU,9,9/1/2020,Student,Microscope,Pv,Indigenous,36
+2022,M,Outside the PHC,6,6/19/2020,Unemployed,Microscope,Pv,Indigenous,25
+2022,M,BAGAN BARU,3,3/11/2020,Traders,Microscope,Pmix,Indigenous,11
+2022,F,PERUPUK,4,4/11/2020,Student,RDT,Pv,Indigenous,15
+2022,F,TALI AIR PERMAI,9,9/16/2020,Traders,Microscope,Pv,Indigenous,38
+2022,M,BAGAN DALAM,9,9/8/2020,Unemployed,Microscope,Pv,Indigenous,37
+2022,F,BAGAN DALAM,7,7/30/2020,Student,RDT,Pv,Indigenous,31
+2022,M,PERUPUK,7,7/7/2020,Student,RDT,Pv,Indigenous,28
+2022,M,PADANG GENTING,4,4/12/2020,Housewife,Microscope,Pv,Indigenous,15
+2022,F,KAMPUNG LALANG,10,10/16/2020,Housewife,RDT,Pv,Indigenous,42
+2022,F,GUNTUNG,12,12/1/2020,Housewife,Microscope,Pv,Indigenous,49
+2022,M,SUKA JAYA,10,10/16/2020,Unemployed,RDT,Pv,Indigenous,42
+2022,M,GUNTUNG,11,11/20/2020,Student,Microscope,Pv,Indigenous,47
+2022,F,LALANG,10,10/24/2020,Student,Microscope,Pv,Indigenous,43
+2022,F,BAGAN DALAM,10,10/12/2020,Housewife,RDT,Pmix,Indigenous,42
+2022,M,PERUPUK,11,11/27/2020,Petambak,Microscope,Pv,Indigenous,48
+2022,M,UJUNG KUBU,9,9/1/2020,Unemployed,Microscope,Pv,Indigenous,36
+2022,M,GUNTUNG,7,7/7/2020,Fisherman,Microscope,Pv,Indigenous,28
+2022,M,TANJUNG MULIA,10,10/5/2020,Unemployed,Microscope,Pf,Indigenous,41
+2022,M,SENTANG,9,9/3/2020,Unemployed,Microscope,Pv,Indigenous,36
+2022,F,LALANG,5,5/15/2020,Student,RDT,Pv,Indigenous,20
+2022,M,PERUPUK,10,10/25/2020,Housewife,Microscope,Pv,Indigenous,43
+2022,M,UJUNG KUBU,5,5/21/2020,Student,RDT,Pv,Indigenous,21
+2022,F,KWALA INDAH,10,10/7/2020,Student,Microscope,Pv,Indigenous,41
+2022,M,LABUHAN RUKU,6,6/17/2020,Housewife,RDT,Pv,Indigenous,25
+2022,M,LIMA LARAS,6,6/15/2020,Unemployed,RDT,Pf,Indigenous,25
+2022,F,PERUPUK,11,11/30/2020,Student,Microscope,Pv,Indigenous,49
+2022,F,LIMA LARAS,11,11/4/2020,Student,RDT,Pv,Indigenous,45
+2022,F,KWALA INDAH,9,9/20/2020,Student,RDT,Pv,Indigenous,38
+2022,M,BANDAR RAHMAD,3,3/10/2020,Student,Microscope,Pv,Indigenous,11
+2022,M,BAGAN BARU,1,1/31/2020,Student,RDT,Pmix,Indigenous,5
+2022,M,TALI AIR PERMAI,5,5/1/2020,Student,Microscope,Pv,Indigenous,18
+2022,M,TALI AIR PERMAI,2,2/23/2020,Housewife,RDT,Pv,Indigenous,8
+2022,M,KWALA INDAH,9,9/25/2020,Traders,Microscope,Pmix,Indigenous,39
+2022,F,GAMBUS LAUT,9,9/22/2020,Unemployed,RDT,Pf,Indigenous,39
+2022,F,LIMA LARAS,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2022,M,GUNTUNG,10,10/20/2020,Student,Microscope,Pv,Indigenous,43
+2022,F,TANJUNG TIRAM,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2022,M,PERUPUK,1,1/30/2020,Petambak,RDT,Pmix,Indigenous,5
+2022,M,KWALA INDAH,12,12/13/2020,Unemployed,Microscope,Pv,Indigenous,50
+2022,M,TALI AIR PERMAI,9,9/22/2020,Student,Microscope,Pv,Indigenous,39
+2022,M,KWALA INDAH,3,3/13/2020,Fisherman,RDT,Pf,Indigenous,11
+2022,M,SENTANG,8,8/7/2020,Student,RDT,Pv,Indigenous,32
+2022,M,UJUNG KUBU,6,6/16/2020,Housewife,Microscope,Pf,Indigenous,25
+2022,M,PAHANG,8,8/23/2020,Housewife,RDT,Pv,Indigenous,34
+2022,F,BOGAK,11,11/11/2020,Housewife,RDT,Pv,Indigenous,46
+2022,M,SUKA JAYA,12,12/8/2020,Farmer,Microscope,Pf,Indigenous,50
+2022,M,TALI AIR PERMAI,1,1/29/2020,Housewife,Microscope,Pv,Indigenous,5
+2022,F,DAHARI SELEBAR,6,6/24/2020,Student,RDT,Pv,Indigenous,26
+2022,F,Outside the PHC,5,5/13/2020,Fisherman,Microscope,Pv,Indigenous,20
+2022,F,PAHLAWAN,4,4/24/2020,Unemployed,RDT,Pmix,Indigenous,17
+2022,M,PERUPUK,1,1/16/2020,Unemployed,RDT,Pf,Indigenous,3
+2022,M,Outside the PHC,8,8/12/2020,Student,Microscope,Pv,Indigenous,33
+2022,F,PERUPUK,7,7/15/2020,Student,Microscope,Pv,Indigenous,29
+2022,M,PAHLAWAN,12,12/2/2020,Unemployed,RDT,Pv,Indigenous,49
+2022,F,PERUPUK,4,4/14/2020,Housewife,Microscope,Pv,Indigenous,16
+2022,M,PERUPUK,10,10/2/2020,Student,RDT,Pf,Indigenous,40
+2022,F,GAMBUS LAUT,9,9/10/2020,Student,Microscope,Pv,Indigenous,37
+2022,F,UJUNG KUBU,2,2/29/2020,Unemployed,Microscope,Pmix,Indigenous,9
+2022,F,DAHARI SELEBAR,1,1/5/2020,Unemployed,RDT,Pf,Indigenous,1
+2022,M,KWALA TANJUNG,11,11/10/2020,Fisherman,Microscope,Pf,Indigenous,46
+2022,M,TALI AIR PERMAI,3,3/5/2020,Housewife,RDT,Pv,Indigenous,10
+2022,F,PERUPUK,8,8/22/2020,Student,Microscope,Pf,Indigenous,34
+2022,F,UJUNG KUBU,9,9/8/2020,Unemployed,RDT,Pv,Indigenous,37
+2022,M,TANJUNG MULIA,10,10/2/2020,Student,Microscope,Pv,Indigenous,40
+2022,F,PERUPUK,5,5/11/2020,Fisherman,RDT,Pv,Indigenous,20
+2022,M,GAMBUS LAUT,7,7/25/2020,Housewife,Microscope,Pmix,Indigenous,30
+2022,M,BULAN-BULAN,10,10/12/2020,Gardening,RDT,Pv,Indigenous,42
+2022,M,BAGAN DALAM,11,11/24/2020,Student,RDT,Pv,Indigenous,48
+2022,M,KWALA INDAH,10,10/8/2020,Student,Microscope,Pv,Indigenous,41
+2022,M,KWALA INDAH,6,6/25/2020,Student,Microscope,Pv,Indigenous,26
+2022,M,LABUHAN RUKU,6,6/30/2020,Employees,RDT,Pv,Indigenous,27
+2022,F,PEMATANG PANJANG,9,9/23/2020,Gardening,RDT,Pf,Indigenous,39
+2022,M,PASIR PERMIT,6,6/11/2020,Student,RDT,Pf,Indigenous,24
+2022,M,PERUPUK,6,6/15/2020,Petambak,RDT,Pv,Indigenous,25
+2022,F,BANDAR RAHMAD,5,5/26/2020,Unemployed,Microscope,Pf,Indigenous,22
+2022,M,TALI AIR PERMAI,6,6/3/2020,Student,RDT,Pv,Indigenous,23
+2022,F,BAGAN DALAM,7,7/3/2020,Unemployed,RDT,Pmix,Indigenous,27
+2022,M,KWALA INDAH,8,8/13/2020,Housewife,RDT,Pmix,Indigenous,33
+2022,M,BANDAR RAHMAD,10,10/24/2020,Unemployed,Microscope,Pmix,Indigenous,43
+2022,F,GUNTUNG,4,4/8/2020,Student,RDT,Pv,Indigenous,15
+2022,F,SUKA JAYA,9,9/8/2020,Student,RDT,Pmix,Indigenous,37
+2022,M,KWALA INDAH,6,6/26/2020,Unemployed,Microscope,Pv,Indigenous,26
+2022,M,KWALA INDAH,11,11/14/2020,Student,Microscope,Pf,Indigenous,46
+2022,M,KWALA INDAH,10,10/7/2020,Unemployed,RDT,Pv,Indigenous,41
+2022,M,TALI AIR PERMAI,8,8/3/2020,Unemployed,RDT,Pmix,Indigenous,32
+2022,M,LABUHAN RUKU,12,12/28/2020,Student,Microscope,Pmix,Indigenous,53
+2022,F,PAHLAWAN,3,3/16/2020,Student,RDT,Pv,Indigenous,12
+2022,F,GUNTUNG,10,10/2/2020,Student,RDT,Pmix,Indigenous,40
+2022,M,LIMAU SUNDAI,10,10/18/2020,Unemployed,Microscope,Pv,Indigenous,42
+2022,M,KWALA INDAH,11,11/24/2020,Fisherman,RDT,Pv,Indigenous,48
+2022,M,UJUNG KUBU,9,9/6/2020,Employees,Microscope,Pmix,Indigenous,36
+2022,M,TALI AIR PERMAI,6,6/12/2020,Housewife,Microscope,Pf,Indigenous,24
+2022,M,PERUPUK,6,6/22/2020,Unemployed,Microscope,Pv,Indigenous,26
+2022,M,UJUNG KUBU,6,6/17/2020,Unemployed,RDT,Pv,Indigenous,25
+2022,M,KWALA INDAH,3,3/5/2020,Housewife,Microscope,Pv,Indigenous,10
+2022,M,KWALA INDAH,9,9/25/2020,Student,Microscope,Pmix,Indigenous,39
+2022,M,PAHLAWAN,10,10/22/2020,Fisherman,Microscope,Pv,Indigenous,43
+2022,F,Outside the PHC,11,11/26/2020,Gardening,RDT,Pv,Indigenous,48
+2022,F,UJUNG KUBU,8,8/12/2020,Unemployed,RDT,Pv,Indigenous,33
+2022,M,SUKA RAMAI,9,9/5/2020,Student,RDT,Pv,Indigenous,36
+2022,M,BANDAR RAHMAD,4,4/11/2020,Student,RDT,Pv,Indigenous,15
+2022,M,TALI AIR PERMAI,9,9/21/2020,Student,RDT,Pf,Indigenous,39
+2022,M,LIMA LARAS,10,10/16/2020,Fisherman,RDT,Pmix,Indigenous,42
+2022,M,GUNTUNG,6,6/4/2020,Housewife,Microscope,Pv,Indigenous,23
+2022,M,GUNTUNG,4,4/22/2020,Student,RDT,Pv,Indigenous,17
+2022,M,DAHARI INDAH,6,6/8/2020,Student,Microscope,Pv,Indigenous,24
+2022,M,BAGAN BARU,12,12/12/2020,Student,RDT,Pv,Indigenous,50
+2022,M,KWALA INDAH,6,6/11/2020,Farmer,Microscope,Pmix,Indigenous,24
+2022,F,GUNTUNG,10,10/5/2020,Student,RDT,Pmix,Indigenous,41
+2022,M,SUKA MAJU,8,8/10/2020,Unemployed,Microscope,Pf,Indigenous,33
+2022,M,TALI AIR PERMAI,2,2/10/2020,Student,Microscope,Pv,Indigenous,7
+2022,M,SUKA MAJU,7,7/22/2020,Student,Microscope,Pv,Indigenous,30
+2022,M,KWALA INDAH,10,10/22/2020,Student,Microscope,Pv,Indigenous,43
+2022,M,UJUNG KUBU,10,10/26/2020,Student,Microscope,Pmix,Indigenous,44
+2022,F,SENTANG,8,8/12/2020,Fisherman,RDT,Pv,Indigenous,33
+2022,F,SENTANG,6,6/20/2020,Traders,Microscope,Pmix,Indigenous,25
+2022,F,TALI AIR PERMAI,6,6/15/2020,Student,RDT,Pv,Indigenous,25
+2022,M,Outside the PHC,9,9/11/2020,Student,RDT,Pv,Indigenous,37
+2022,F,PERUPUK,12,12/8/2020,Student,RDT,Pv,Indigenous,50
+2022,M,DAHARI SELEBAR,3,3/16/2020,Housewife,RDT,Pv,Indigenous,12
+2022,M,SENTANG,9,9/20/2020,Student,RDT,Pv,Indigenous,38
+2022,M,SUKA JAYA,10,10/5/2020,Student,RDT,Pv,Indigenous,41
+2022,M,TALI AIR PERMAI,5,5/14/2020,Student,Microscope,Pf,Indigenous,20
+2022,F,DAHARI SELEBAR,6,6/16/2020,Student,RDT,Pmix,Indigenous,25
+2022,M,GAMBUS LAUT,2,2/18/2020,Student,RDT,Pv,Indigenous,8
+2022,F,PASIR PERMIT,1,1/9/2020,Student,Microscope,Pv,Indigenous,2
+2022,M,SENTANG,11,11/3/2020,Housewife,Microscope,Pmix,Indigenous,45
+2022,F,KAMPUNG LALANG,7,7/11/2020,Student,Microscope,Pv,Indigenous,28
+2022,M,KWALA INDAH,12,12/7/2020,Housewife,Microscope,Pf,Indigenous,50
+2022,M,TALI AIR PERMAI,9,9/28/2020,Student,RDT,Pv,Indigenous,40
+2022,M,DAHARI INDAH,10,10/12/2020,Student,RDT,Pv,Indigenous,42
+2022,M,UJUNG KUBU,11,11/21/2020,Gardening,RDT,Pv,Indigenous,47
+2022,M,KWALA INDAH,2,2/25/2020,Unemployed,Microscope,Pv,Indigenous,9
+2022,F,GAMBUS LAUT,7,7/13/2020,Fisherman,Microscope,Pmix,Indigenous,29
+2022,F,SUKA MAJU,4,4/22/2020,Fisherman,RDT,Pv,Indigenous,17
+2022,F,SUKA MAJU,12,12/1/2020,Student,RDT,Pv,Indigenous,49
+2022,M,TALI AIR PERMAI,6,6/15/2020,Student,Microscope,Pmix,Indigenous,25
+2022,M,KWALA INDAH,8,8/30/2020,Fisherman,RDT,Pv,Indigenous,35
+2022,F,Outside the PHC,10,10/20/2020,Unemployed,RDT,Pv,Indigenous,43
+2022,M,UJUNG KUBU,1,1/5/2020,Farmer,RDT,Pv,Indigenous,1
+2022,F,DAHARI SELEBAR,7,7/13/2020,Fisherman,Microscope,Pmix,Indigenous,29
+2022,F,UJUNG KUBU,6,6/23/2020,Student,Microscope,Pv,Indigenous,26
+2022,F,PERUPUK,10,10/20/2020,Housewife,RDT,Pv,Indigenous,43
+2022,M,SUKA RAMAI,3,3/3/2020,Employees,RDT,Pv,Indigenous,10
+2022,M,PERUPUK,10,10/10/2020,Student,Microscope,Pv,Indigenous,41
+2022,F,GUNTUNG,9,9/29/2020,Student,RDT,Pv,Indigenous,40
+2022,M,GAMBUS LAUT,12,12/1/2020,Student,Microscope,Pmix,Indigenous,49
+2022,F,PERUPUK,2,2/17/2020,Student,RDT,Pv,Indigenous,8
+2022,F,GAMBUS LAUT,9,9/3/2020,Housewife,RDT,Pmix,Indigenous,36
+2022,F,LIMA LARAS,3,3/21/2020,Unemployed,Microscope,Pf,Indigenous,12
+2022,F,Outside the PHC,6,6/18/2020,Student,RDT,Pmix,Indigenous,25
+2022,F,TALI AIR PERMAI,5,5/5/2020,Farmer,Microscope,Pv,Indigenous,19
+2022,F,LIMA LARAS,12,12/7/2020,Unemployed,Microscope,Pmix,Indigenous,50
+2022,F,SUKA MAJU,1,1/24/2020,Student,RDT,Pv,Indigenous,4
+2022,F,TITI PUTIH,10,10/21/2020,Student,RDT,Pv,Indigenous,43
+2022,M,LABUHAN RUKU,11,11/16/2020,Student,Microscope,Pv,Indigenous,47
+2022,M,SUKA JAYA,9,9/9/2020,Student,RDT,Pv,Indigenous,37
+2022,F,PERUPUK,9,9/19/2020,Student,RDT,Pv,Indigenous,38
+2022,M,LABUHAN RUKU,8,8/8/2020,Unemployed,RDT,Pv,Indigenous,32
+2022,M,GAMBUS LAUT,8,8/1/2020,Unemployed,Microscope,Pv,Indigenous,31
+2022,M,BANDAR SONO,11,11/7/2020,Student,Microscope,Pv,Indigenous,45
+2022,F,BAGAN DALAM,6,6/15/2020,Fisherman,Microscope,Pv,Indigenous,25
+2022,M,SENTANG,10,10/29/2020,Student,RDT,Pmix,Indigenous,44
+2022,M,SUKA JAYA,2,2/10/2020,Housewife,RDT,Pv,Indigenous,7
+2022,M,SUKA JAYA,6,6/26/2020,Student,RDT,Pv,Indigenous,26
+2022,M,UJUNG KUBU,3,3/12/2020,Unemployed,RDT,Pv,Indigenous,11
+2022,M,PERUPUK,6,6/26/2020,Unemployed,RDT,Pmix,Indigenous,26
+2022,F,BAGAN ARYA,5,5/18/2020,Unemployed,RDT,Pv,Indigenous,21
+2022,F,LABUHAN RUKU,1,1/2/2020,Unemployed,RDT,Pf,Indigenous,1
+2022,M,PERUPUK,6,6/15/2020,Fisherman,Microscope,Pv,Indigenous,25
+2022,M,KWALA INDAH,9,9/23/2020,Unemployed,RDT,Pv,Indigenous,39
+2022,F,PEMATANG CENGKRING,9,9/22/2020,Student,RDT,Pmix,Indigenous,39
+2022,F,PASIR PERMIT,2,2/13/2020,Fisherman,Microscope,Pv,Indigenous,7
+2022,M,TANJUNG MULIA,9,9/28/2020,Farmer,Microscope,Pf,Indigenous,40
+2022,M,PERUPUK,12,12/12/2020,Student,Microscope,Pv,Indigenous,50
+2022,M,GAMBUS LAUT,9,9/21/2020,Student,Microscope,Pmix,Indigenous,39
+2022,M,PERUPUK,6,6/16/2020,Fisherman,RDT,Pv,Indigenous,25
+2022,F,PERUPUK,1,1/8/2020,Student,RDT,Pmix,Indigenous,2
+2022,F,UJUNG KUBU,12,12/30/2020,Unemployed,RDT,Pf,Indigenous,53
+2022,F,DAHARI SELEBAR,11,11/11/2020,Student,RDT,Pmix,Indigenous,46
+2022,F,PERUPUK,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2022,F,LABUHAN RUKU,11,11/18/2020,Student,RDT,Pv,Indigenous,47
+2022,F,SUKA JAYA,2,2/25/2020,Fisherman,Microscope,Pf,Indigenous,9
+2022,M,TANJUNG TIRAM,5,5/11/2020,Student,RDT,Pv,Indigenous,20
+2022,M,BAGAN DALAM,6,6/15/2020,Fisherman,Microscope,Pv,Indigenous,25
+2022,F,PERUPUK,10,10/26/2020,Student,Microscope,Pmix,Indigenous,44
+2022,F,GUNTUNG,11,11/12/2020,Farmer,Microscope,Pmix,Indigenous,46
+2022,M,SENTANG,2,2/18/2020,Student,RDT,Pv,Indigenous,8
+2022,F,SENTANG,1,1/4/2020,Fisherman,Microscope,Pv,Indigenous,1
+2022,F,PERUPUK,9,9/3/2020,Student,RDT,Pv,Indigenous,36
+2022,F,PAHANG,11,11/19/2020,Student,RDT,Pv,Indigenous,47
+2022,M,UJUNG KUBU,6,6/14/2020,Student,Microscope,Pmix,Indigenous,24
+2022,M,TANJUNG HARAPAN,10,10/10/2020,Housewife,Microscope,Pv,Indigenous,41
+2022,M,LIMA LARAS,6,6/20/2020,Student,RDT,Pv,Indigenous,25
+2022,M,GAMBUS LAUT,10,10/22/2020,Housewife,RDT,Pv,Indigenous,43
+2022,M,BAGAN DALAM,10,10/20/2020,Farmer,Microscope,Pf,Indigenous,43
+2022,M,SUKA MAJU,9,9/8/2020,Unemployed,Microscope,Pv,Indigenous,37
+2022,M,UJUNG KUBU,5,5/17/2020,Student,RDT,Pv,Indigenous,20
+2022,F,TANJUNG HARAPAN,3,3/18/2020,Student,Microscope,Pv,Indigenous,12
+2022,F,DAHARI INDAH,2,2/25/2020,Housewife,RDT,Pv,Indigenous,9
+2022,F,SUKA RAMAI,10,10/25/2020,Housewife,RDT,Pv,Indigenous,43
+2022,F,SUKA MAJU,12,12/6/2020,Farmer,Microscope,Pv,Indigenous,49
+2022,F,BAGAN DALAM,7,7/25/2020,Student,RDT,Pv,Indigenous,30
+2022,M,SUKA MAJU,11,11/19/2020,Student,RDT,Pf,Indigenous,47
+2022,M,GAMBUS LAUT,11,11/25/2020,Fisherman,RDT,Pv,Indigenous,48
+2022,F,KWALA INDAH,1,1/16/2020,Student,RDT,Pv,Indigenous,3
+2022,F,KWALA INDAH,11,11/27/2020,Student,Microscope,Pv,Indigenous,48
+2022,M,DAHARI SELEBAR,4,4/22/2020,Student,Microscope,Pv,Indigenous,17
+2022,F,KWALA GUNUNG,12,12/13/2020,Student,RDT,Pv,Indigenous,50
+2022,M,PAKAM RAYA,7,7/29/2020,Student,RDT,Pv,Indigenous,31
+2022,M,GUNTUNG,1,1/5/2020,Student,Microscope,Pv,Indigenous,1
+2022,M,Outside the PHC,5,5/13/2020,Traders,Microscope,Pv,Indigenous,20
+2022,M,BAGAN DALAM,5,5/15/2020,Fisherman,Microscope,Pv,Indigenous,20
+2022,F,KWALA INDAH,12,12/2/2020,Student,RDT,Pv,Indigenous,49
+2022,M,KWALA INDAH,9,9/3/2020,Student,Microscope,Pv,Indigenous,36
+2022,M,LIMA LARAS,2,2/20/2020,Student,Microscope,Pv,Indigenous,8
+2022,F,PERUPUK,12,12/11/2020,Student,Microscope,Pf,Indigenous,50
+2022,M,SUKA MAJU,12,12/6/2020,Unemployed,RDT,Pv,Indigenous,49
+2022,F,TALI AIR PERMAI,6,6/15/2020,Student,Microscope,Pv,Indigenous,25
+2022,F,GAMBUS LAUT,8,8/30/2020,Unemployed,RDT,Pv,Indigenous,35
+2022,M,UJUNG KUBU,11,11/9/2020,Housewife,RDT,Pv,Indigenous,46
+2022,F,TALI AIR PERMAI,12,12/1/2020,Employees,Microscope,Pf,Indigenous,49
+2022,M,GAMBUS LAUT,6,6/17/2020,Housewife,RDT,Pmix,Indigenous,25
+2022,M,GUNTUNG,12,12/12/2020,Student,RDT,Pv,Indigenous,50
+2022,M,KWALA INDAH,12,12/10/2020,Petambak,RDT,Pv,Indigenous,50
+2022,M,PERUPUK,9,9/5/2020,Employees,Microscope,Pv,Indigenous,36
+2022,F,BANDAR RAHMAD,10,10/22/2020,Petambak,RDT,Pv,Indigenous,43
+2022,M,KWALA INDAH,11,11/26/2020,Student,RDT,Pv,Indigenous,48
+2022,F,PERUPUK,9,9/17/2020,Farmer,RDT,Pmix,Indigenous,38
+2022,M,TALI AIR PERMAI,2,2/20/2020,Student,Microscope,Pv,Indigenous,8
+2022,M,PAKAM RAYA,9,9/23/2020,Student,RDT,Pv,Indigenous,39
+2022,M,UJUNG KUBU,3,3/10/2020,Fisherman,Microscope,Pf,Indigenous,11
